@@ -468,8 +468,8 @@
           "files": [
             {
               "hashes": {
-                "sha1": "2f4514d1980c735bde499bc25760fae45f44448e",
-                "sha512": "183d5f1ed0746b2c94f31944945f4c7396c836de942b416d53feef7e3dbe7d05bdd33a6ab6199e38147a7316a81417f44e9cee770494c051a9d38d2d4d2b92a5"
+                "sha512": "183d5f1ed0746b2c94f31944945f4c7396c836de942b416d53feef7e3dbe7d05bdd33a6ab6199e38147a7316a81417f44e9cee770494c051a9d38d2d4d2b92a5",
+                "sha1": "2f4514d1980c735bde499bc25760fae45f44448e"
               },
               "url": "https://cdn.modrinth.com/data/voWgQoWV/versions/VtoPSyMI/launchpad-1.9.2%2B26.1.2-full.jar",
               "filename": "launchpad-1.9.2+26.1.2-full.jar",
@@ -1655,8 +1655,8 @@
           "files": [
             {
               "hashes": {
-                "sha1": "b55b649fb209122297c16f6f7b76dd7ec84f5d1a",
-                "sha512": "ce84e969abfa0690bd23ffa00dedfdd9e6f6527445b7511a34e1e024063ce2493b8a99d01200b9e4f3854f12f3d29c848c999fe070cc4452c6f95adc59ae4644"
+                "sha512": "ce84e969abfa0690bd23ffa00dedfdd9e6f6527445b7511a34e1e024063ce2493b8a99d01200b9e4f3854f12f3d29c848c999fe070cc4452c6f95adc59ae4644",
+                "sha1": "b55b649fb209122297c16f6f7b76dd7ec84f5d1a"
               },
               "url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/hGQUSqpt/ConnectorExtras-2.0.2%2B26.1.2.jar",
               "filename": "ConnectorExtras-2.0.2+26.1.2.jar",
@@ -1674,6 +1674,10 @@
               "dependency_type": "optional"
             },
             {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            },
+            {
               "project_id": "kkmrDlKT",
               "dependency_type": "optional"
             },
@@ -1683,10 +1687,6 @@
             },
             {
               "project_id": "ohNO6lps",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "u6dRKJwZ",
               "dependency_type": "optional"
             }
           ],
@@ -2177,8 +2177,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "020927251342a5f73363fbf8312c4e7219c24fd3021190b2387eeb1472ac16b3291b14d19ce3d4e4063c6d5f24a1b92a21b9ce290359af22e40dd4ff14597e9e",
-                "sha1": "e171c7b91ab9ab3b0f7b63aa5b0337f578588b5c"
+                "sha1": "e171c7b91ab9ab3b0f7b63aa5b0337f578588b5c",
+                "sha512": "020927251342a5f73363fbf8312c4e7219c24fd3021190b2387eeb1472ac16b3291b14d19ce3d4e4063c6d5f24a1b92a21b9ce290359af22e40dd4ff14597e9e"
               },
               "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/Vd1fgVcT/MouseTweaks-neoforge-mc26.1-2.31.jar",
               "filename": "MouseTweaks-neoforge-mc26.1-2.31.jar",
@@ -2197,8 +2197,8 @@
             },
             {
               "hashes": {
-                "sha512": "0bf44c819dea002b525ed600a505cc02ed09186c9860583d99eb93f9059bec8d55e9664e023aecfff9bc6e3b2933a54dea9f991d17b1b2a6465c227e78ae3462",
-                "sha1": "575c52461cd1da981186515f8da757dd00d27016"
+                "sha1": "575c52461cd1da981186515f8da757dd00d27016",
+                "sha512": "0bf44c819dea002b525ed600a505cc02ed09186c9860583d99eb93f9059bec8d55e9664e023aecfff9bc6e3b2933a54dea9f991d17b1b2a6465c227e78ae3462"
               },
               "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/Vd1fgVcT/MouseTweaks-neoforge-mc26.1-2.31-src.jar",
               "filename": "MouseTweaks-neoforge-mc26.1-2.31-src.jar",
@@ -2463,8 +2463,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "3e521867166f05ae78f469fdcc531ab2736fa582729008a7132e2795082ae946975312a2f780e0bf774c3c993ac1ff20f2aad24f6b4043ab6114a0b6848e7254",
-                "sha1": "334500dd0c94a552005a432114fae32fe6c518fc"
+                "sha1": "334500dd0c94a552005a432114fae32fe6c518fc",
+                "sha512": "3e521867166f05ae78f469fdcc531ab2736fa582729008a7132e2795082ae946975312a2f780e0bf774c3c993ac1ff20f2aad24f6b4043ab6114a0b6848e7254"
               },
               "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/j7EoxpYe/modernfix-neoforge-5.27.22%2Bmc26.1.2.jar",
               "filename": "modernfix-neoforge-5.27.22+mc26.1.2.jar",
@@ -2942,8 +2942,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "0efac965f0904f2ff092b38a1b0a6c8b61e0c826b16cca10a2ba6886600543ac4da86ce70443acaa40b4487473c6cf0943cafd0f5c1c1c50ae789cbc01304ee2",
-                "sha1": "1733d2af5cc00ff2eef566666a29ec5bfdca7407"
+                "sha1": "1733d2af5cc00ff2eef566666a29ec5bfdca7407",
+                "sha512": "0efac965f0904f2ff092b38a1b0a6c8b61e0c826b16cca10a2ba6886600543ac4da86ce70443acaa40b4487473c6cf0943cafd0f5c1c1c50ae789cbc01304ee2"
               },
               "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/OGi2qTkh/Searchables-neoforge-26.1.2-1.0.2.jar",
               "filename": "Searchables-neoforge-26.1.2-1.0.2.jar",
@@ -3168,8 +3168,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "6f9c1387a996206d4f4f33e1503703e38466d4867e2151b883160ca46f5cdae8cf6880402bd643623110f14b9e91119d59dbf332966d7bd7ea7af8f4e593f299",
-                "sha1": "772642016951359ead4d26457bf7425c8e9f323a"
+                "sha1": "772642016951359ead4d26457bf7425c8e9f323a",
+                "sha512": "6f9c1387a996206d4f4f33e1503703e38466d4867e2151b883160ca46f5cdae8cf6880402bd643623110f14b9e91119d59dbf332966d7bd7ea7af8f4e593f299"
               },
               "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/PXjsU1RU/Controlling-neoforge-26.1.2-26.1.2.4.jar",
               "filename": "Controlling-neoforge-26.1.2-26.1.2.4.jar",
@@ -3688,8 +3688,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "3c4e0110bc3babd2302fc9dbb192d28adf3e6a5cb3a26b644d56cf27644bb9f00a82fbf640f77a54ab1be8d7fed9e032462bd7b5f1164dd704c42e6b2d84ba4f",
-                "sha1": "e771e27d56de2bbc80a8702ed9111dd615543e1d"
+                "sha1": "e771e27d56de2bbc80a8702ed9111dd615543e1d",
+                "sha512": "3c4e0110bc3babd2302fc9dbb192d28adf3e6a5cb3a26b644d56cf27644bb9f00a82fbf640f77a54ab1be8d7fed9e032462bd7b5f1164dd704c42e6b2d84ba4f"
               },
               "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Hf1Foc0b/sodium-neoforge-0.9.2-beta.1%2Bmc26.1.2.jar",
               "filename": "sodium-neoforge-0.9.2-beta.1+mc26.1.2.jar",
@@ -3947,8 +3947,8 @@
           "files": [
             {
               "hashes": {
-                "sha1": "de90da5cefea67e6781e0bc3f3908752368e1dcf",
-                "sha512": "b6c04d8dfe7541aac9fbe78555a253dbbeac9e560fffc851bce65c2b980910c855824315612e47b316cb279d0405d3f67a775f8b239432f13bd50b16cdd9a6de"
+                "sha512": "b6c04d8dfe7541aac9fbe78555a253dbbeac9e560fffc851bce65c2b980910c855824315612e47b316cb279d0405d3f67a775f8b239432f13bd50b16cdd9a6de",
+                "sha1": "de90da5cefea67e6781e0bc3f3908752368e1dcf"
               },
               "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/FzfKD3xX/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar",
               "filename": "PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar",
@@ -4584,14 +4584,14 @@
           "discord_url": "https://discord.gg/jQJnav2jPu",
           "donation_urls": [
             {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/ims21"
-            },
-            {
               "id": "other",
               "platform": "Other",
               "url": "https://www.rainbowrailroad.org/"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/ims21"
             }
           ],
           "gallery": [
@@ -4893,11 +4893,11 @@
           ],
           "dependencies": [
             {
-              "project_id": "9s6osm5g",
+              "project_id": "9eGKb6K1",
               "dependency_type": "optional"
             },
             {
-              "project_id": "9eGKb6K1",
+              "project_id": "9s6osm5g",
               "dependency_type": "optional"
             }
           ],
@@ -5429,14 +5429,14 @@
           "discord_url": "https://discord.gg/5N45SAsC3X",
           "donation_urls": [
             {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/SpacEagle17"
-            },
-            {
               "id": "ko-fi",
               "platform": "Ko-fi",
               "url": "https://ko-fi.com/spaceagle17"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/SpacEagle17"
             }
           ],
           "gallery": [
@@ -5660,8 +5660,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "969a2505cce802680569a9d35462b080b1678d9c28b0d51f245ade85c3a973697f30ad3222a6725a911e05af16a63be609c1d9e66b70a7bf6ce43c3cf53ec778",
-                "sha1": "d728a26bd67b70dfc510fbb08def619ec015c998"
+                "sha1": "d728a26bd67b70dfc510fbb08def619ec015c998",
+                "sha512": "969a2505cce802680569a9d35462b080b1678d9c28b0d51f245ade85c3a973697f30ad3222a6725a911e05af16a63be609c1d9e66b70a7bf6ce43c3cf53ec778"
               },
               "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/iOPYchp8/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar",
               "filename": "EuphoriaPatcher-1.10.0-r5.9-neoforge.jar",
@@ -6343,8 +6343,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "26020f4d9555eaf8733526dc24ba97c7d1f55c0a4a8b16b9d12fe6b1bf168d5e171e9dba10deb73cbefc71a6adb94a772c785e1b19f90666e52f0f72da6a2ff6",
-                "sha1": "4771c7950131f4be684ca286656632f554f36fa5"
+                "sha1": "4771c7950131f4be684ca286656632f554f36fa5",
+                "sha512": "26020f4d9555eaf8733526dc24ba97c7d1f55c0a4a8b16b9d12fe6b1bf168d5e171e9dba10deb73cbefc71a6adb94a772c785e1b19f90666e52f0f72da6a2ff6"
               },
               "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/eZ0KJiEA/lithium-neoforge-0.24.7%2Bmc26.1.2.jar",
               "filename": "lithium-neoforge-0.24.7+mc26.1.2.jar",
@@ -7590,8 +7590,8 @@
             },
             {
               "hashes": {
-                "sha1": "09db57b7b3e7711d6f6c50f9b93099099e456470",
-                "sha512": "39bc936eb357940b583ce1b355cb292ba4767c41dd2a10d3616e4bd596d4480f8c4e2f507e4c1e5793814e475cf2129d989ea190c774bf8127c2b9427319c657"
+                "sha512": "39bc936eb357940b583ce1b355cb292ba4767c41dd2a10d3616e4bd596d4480f8c4e2f507e4c1e5793814e475cf2129d989ea190c774bf8127c2b9427319c657",
+                "sha1": "09db57b7b3e7711d6f6c50f9b93099099e456470"
               },
               "url": "https://cdn.modrinth.com/data/DfxVkOAO/versions/4tD6MEQ3/ApothicSpawners-26.1.2-2.0.1-sources.jar",
               "filename": "ApothicSpawners-26.1.2-2.0.1-sources.jar",
@@ -8008,8 +8008,8 @@
             },
             {
               "hashes": {
-                "sha1": "51a939fea69a5e525ea3fc3d7e42c40b73f12f2d",
-                "sha512": "e2f620ae461486b916879d8124c4101dc3bf30efd6180e6cd3eb431b72d6d79ecf36849f0486e2aee50f4ca11a52634b2f0bc4d2aab2a54d6f3b8826a5bc4ce0"
+                "sha512": "e2f620ae461486b916879d8124c4101dc3bf30efd6180e6cd3eb431b72d6d79ecf36849f0486e2aee50f4ca11a52634b2f0bc4d2aab2a54d6f3b8826a5bc4ce0",
+                "sha1": "51a939fea69a5e525ea3fc3d7e42c40b73f12f2d"
               },
               "url": "https://cdn.modrinth.com/data/rqFWfVlz/versions/WWZT1bEI/Apotheosis-26.1.2-9.0.3-sources.jar",
               "filename": "Apotheosis-26.1.2-9.0.3-sources.jar",
@@ -8029,27 +8029,11 @@
           ],
           "dependencies": [
             {
-              "project_id": "mH8wdmqr",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "nvQzSEkH",
-              "dependency_type": "optional"
-            },
-            {
               "project_id": "pL8MtgqY",
               "dependency_type": "required"
             },
             {
-              "project_id": "DfxVkOAO",
-              "dependency_type": "required"
-            },
-            {
-              "project_id": "DGaH8Rh0",
-              "dependency_type": "required"
-            },
-            {
-              "project_id": "nU0bVIaL",
+              "project_id": "tCkE8p2N",
               "dependency_type": "required"
             },
             {
@@ -8057,12 +8041,28 @@
               "dependency_type": "optional"
             },
             {
-              "project_id": "tCkE8p2N",
+              "project_id": "nvQzSEkH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "DfxVkOAO",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "nU0bVIaL",
               "dependency_type": "required"
             },
             {
               "project_id": "UVtY3ZAC",
               "dependency_type": "optional"
+            },
+            {
+              "project_id": "mH8wdmqr",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "DGaH8Rh0",
+              "dependency_type": "required"
             }
           ],
           "game_versions": [
@@ -8649,8 +8649,8 @@
           "files": [
             {
               "hashes": {
-                "sha1": "3c9fa6e3dd9bff4c71eb8d9f70f0242565c7651d",
-                "sha512": "5ff68b076a0f288d3e03d8f87bb9dd91596c1ad8d132bf353b61a4a93937ba67dc3d8741ba2a9b7dbb3ae24cc54abdce581c91428963c4ce610a50bf4611f7bb"
+                "sha512": "5ff68b076a0f288d3e03d8f87bb9dd91596c1ad8d132bf353b61a4a93937ba67dc3d8741ba2a9b7dbb3ae24cc54abdce581c91428963c4ce610a50bf4611f7bb",
+                "sha1": "3c9fa6e3dd9bff4c71eb8d9f70f0242565c7651d"
               },
               "url": "https://cdn.modrinth.com/data/h2jXvxNR/versions/8Mw66pt7/starcatcher-3.1.2-PREVIEW-NEOFORGE-26.1.2.jar",
               "filename": "starcatcher-3.1.2-PREVIEW-NEOFORGE-26.1.2.jar",
@@ -9542,8 +9542,8 @@
           "files": [
             {
               "hashes": {
-                "sha1": "6c13f1af426a69738d152f0db188420d73c18621",
-                "sha512": "39be369435689d00ebcc0ab1e3dafdeddb01dd1842adedbd779b759395bc78a6daecc48b84e2627f8e74951c761aefab063cfefb746a4487f4879691a5236130"
+                "sha512": "39be369435689d00ebcc0ab1e3dafdeddb01dd1842adedbd779b759395bc78a6daecc48b84e2627f8e74951c761aefab063cfefb746a4487f4879691a5236130",
+                "sha1": "6c13f1af426a69738d152f0db188420d73c18621"
               },
               "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/tBAdXL1H/JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar",
               "filename": "JustEnoughResources-NeoForge-26.1.2-1.10.1.40.jar",
@@ -10054,8 +10054,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "26a091562face684db2387f6d8c5deb9ff2fbdc01d05ea9627b37efb49bb824c56d31c48e5d84541d9b351a2bf753feae572369da240db0ad7cd941e5ee07a88",
-                "sha1": "48284fcacb90dbc739d257e26fe3cc4b501e3b8d"
+                "sha1": "48284fcacb90dbc739d257e26fe3cc4b501e3b8d",
+                "sha512": "26a091562face684db2387f6d8c5deb9ff2fbdc01d05ea9627b37efb49bb824c56d31c48e5d84541d9b351a2bf753feae572369da240db0ad7cd941e5ee07a88"
               },
               "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/Lf0ODGD6/xercapaint-neoforge-26.1.2-1.0.0.jar",
               "filename": "xercapaint-neoforge-26.1.2-1.0.0.jar",
@@ -10347,8 +10347,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "e409e88b8af552d381645fb1f6712cbb19d12168eebedde316ddeedc7d470a926ed1677747b9b8ef61145355167495fc92c2c1347fa40ecc87e6ece2d802f447",
-                "sha1": "c707389500668dc2b6971c41d5e93cb1c16359e9"
+                "sha1": "c707389500668dc2b6971c41d5e93cb1c16359e9",
+                "sha512": "e409e88b8af552d381645fb1f6712cbb19d12168eebedde316ddeedc7d470a926ed1677747b9b8ef61145355167495fc92c2c1347fa40ecc87e6ece2d802f447"
               },
               "url": "https://cdn.modrinth.com/data/eo0oheIy/versions/7XAByv4o/seamlesstrading-neoforge-26.1-1.3.0.jar",
               "filename": "seamlesstrading-neoforge-26.1-1.3.0.jar",
@@ -11457,8 +11457,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "081b5d1543afd2ef78905f27bd78aee9fb4f9150c62ad759f2f842705ae27d35fef221c076506d666d0fc9714c522df58e18179b2f9ff303a94268de07de5c90",
-                "sha1": "3dfb655460e8361ee007f4a74b236ab9518d54de"
+                "sha1": "3dfb655460e8361ee007f4a74b236ab9518d54de",
+                "sha512": "081b5d1543afd2ef78905f27bd78aee9fb4f9150c62ad759f2f842705ae27d35fef221c076506d666d0fc9714c522df58e18179b2f9ff303a94268de07de5c90"
               },
               "url": "https://cdn.modrinth.com/data/1pigpywM/versions/GIUswpbu/denseores-neoforge-1.4.1.jar",
               "filename": "denseores-neoforge-1.4.1.jar",
@@ -12101,18 +12101,6 @@
           "summary": "View Items and Recipes",
           "categories": [
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -12123,6 +12111,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -12130,7 +12130,7 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2026-09-06T06:42:38.48Z",
+          "dateModified": "2026-09-06T08:31:19.023Z",
           "dateCreated": "2015-11-23T23:00:41.923Z",
           "dateReleased": "2026-09-05T16:45:32.287Z",
           "links": {
@@ -12287,7 +12287,7 @@
           "description": "View Items and Recipes",
           "body": "# Just Enough Items\nJEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n\n![JEI Recipe GUI](https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png)\n\n## Controls\n\n### Inventory:\n*(Minecraft Options -> Controls)*\n\nShow **R**ecipes: *Hover over item + R*  \nShow **U**ses: *Hover over item + U*  \nToggle Item List **O**verlay: *Control + O*  \n\n### Item List:\nShow Recipes: *Click Item or type R*  \nShow Uses: *Right-Click Item or type U*  \nNext/Previous page: *Scroll Wheel*  \n\n### Search:\nSelect Search Bar: *Click or Control + F*  \nClear Search: *Right Click*  \nPrevious Search: *Up Arrow * \nSearch by Mod Name: *Type @ in front of a word (@thaum)*  \nMultiple terms work together *(wand @thaum)*  \n\nExclude search terms: *Type - in front of a word (@thaum -wand)*  \n\nSearch terms that have spaces in them: *Type \"\" around the words (\"two words\")*\n\n### Recipe View:\nNext/Previous page: *Scroll Wheel*  \nShow all Recipes: *Click the recipe category's name*  \nMove items into crafting area: *Click the [+] button. Shift-Click to move multiple sets of items.*  \n\n<details>\n<summary>View advanced controls</summary>\n\n### Advanced Search:\nSearch by Tooltip Only: *Type # in front of a word*  \nSearch by OreDict name: *Type $ in front of a word*  \nSearch by Creative Tab: *Type % in front of a word*  \nMultiple Searches: *Separate terms with | characters, like \"wrench|hammer\"*  \n\n### With Cheat Mode Active:\nGet a full stack of Items: *Click Item*  \nGet one Item: *Right-Click Item*  \nDelete Item: *Drop an Item into the Item List*  \n\n### With Item List Edit Mode Active: \n*(These controls are shown in-game on the item tooltip)*\n\nHide Item: *Control-Click Item*  \nHide Items and Sub-Items: *Control-Right-Click Item*  \nHide all Items from a mod: *Control-Shift-Click Item*\n\n</details>\n\n## FAQ\n### Can I include JEI in my mod pack?\nOf course!\n\n### Can JEI run client-only, or with a vanilla server?\n[1.21.1 or lower] Yes, with some features disabled:\n- The \"Move items into crafting area\" [+] buttons.\n- Cheating in items that have lots of NBT data.\n- Deleting items.\n\n[1.21.2+] Since Minecraft 1.21.2, recipes are stored on the server and not the client. Please install JEI and NeoForge/Fabric on the server to sync recipes to the client.\n\n### Where can I find the ___ feature from NEI?\n\n[The chart here shows which mods support each feature.](https://docs.google.com/spreadsheets/d/1NEWZjKvWB-SibY1BXc1zoYkK7AhjMMBZess9wMy--6w/edit#gid=0)\n\n### I have an issue / bug / crash / report / request, where can I send it?\n[JEI Github Issues Page](https://github.com/mezz/JustEnoughItems/issues)\n\n## Support\n[Become a patron on Patreon](https://www.patreon.com/mezz)",
           "published": "2023-01-27T05:19:03.821699Z",
-          "updated": "2026-09-05T16:41:40.551849Z",
+          "updated": "2026-09-06T08:30:56.463334Z",
           "status": "approved",
           "license": {
             "id": "MIT",
@@ -12380,8 +12380,8 @@
           "files": [
             {
               "hashes": {
-                "sha512": "a4e9da5780d3a15c65b18449724e219faf4d8c2512c3165d4abb059acaffc1184be569c27c15aa00a6a0f2194379f9806dea3e99fba33692c30c429922b59efd",
-                "sha1": "a0a70d91d85e1570ffccd60af408f69610770e84"
+                "sha1": "a0a70d91d85e1570ffccd60af408f69610770e84",
+                "sha512": "a4e9da5780d3a15c65b18449724e219faf4d8c2512c3165d4abb059acaffc1184be569c27c15aa00a6a0f2194379f9806dea3e99fba33692c30c429922b59efd"
               },
               "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Hv7tDeXT/jei-26.1.2-neoforge-29.35.0.95.jar",
               "filename": "jei-26.1.2-neoforge-29.35.0.95.jar",
