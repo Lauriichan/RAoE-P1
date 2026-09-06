@@ -1,4 +1,4 @@
-# RAoE P1 v26.1.2 (MC: 26.1.2)
+# RAoE P1 v1.0.0 (MC: 26.1.2)
 A Random Assortment of Mods for 26.1.2
 ## Mods
 - 3D Skin Layers ([Modrinth](https://modrinth.com/mod/3dskinlayers) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)) [1.11.2]
