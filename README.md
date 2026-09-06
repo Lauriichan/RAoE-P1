@@ -10,7 +10,6 @@ A Random Assortment of Mods for 26.1.2
 - Clumps ([Modrinth](https://modrinth.com/mod/clumps) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)) [26.1.2.1]
 - Common Capabilities ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities))
 - Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
-- Connector Extras ([Modrinth](https://modrinth.com/mod/connector-extras) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connector-extras)) [2.0.2+26.1.2]
 - Controlling ([Modrinth](https://modrinth.com/mod/controlling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)) [26.1.2.4]
 - Cyclops Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
 - Dense Ores ([Modrinth](https://modrinth.com/mod/dense-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dense-ores-abundant)) [1.4.1-neoforge]
@@ -19,7 +18,6 @@ A Random Assortment of Mods for 26.1.2
 - Extreme sound muffler ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [4.02-ALPHA-26.1.2]
 - Fabric Language Kotlin ([Modrinth](https://modrinth.com/mod/fabric-language-kotlin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)) [1.13.13+kotlin.2.4.10]
 - FerriteCore ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [9.0.0-neoforge]
-- Forgified Fabric API ([Modrinth](https://modrinth.com/mod/forgified-fabric-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api)) [0.155.2+26.1.2+3.5.5]
 - Geophilic ([Modrinth](https://modrinth.com/mod/geophilic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geophilic)) [3.6]
 - Integrated Crafting ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting))
 - Integrated Dynamics ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics))
@@ -27,11 +25,9 @@ A Random Assortment of Mods for 26.1.2
 - Integrated Terminals ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals))
 - Integrated Tunnels ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels))
 - Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.11.3+26.1-neoforge]
-- Joy of Painting ([Modrinth](https://modrinth.com/mod/joy-of-painting) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)) [26.1.2-1.0.0]
 - Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [29.35.0.95]
 - Just Enough Professions (JEP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep))
 - Just Enough Resources (JER) ([Modrinth](https://modrinth.com/mod/just-enough-resources-jer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)) [1.10.1.40]
-- Launchpad ([Modrinth](https://modrinth.com/mod/launchpad) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/launchpad)) [1.9.2+26.1.2]
 - Lithium ([Modrinth](https://modrinth.com/mod/lithium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)) [mc26.1.2-0.24.7-neoforge]
 - ModernFix ([Modrinth](https://modrinth.com/mod/modernfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix)) [5.27.22+mc26.1.2]
 - Mouse Tweaks ([Modrinth](https://modrinth.com/mod/mouse-tweaks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)) [26.1-2.31-neoforge]
@@ -42,8 +38,6 @@ A Random Assortment of Mods for 26.1.2
 - Retraining ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/retraining))
 - Seamless Trading ([Modrinth](https://modrinth.com/mod/seamlesstrading) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamlesstrading)) [1.3.0]
 - Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
-- Sinytra Connector ([Modrinth](https://modrinth.com/mod/connector) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)) [3.0.0-beta.6+26.1.2]
 - Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc26.1.2-0.9.2-beta.1-neoforge]
 - Sound Physics Remastered ([Modrinth](https://modrinth.com/mod/sound-physics-remastered) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)) [neoforge-1.5.1+26.1.2]
 - Starcatcher ([Modrinth](https://modrinth.com/mod/starcatcher) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starcatcher)) [3.1.2-PREVIEW-NEOFORGE-26.1.2]
-- World Reset ([Modrinth](https://modrinth.com/mod/worldreset-fabric)) [0.2.1+26.1.2]
