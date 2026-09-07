@@ -26,571 +26,6 @@
     "checkForUpdates": true,
     "mods": [
       {
-        "name": "Fabric Language Kotlin",
-        "version": "Fabric Language Kotlin 1.13.13+kotlin.2.4.10",
-        "optional": true,
-        "file": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
-        "type": "mods",
-        "description": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 308769,
-        "curseForgeFileId": 8439967,
-        "curseForgeProject": {
-          "id": 308769,
-          "name": "Fabric Language Kotlin",
-          "authors": [
-            {
-              "id": 9548223,
-              "name": "modmuss50",
-              "url": "https://www.curseforge.com/members/modmuss50"
-            },
-            {
-              "id": 7025176,
-              "name": "sfPlayer1",
-              "url": "https://www.curseforge.com/members/sfplayer1"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Fabric language module for Kotlin",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "fabric-language-kotlin",
-          "isFeatured": false,
-          "dateModified": "2026-07-15T20:21:19.47Z",
-          "dateCreated": "2018-12-11T02:44:05.233Z",
-          "dateReleased": "2026-07-15T20:14:43.517Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/FabricMC/fabric-language-kotlin/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc",
-            "sourceUrl": "https://github.com/FabricMC/fabric-language-kotlin"
-          },
-          "logo": {
-            "id": 1111600,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1111/600/256/256/638663264350908845.png",
-            "title": "638663264350908845.png",
-            "url": "https://media.forgecdn.net/avatars/1111/600/638663264350908845.png",
-            "modId": 308769
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 8439967
-        },
-        "curseForgeFile": {
-          "id": 8439967,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Fabric Language Kotlin 1.13.13+kotlin.2.4.10",
-          "fileName": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2026-07-15T20:14:43.517Z",
-          "fileLength": 8076363,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 277238542,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3574284957,
-              "name": "LICENSE_fabric-language-kotlin"
-            },
-            {
-              "fingerprint": 1726288097,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2921541845,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2994842097,
-              "name": "net"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
-              "algo": 1
-            },
-            {
-              "value": "b70470268be8c74a10e10b24a2bf7df6",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000016.0000000003",
-              "gameVersion": "1.16.3",
-              "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
-              "gameVersionName": "1.16.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000017.0000000001",
-              "gameVersion": "1.17.1",
-              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
-              "gameVersionName": "1.17.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021",
-              "gameVersion": "1.21",
-              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
-              "gameVersionName": "1.21"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000016.0000000001",
-              "gameVersion": "1.16.1",
-              "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
-              "gameVersionName": "1.16.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000001",
-              "gameVersion": "1.18.1",
-              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-              "gameVersionName": "1.18.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000014.0000000003",
-              "gameVersion": "1.14.3",
-              "gameVersionReleaseDate": "2019-06-24T00:00:00Z",
-              "gameVersionName": "1.14.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000015",
-              "gameVersion": "1.15",
-              "gameVersionReleaseDate": "2019-12-10T15:26:51.027Z",
-              "gameVersionName": "1.15"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000016",
-              "gameVersion": "1.16",
-              "gameVersionReleaseDate": "2020-06-23T13:41:08.75Z",
-              "gameVersionName": "1.16"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000016.0000000005",
-              "gameVersion": "1.16.5",
-              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-              "gameVersionName": "1.16.5"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000003",
-              "gameVersion": "1.19.3",
-              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
-              "gameVersionName": "1.19.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000002",
-              "gameVersion": "1.20.2",
-              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
-              "gameVersionName": "1.20.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000004",
-              "gameVersion": "1.19.4",
-              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
-              "gameVersionName": "1.19.4"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000008",
-              "gameVersion": "1.21.8",
-              "gameVersionReleaseDate": "2025-07-17T14:01:29.007Z",
-              "gameVersionName": "1.21.8"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000014.0000000004",
-              "gameVersion": "1.14.4",
-              "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-              "gameVersionName": "1.14.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000014.0000000001",
-              "gameVersion": "1.14.1",
-              "gameVersionReleaseDate": "2019-05-13T00:00:00Z",
-              "gameVersionName": "1.14.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000017",
-              "gameVersion": "1.17",
-              "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-              "gameVersionName": "1.17"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000005",
-              "gameVersion": "1.20.5",
-              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
-              "gameVersionName": "1.20.5"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000005",
-              "gameVersion": "1.21.5",
-              "gameVersionReleaseDate": "2025-03-25T16:46:25.94Z",
-              "gameVersionName": "1.21.5"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-              "gameVersionName": "1.18"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000004",
-              "gameVersion": "1.21.4",
-              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
-              "gameVersionName": "1.21.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000006",
-              "gameVersion": "1.20.6",
-              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
-              "gameVersionName": "1.20.6"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000001",
-              "gameVersion": "1.21.1",
-              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
-              "gameVersionName": "1.21.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000006",
-              "gameVersion": "1.21.6",
-              "gameVersionReleaseDate": "2025-06-17T19:44:59.623Z",
-              "gameVersionName": "1.21.6"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000003",
-              "gameVersion": "1.21.3",
-              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
-              "gameVersionName": "1.21.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000007",
-              "gameVersion": "1.21.7",
-              "gameVersionReleaseDate": "2025-06-30T14:45:05.54Z",
-              "gameVersionName": "1.21.7"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000015.0000000002",
-              "gameVersion": "1.15.2",
-              "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
-              "gameVersionName": "1.15.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000014",
-              "gameVersion": "1.14",
-              "gameVersionReleaseDate": "2019-04-23T00:00:00Z",
-              "gameVersionName": "1.14"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000004",
-              "gameVersion": "1.20.4",
-              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
-              "gameVersionName": "1.20.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000003",
-              "gameVersion": "1.20.3",
-              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
-              "gameVersionName": "1.20.3"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000016.0000000002",
-              "gameVersion": "1.16.2",
-              "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
-              "gameVersionName": "1.16.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000015.0000000001",
-              "gameVersion": "1.15.1",
-              "gameVersionReleaseDate": "2019-12-17T00:00:00Z",
-              "gameVersionName": "1.15.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000016.0000000004",
-              "gameVersion": "1.16.4",
-              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
-              "gameVersionName": "1.16.4"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000014.0000000002",
-              "gameVersion": "1.14.2",
-              "gameVersionReleaseDate": "2019-05-27T00:00:00Z",
-              "gameVersionName": "1.14.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000002",
-              "gameVersion": "1.21.2",
-              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
-              "gameVersionName": "1.21.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000009",
-              "gameVersion": "1.21.9",
-              "gameVersionReleaseDate": "2025-09-30T15:50:17.583Z",
-              "gameVersionName": "1.21.9"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000010",
-              "gameVersion": "1.21.10",
-              "gameVersionReleaseDate": "2025-10-07T14:57:47Z",
-              "gameVersionName": "1.21.10"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000011",
-              "gameVersion": "1.21.11",
-              "gameVersionReleaseDate": "2025-12-09T16:42:14.27Z",
-              "gameVersionName": "1.21.11"
-            },
-            {
-              "gameVersionPadded": "0000000026.0000000001",
-              "gameVersion": "26.1",
-              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
-              "gameVersionName": "26.1"
-            },
-            {
-              "gameVersionPadded": "0000000026.0000000001.0000000001",
-              "gameVersion": "26.1.1",
-              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
-              "gameVersionName": "26.1.1"
-            },
-            {
-              "gameVersionPadded": "0000000026.0000000001.0000000002",
-              "gameVersion": "26.1.2",
-              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
-              "gameVersionName": "26.1.2"
-            },
-            {
-              "gameVersionPadded": "0000000026.0000000002",
-              "gameVersion": "26.2",
-              "gameVersionReleaseDate": "2026-06-16T15:39:22.26Z",
-              "gameVersionName": "26.2"
-            }
-          ],
-          "gameVersions": [
-            "1.16.3",
-            "1.17.1",
-            "1.21",
-            "1.16.1",
-            "1.18.1",
-            "1.14.3",
-            "1.15",
-            "1.16",
-            "1.16.5",
-            "1.19.3",
-            "1.20.2",
-            "1.19.4",
-            "Fabric",
-            "1.21.8",
-            "1.14.4",
-            "1.14.1",
-            "1.17",
-            "1.20.5",
-            "1.21.5",
-            "1.18",
-            "1.21.4",
-            "1.20.1",
-            "1.20",
-            "1.20.6",
-            "1.21.1",
-            "1.21.6",
-            "1.21.3",
-            "1.21.7",
-            "1.15.2",
-            "1.14",
-            "1.19.1",
-            "1.20.4",
-            "1.18.2",
-            "1.19.2",
-            "1.20.3",
-            "1.16.2",
-            "1.15.1",
-            "1.16.4",
-            "1.14.2",
-            "1.19",
-            "1.21.2",
-            "1.21.9",
-            "1.21.10",
-            "1.21.11",
-            "26.1",
-            "26.1.1",
-            "26.1.2",
-            "26.2"
-          ],
-          "fileFingerprint": 199595575,
-          "modId": 308769
-        },
-        "modrinthProject": {
-          "id": "Ha28R6CL",
-          "slug": "fabric-language-kotlin",
-          "project_type": "mod",
-          "team": "tn8Zu9Q7",
-          "title": "Fabric Language Kotlin",
-          "description": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.",
-          "body": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.\n\nNote: This does not add content! This is a dependency other mods use for compatibilty.\n\nThis mod works independently of the version of Minecraft used, as it only depends on Fabric Loader being available.\n\nFor modders: See -> https://github.com/FabricMC/fabric-language-kotlin#usage",
-          "published": "2021-08-25T19:14:27.159100Z",
-          "updated": "2026-07-15T20:14:45.530782Z",
-          "status": "approved",
-          "license": {
-            "id": "Apache-2.0",
-            "name": "Apache License 2.0"
-          },
-          "client_side": "optional",
-          "server_side": "optional",
-          "categories": [
-            "library"
-          ],
-          "loaders": [
-            "fabric"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
-          "issues_url": "https://github.com/FabricMC/fabric-language-kotlin/issues",
-          "source_url": "https://github.com/FabricMC/fabric-language-kotlin/",
-          "wiki_url": "https://fabricmc.net/wiki/",
-          "discord_url": "https://discord.gg/v6v4pMv",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "bdhiINYC",
-          "project_id": "Ha28R6CL",
-          "author_id": "JZA4dW8o",
-          "name": "Fabric Language Kotlin 1.13.13+kotlin.2.4.10",
-          "version_number": "1.13.13+kotlin.2.4.10",
-          "changelog": "- Bump version (modmuss)\n- Update versions (#189) (github-actions[bot], github-actions)\n- Update readme (github-actions)\n",
-          "date_published": "2026-07-15T20:14:45.530782Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
-                "sha512": "9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77"
-              },
-              "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
-              "filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
-              "primary": true,
-              "size": 8076363
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.14",
-            "1.14.1",
-            "1.14.2",
-            "1.14.3",
-            "1.14.4",
-            "1.15",
-            "1.15.1",
-            "1.15.2",
-            "1.16",
-            "1.16.1",
-            "1.16.2",
-            "1.16.3",
-            "1.16.4",
-            "1.16.5",
-            "1.17",
-            "1.17.1",
-            "1.18",
-            "1.18.1",
-            "1.18.2",
-            "1.19",
-            "1.19.1",
-            "1.19.2",
-            "1.19.3",
-            "1.19.4",
-            "1.20",
-            "1.20.1",
-            "1.20.2",
-            "1.20.3",
-            "1.20.4",
-            "1.20.5",
-            "1.20.6",
-            "1.21",
-            "1.21.1",
-            "1.21.2",
-            "1.21.3",
-            "1.21.4",
-            "1.21.5",
-            "1.21.6",
-            "1.21.7",
-            "1.21.8",
-            "1.21.9",
-            "1.21.10",
-            "1.21.11",
-            "26.1",
-            "26.1.1",
-            "26.1.2",
-            "26.2"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "AppleSkin",
         "version": "appleskin-neoforge-mc26.1-3.0.9.jar",
         "optional": true,
@@ -2295,298 +1730,6 @@
               "filename": "Clumps-neoforge-26.1.2-26.1.2.1.jar",
               "primary": true,
               "size": 18775
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "26.1.2"
-          ],
-          "loaders": [
-            "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "Sodium",
-        "version": "Sodium 0.9.2-beta.1 for NeoForge 26.1.2",
-        "optional": true,
-        "file": "sodium-neoforge-0.9.2-beta.1+mc26.1.2.jar",
-        "type": "mods",
-        "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 394468,
-        "curseForgeFileId": 8793668,
-        "curseForgeProject": {
-          "id": 394468,
-          "name": "Sodium",
-          "authors": [
-            {
-              "id": 28746583,
-              "name": "JellySquid",
-              "url": "https://www.curseforge.com/members/jellysquid"
-            }
-          ],
-          "gameId": 432,
-          "summary": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!",
-          "categories": [
-            {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 6814,
-          "classId": 6,
-          "slug": "sodium",
-          "isFeatured": false,
-          "dateModified": "2026-09-02T16:15:55.88Z",
-          "dateCreated": "2020-07-12T22:45:26.14Z",
-          "dateReleased": "2026-09-02T16:13:15.567Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-            "wikiUrl": "https://github.com/CaffeineMC/sodium/wiki",
-            "issuesUrl": "https://github.com/CaffeineMC/sodium-fabric/issues",
-            "sourceUrl": "https://github.com/CaffeineMC/sodium"
-          },
-          "logo": {
-            "id": 284773,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
-            "title": "637298471098686391.png",
-            "url": "https://media.forgecdn.net/avatars/284/773/637298471098686391.png",
-            "modId": 394468
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 871369,
-              "description": "Sodium greatly improves the shading of blocks, fixing a number of bugs while making block shadows look more smooth and consistent.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/369/310/172/block-shading.webp",
-              "title": "Block Shading Improvements",
-              "url": "https://media.forgecdn.net/attachments/871/369/block-shading.webp",
-              "modId": 394468
-            },
-            {
-              "id": 871368,
-              "description": "Sodium implements smooth lighting for all fluids, fixing a long-standing issue in Minecraft.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/368/310/172/fluid-rendering.webp",
-              "title": "Fluid Rendering Improvements",
-              "url": "https://media.forgecdn.net/attachments/871/368/fluid-rendering.webp",
-              "modId": 394468
-            },
-            {
-              "id": 871367,
-              "description": "Sodium improves biome blending to use gradients across each block, making the effect look much smoother.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/367/310/172/biome-blending.webp",
-              "title": "Biome Blending Improvements",
-              "url": "https://media.forgecdn.net/attachments/871/367/biome-blending.webp",
-              "modId": 394468
-            },
-            {
-              "id": 871366,
-              "description": "Sodium fixes many graphical issues with smooth lighting while underwater.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/366/310/172/underwater-lighting.webp",
-              "title": "Underwater Lighting Improvements",
-              "url": "https://media.forgecdn.net/attachments/871/366/underwater-lighting.webp",
-              "modId": 394468
-            }
-          ],
-          "mainFileId": 8756612
-        },
-        "curseForgeFile": {
-          "id": 8793668,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Sodium 0.9.2-beta.1 for NeoForge 26.1.2",
-          "fileName": "sodium-neoforge-0.9.2-beta.1+mc26.1.2.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2026-09-02T16:04:21.69Z",
-          "fileLength": 1257841,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3514365095,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2325247677,
-              "name": "net"
-            },
-            {
-              "fingerprint": 2033162507,
-              "name": "LICENSE.md"
-            },
-            {
-              "fingerprint": 1658709492,
-              "name": "sodium-icon.png"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "e771e27d56de2bbc80a8702ed9111dd615543e1d",
-              "algo": 1
-            },
-            {
-              "value": "9616b531d36643bb42fda67fdffe8801",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000026.0000000001.0000000002",
-              "gameVersion": "26.1.2",
-              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
-              "gameVersionName": "26.1.2"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "NeoForge",
-            "26.1.2"
-          ],
-          "fileFingerprint": 57194481,
-          "modId": 394468
-        },
-        "modrinthProject": {
-          "id": "AANobbMI",
-          "slug": "sodium",
-          "project_type": "mod",
-          "team": "4reLOAKe",
-          "title": "Sodium",
-          "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
-          "body": "**Latest News (June 16, 2026)** - Sodium 0.9.x is now available for Minecraft 26.2, **_with early support for Vulkan!_** The performance of the Vulkan backend is already in a good place (even faster than before on many devices), and we expect to be able to improve it even further with future updates.\n\n---\n\n**This mod is the result of thousands of hours of development, and is made possible thanks to players like you.** If you would like to show a token of your appreciation for my work, and help support the development of Sodium in the process, then consider [buying me a coffee](https://caffeinemc.net/donate).\n\n[![Buy me a coffee](https://cdn.modrinth.com/data/cached_images/b888841adf2a7d4d76c5274d634c205ee88e9e20.png)](https://caffeinemc.net/donate)\n[![Join us on Discord](https://cdn.modrinth.com/data/cached_images/de7f2f606702569cd98fc1f6a0b29dbf817dd870.png)](https://caffeinemc.net/discord)\n\n---\n\n<center>\n <img src=\"https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e.png\" alt=\"Sodium 0.4 Comparison\"></img>\n <p>\n   <!-- This paragraph is load bearing, and ensures a margin is added before the following Markdown -->\n </p>\n</center>\n\nSodium is a powerful optimization mod for the Minecraft client, which greatly improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft.\n\nUnlike other rendering-focused mods, it boasts wide compatibility with the wider modding ecosystem. And it does so without compromising on how the game looks, giving you that authentic block game feel.\n\n[![Available on Fabric](https://cdn.modrinth.com/data/cached_images/513035d1231a86dff137c74e04a5e64633593f10.png)](https://modrinth.com/mod/sodium/versions?l=fabric)\n[![Available on Quilt](https://cdn.modrinth.com/data/cached_images/a9ee492fd1a5fcbcc14d4105aa27be63f2518529.png)](https://modrinth.com/mod/sodium/versions?l=quilt)\n[![Available on NeoForge](https://cdn.modrinth.com/data/cached_images/b9ae07fbc26c08220b4856cb244f86904d0c172c.png)](https://modrinth.com/mod/sodium/versions?l=neoforge)\n\n<h1 id=\"installation\">📥 Installation Guide</h1>\n\nSodium is available for multiple mod loaders, but we recommend using [Fabric Loader](https://fabricmc.net/use) for the most simple and lightweight experience. If you are using a third-party launcher, it probably has built-in functionality to automatically install mod loaders. Once you have installed your mod loader, you can simply place Sodium into your _mods folder_ like anything else.\n\n**Not sure if you installed the mod correctly?** Check your _Video Settings_ screen in Minecraft, which should show our new and improved user interface for changing settings.\n\n**Not sure how to configure the mod?** Don't worry, you probably don't need to. By default, Sodium will enable all optimizations which are supported on your system, giving you the best experience possible. You should generally only change video settings related to performance and other advanced features if you are experiencing issues.\n\n**Need even more performance?** By design, Sodium only optimizes the rendering code of Minecraft. You should also install our other mods, such as [Lithium](https://modrinth.com/mod/lithium) (for MC 1.15+) and [Phosphor](https://modrinth.com/mod/phosphor) (for MC <1.19), to optimize the other parts of your game. This is done so that players can pick and choose which mods they want to use, but we generally recommend using [our entire collection](https://modrinth.com/user/jellysquid3).\n\n<h1 id=\"hardware-compatibility\">✅ Hardware Compatibility</h1>\n\n**Android devices (and some Windows-on-ARM devices) which use OpenGL translation layers (such as GL4ES, ANGLE, GLonD3D12 etc) are not supported and will have severe performance issues.**\n\nWe only provide official support for desktop graphics cards which have up-to-date drivers compatible with OpenGL 4.5 or newer. Most graphics cards released in the past 12 years will meet these requirements, including the following:\n\n- INTEL HD Graphics 500 Series (Skylake) or newer\n- NVIDIA GeForce 400 Series (Fermi) or newer\n- AMD Radeon HD 7000 Series (GCN 1) or newer\n\n**Nearly all desktop graphics cards that are already compatible with Minecraft (which requires OpenGL 3.3) should also work with Sodium.** But our team cannot ensure compatibility or provide support for older graphics cards, and they may not work with future versions of Sodium.\n\n**If you are running into problems, you should [make sure that your graphics drivers are up-to-date](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility).** Out-of-date graphics drivers are often the reason for most crashes, rendering bugs, and performance issues.\n\n# 🐛 How to Report Issues\n\nPlease use the [issue tracker](https://github.com/CaffeineMC/sodium/issues) linked at the top of the page to report bugs, crashes, and other issues. Make sure you include information about the mods you are using, and attach any crash/log files you have.\n\n---\n\n_**Note:** The level of performance you see while using the Sodium mod will vary depending on exact hardware and software configuration. For all performance comparisons provided on this page, we used a computer with integrated graphics which we believe to be representative of the casual player._\n\n<sup>_**Hardware configuration:** Intel Core i7-1165G7 (4c/8t, up to 4.70 GHz) with Intel Xe Graphics (96 EUs, up to 1.30 GHz), 2x16 GB DDR4-3200._</sup>\n<sup>_**Software configuration:** Fedora 41, Linux 6.12.4, Mesa 24.3.4, Prism Launcher 9.1, OpenJDK 21.0.7 runtime (as packaged by distribution), Fabric Loader 0.16.10._</sup>",
-          "published": "2021-01-03T00:53:34.185936Z",
-          "updated": "2026-09-02T16:13:20.653230Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-Polyform-Shield-1.0.0",
-            "name": "",
-            "url": "https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "optimization"
-          ],
-          "loaders": [
-            "fabric",
-            "neoforge",
-            "quilt"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-          "issues_url": "https://github.com/CaffeineMC/sodium/issues",
-          "source_url": "https://github.com/CaffeineMC/sodium",
-          "wiki_url": "https://github.com/CaffeineMC/sodium/wiki",
-          "discord_url": "https://caffeinemc.net/discord",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://caffeinemc.net/donate"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/d84313e6f57dc9e7896961dbd2dfc2689d482758_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/d84313e6f57dc9e7896961dbd2dfc2689d482758.webp",
-              "featured": false,
-              "title": "Underwater Lighting Improvements",
-              "description": "Sodium fixes many graphical issues with smooth lighting while underwater.",
-              "created": "2023-06-25T21:35:39.891789Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/6b0e58705156ba67a6d97a74b9f9ac05da69f502_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/6b0e58705156ba67a6d97a74b9f9ac05da69f502.webp",
-              "featured": false,
-              "title": "Biome Blending Improvements",
-              "description": "Sodium improves biome blending to use gradients across each block, making the effect look much smoother.",
-              "created": "2023-06-25T21:32:36.805733Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/b681a9e87daa53a0e85336a894db70427007149b_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/b681a9e87daa53a0e85336a894db70427007149b.webp",
-              "featured": false,
-              "title": "Fluid Rendering Improvements",
-              "description": "Sodium implements smooth lighting for all fluids, fixing a long-standing issue in Minecraft.",
-              "created": "2023-06-25T21:34:46.764479Z",
-              "ordering": 10.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/56c4599efcb529a19aed0e118caad4178d7fd540.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/56c4599efcb529a19aed0e118caad4178d7fd540.webp",
-              "featured": false,
-              "title": "Block Shading Improvements",
-              "description": "Sodium greatly improves the shading of blocks, fixing a number of bugs while making block shadows look more smooth and consistent.",
-              "created": "2023-06-25T21:36:48.985787Z",
-              "ordering": 30.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e.png",
-              "featured": false,
-              "title": "Sodium 0.5.2",
-              "description": "Sodium greatly optimizes the game's renderer to be faster and more efficient, which can often result in FPS improvements of 300% or more.",
-              "created": "2023-08-19T17:00:08.788447Z",
-              "ordering": 999.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/AANobbMI/images/c39debea7fc623306e9c45148084585399fc59ee.webp",
-              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/c39debea7fc623306e9c45148084585399fc59ee.webp",
-              "featured": false,
-              "title": "Sodium 0.4.1",
-              "description": "Sodium greatly optimizes the game's renderer to be faster and more efficient, which can often result in FPS improvements of 300% or more.",
-              "created": "2023-06-25T21:30:34.663388Z",
-              "ordering": 1000.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "Hf1Foc0b",
-          "project_id": "AANobbMI",
-          "author_id": "TEZXhE2U",
-          "name": "Sodium 0.9.2-beta.1 for NeoForge 26.1.2",
-          "version_number": "mc26.1.2-0.9.2-beta.1-neoforge",
-          "changelog": "Sodium 0.9.2-beta.1 includes a new terrain buffer allocation system designed to reduce the number of buffers that get allocated and resized as chunks are loaded and unloaded. Please help us by testing this version in various scenarios, comparing frame rate stability, and reporting any issues that may arise. Feedback and testing results are welcome in the testing channel on [our discord server](https://caffeinemc.net/discord).\n\nOther changes include improvements to our item meshing, optimizations for item rendering, and numerous bug fixes. This release also adds support for FRAPI on NeoForge.\n\n- Prevent misalignment in item models by removing UV_SHRINK where necessary ([#3831](https://github.com/CaffeineMC/sodium/pull/3831))\n- Offset overlay layers of optimized item models to prevent z-fighting\n- Optimize the dried ghast model ([#3815](https://github.com/CaffeineMC/sodium/pull/3815))\n- Implementation of a Incrementally Defragmenting Auto-Sizing Multi-Arena Allocator ([#3634](https://github.com/CaffeineMC/sodium/pull/3634))\n- Support FRAPI on NeoForge ([#3818](https://github.com/CaffeineMC/sodium/pull/3818))\n- Fix buffer overflow in Kernel32.getModuleFileName\n- Use the correct atomic operations on NativeBuffer.ALLOCATED\n- Use clearenv() to delete environment variables\n- Cleanup code around checking the IME status on Windows\n- Handle resizing the section time buffer to fix [#3809](https://github.com/CaffeineMC/sodium/issues/3809)\n\nThank you to all the contributors who added to this release!\n\nAlpha/beta series changelog:\n- Disabled automatic enabling of the arena buffer debug widget\n- Implement override/overlay priority in the graphics options Config API ([#3866](https://github.com/CaffeineMC/sodium/pull/3866))\n- Fixed incorrect breaks clause on borderless fullscreen mod\n- Implement override/overlay priority in the video settings config api ([#3866](https://github.com/CaffeineMC/sodium/pull/3866))",
-          "date_published": "2026-09-02T16:04:29.633211Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "e771e27d56de2bbc80a8702ed9111dd615543e1d",
-                "sha512": "3c4e0110bc3babd2302fc9dbb192d28adf3e6a5cb3a26b644d56cf27644bb9f00a82fbf640f77a54ab1be8d7fed9e032462bd7b5f1164dd704c42e6b2d84ba4f"
-              },
-              "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Hf1Foc0b/sodium-neoforge-0.9.2-beta.1%2Bmc26.1.2.jar",
-              "filename": "sodium-neoforge-0.9.2-beta.1+mc26.1.2.jar",
-              "primary": true,
-              "size": 1257841
             }
           ],
           "dependencies": [],
@@ -6595,9 +5738,9 @@
           "classId": 6,
           "slug": "apotheosis",
           "isFeatured": false,
-          "dateModified": "2026-08-02T22:33:21.893Z",
+          "dateModified": "2026-09-07T01:38:50.38Z",
           "dateCreated": "2019-02-13T17:01:54.533Z",
-          "dateReleased": "2026-08-02T22:24:24.557Z",
+          "dateReleased": "2026-09-07T01:23:34.343Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/apotheosis",
             "wikiUrl": "",
@@ -6695,7 +5838,7 @@
               "modId": 313970
             }
           ],
-          "mainFileId": 8564919
+          "mainFileId": 8826922
         },
         "curseForgeFile": {
           "id": 8502264,
@@ -7021,9 +6164,9 @@
           "classId": 6,
           "slug": "starcatcher",
           "isFeatured": false,
-          "dateModified": "2026-09-06T01:40:10.98Z",
+          "dateModified": "2026-09-07T05:53:46.723Z",
           "dateCreated": "2025-10-03T08:32:32.333Z",
-          "dateReleased": "2026-09-06T01:24:45.887Z",
+          "dateReleased": "2026-09-07T05:44:42.393Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/starcatcher",
             "wikiUrl": "https://github.com/wdiscute/starcatcher/wiki",
@@ -7155,7 +6298,7 @@
               "modId": 1357603
             }
           ],
-          "mainFileId": 8818626
+          "mainFileId": 8827934
         },
         "curseForgeFile": {
           "id": 8797585,
@@ -10981,15 +10124,15 @@
           "summary": "A mod to take full and automated control of your appliances.",
           "categories": [
             {
-              "name": "Automation",
-              "slug": "technology-automation",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
-              "dateModified": "2021-03-08T14:46:13.24Z",
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 4843,
-              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
-              "parentCategoryId": 412,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -11005,6 +10148,18 @@
               "classId": 6
             },
             {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "Processing",
               "slug": "technology-processing",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
@@ -11015,18 +10170,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
               "parentCategoryId": 412,
               "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -11034,9 +10177,9 @@
           "classId": 6,
           "slug": "integrated-dynamics",
           "isFeatured": false,
-          "dateModified": "2026-09-05T11:55:20.1Z",
+          "dateModified": "2026-09-06T18:04:07.69Z",
           "dateCreated": "2015-09-23T17:02:45.593Z",
-          "dateReleased": "2026-09-05T11:50:58.563Z",
+          "dateReleased": "2026-09-06T17:53:19.847Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
             "wikiUrl": "https://github.com/CyclopsMC/IntegratedDynamics/wiki",
@@ -11673,14 +10816,14 @@
           "summary": "Terminals for managing and overviewing Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
               "gameId": 432,
               "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
               "parentCategoryId": 412,
               "classId": 6
             },
@@ -11721,14 +10864,14 @@
               "classId": 6
             },
             {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
               "gameId": 432,
               "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
               "parentCategoryId": 412,
               "classId": 6
             }
@@ -11738,9 +10881,9 @@
           "classId": 6,
           "slug": "integrated-terminals",
           "isFeatured": false,
-          "dateModified": "2026-09-06T11:50:34.663Z",
+          "dateModified": "2026-09-06T14:57:38.173Z",
           "dateCreated": "2019-01-18T18:43:17.843Z",
-          "dateReleased": "2026-09-06T11:38:03.03Z",
+          "dateReleased": "2026-09-06T14:48:48.15Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
             "wikiUrl": "",
@@ -11999,18 +11142,6 @@
           "summary": "Craft stuff in Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Processing",
-              "slug": "technology-processing",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
-              "dateModified": "2014-05-08T17:38:41.96Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 413,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Technology",
               "slug": "technology",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
@@ -12057,6 +11188,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
               "parentCategoryId": 412,
               "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -12064,9 +11207,9 @@
           "classId": 6,
           "slug": "integrated-crafting",
           "isFeatured": false,
-          "dateModified": "2026-09-05T16:23:10.82Z",
+          "dateModified": "2026-09-06T18:16:26.29Z",
           "dateCreated": "2019-01-18T18:36:56.627Z",
-          "dateReleased": "2026-09-05T16:14:59.91Z",
+          "dateReleased": "2026-09-06T18:08:39.08Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
             "wikiUrl": "",
@@ -12284,6 +11427,1202 @@
           "fileFingerprint": 3977272734,
           "modId": 287357
         }
+      },
+      {
+        "name": "Sodium",
+        "version": "Sodium 0.9.1 for NeoForge 26.1.2",
+        "optional": true,
+        "file": "sodium-neoforge-0.9.1+mc26.1.2.jar",
+        "type": "mods",
+        "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 394468,
+        "curseForgeFileId": 8396481,
+        "curseForgeProject": {
+          "id": 394468,
+          "name": "Sodium",
+          "authors": [
+            {
+              "id": 28746583,
+              "name": "JellySquid",
+              "url": "https://www.curseforge.com/members/jellysquid"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!",
+          "categories": [
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6814,
+          "classId": 6,
+          "slug": "sodium",
+          "isFeatured": false,
+          "dateModified": "2026-09-02T16:15:55.88Z",
+          "dateCreated": "2020-07-12T22:45:26.14Z",
+          "dateReleased": "2026-09-02T16:13:15.567Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+            "wikiUrl": "https://github.com/CaffeineMC/sodium/wiki",
+            "issuesUrl": "https://github.com/CaffeineMC/sodium-fabric/issues",
+            "sourceUrl": "https://github.com/CaffeineMC/sodium"
+          },
+          "logo": {
+            "id": 284773,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
+            "title": "637298471098686391.png",
+            "url": "https://media.forgecdn.net/avatars/284/773/637298471098686391.png",
+            "modId": 394468
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 871369,
+              "description": "Sodium greatly improves the shading of blocks, fixing a number of bugs while making block shadows look more smooth and consistent.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/369/310/172/block-shading.webp",
+              "title": "Block Shading Improvements",
+              "url": "https://media.forgecdn.net/attachments/871/369/block-shading.webp",
+              "modId": 394468
+            },
+            {
+              "id": 871368,
+              "description": "Sodium implements smooth lighting for all fluids, fixing a long-standing issue in Minecraft.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/368/310/172/fluid-rendering.webp",
+              "title": "Fluid Rendering Improvements",
+              "url": "https://media.forgecdn.net/attachments/871/368/fluid-rendering.webp",
+              "modId": 394468
+            },
+            {
+              "id": 871367,
+              "description": "Sodium improves biome blending to use gradients across each block, making the effect look much smoother.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/367/310/172/biome-blending.webp",
+              "title": "Biome Blending Improvements",
+              "url": "https://media.forgecdn.net/attachments/871/367/biome-blending.webp",
+              "modId": 394468
+            },
+            {
+              "id": 871366,
+              "description": "Sodium fixes many graphical issues with smooth lighting while underwater.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/871/366/310/172/underwater-lighting.webp",
+              "title": "Underwater Lighting Improvements",
+              "url": "https://media.forgecdn.net/attachments/871/366/underwater-lighting.webp",
+              "modId": 394468
+            }
+          ],
+          "mainFileId": 8756612
+        },
+        "curseForgeFile": {
+          "id": 8396481,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Sodium 0.9.1 for NeoForge 26.1.2",
+          "fileName": "sodium-neoforge-0.9.1+mc26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-07-08T21:04:00.503Z",
+          "fileLength": 1185970,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3758968678,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 835790880,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2033162507,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 1658709492,
+              "name": "sodium-icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f369407251bdeb3b91d3e67fbbc133263b0c9078",
+              "algo": 1
+            },
+            {
+              "value": "df1903e764331ea3b99c8e9c08795008",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 84776462,
+          "modId": 394468
+        },
+        "modrinthProject": {
+          "id": "AANobbMI",
+          "slug": "sodium",
+          "project_type": "mod",
+          "team": "4reLOAKe",
+          "title": "Sodium",
+          "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+          "body": "**Latest News (June 16, 2026)** - Sodium 0.9.x is now available for Minecraft 26.2, **_with early support for Vulkan!_** The performance of the Vulkan backend is already in a good place (even faster than before on many devices), and we expect to be able to improve it even further with future updates.\n\n---\n\n**This mod is the result of thousands of hours of development, and is made possible thanks to players like you.** If you would like to show a token of your appreciation for my work, and help support the development of Sodium in the process, then consider [buying me a coffee](https://caffeinemc.net/donate).\n\n[![Buy me a coffee](https://cdn.modrinth.com/data/cached_images/b888841adf2a7d4d76c5274d634c205ee88e9e20.png)](https://caffeinemc.net/donate)\n[![Join us on Discord](https://cdn.modrinth.com/data/cached_images/de7f2f606702569cd98fc1f6a0b29dbf817dd870.png)](https://caffeinemc.net/discord)\n\n---\n\n<center>\n <img src=\"https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e.png\" alt=\"Sodium 0.4 Comparison\"></img>\n <p>\n   <!-- This paragraph is load bearing, and ensures a margin is added before the following Markdown -->\n </p>\n</center>\n\nSodium is a powerful optimization mod for the Minecraft client, which greatly improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft.\n\nUnlike other rendering-focused mods, it boasts wide compatibility with the wider modding ecosystem. And it does so without compromising on how the game looks, giving you that authentic block game feel.\n\n[![Available on Fabric](https://cdn.modrinth.com/data/cached_images/513035d1231a86dff137c74e04a5e64633593f10.png)](https://modrinth.com/mod/sodium/versions?l=fabric)\n[![Available on Quilt](https://cdn.modrinth.com/data/cached_images/a9ee492fd1a5fcbcc14d4105aa27be63f2518529.png)](https://modrinth.com/mod/sodium/versions?l=quilt)\n[![Available on NeoForge](https://cdn.modrinth.com/data/cached_images/b9ae07fbc26c08220b4856cb244f86904d0c172c.png)](https://modrinth.com/mod/sodium/versions?l=neoforge)\n\n<h1 id=\"installation\">📥 Installation Guide</h1>\n\nSodium is available for multiple mod loaders, but we recommend using [Fabric Loader](https://fabricmc.net/use) for the most simple and lightweight experience. If you are using a third-party launcher, it probably has built-in functionality to automatically install mod loaders. Once you have installed your mod loader, you can simply place Sodium into your _mods folder_ like anything else.\n\n**Not sure if you installed the mod correctly?** Check your _Video Settings_ screen in Minecraft, which should show our new and improved user interface for changing settings.\n\n**Not sure how to configure the mod?** Don't worry, you probably don't need to. By default, Sodium will enable all optimizations which are supported on your system, giving you the best experience possible. You should generally only change video settings related to performance and other advanced features if you are experiencing issues.\n\n**Need even more performance?** By design, Sodium only optimizes the rendering code of Minecraft. You should also install our other mods, such as [Lithium](https://modrinth.com/mod/lithium) (for MC 1.15+) and [Phosphor](https://modrinth.com/mod/phosphor) (for MC <1.19), to optimize the other parts of your game. This is done so that players can pick and choose which mods they want to use, but we generally recommend using [our entire collection](https://modrinth.com/user/jellysquid3).\n\n<h1 id=\"hardware-compatibility\">✅ Hardware Compatibility</h1>\n\n**Android devices (and some Windows-on-ARM devices) which use OpenGL translation layers (such as GL4ES, ANGLE, GLonD3D12 etc) are not supported and will have severe performance issues.**\n\nWe only provide official support for desktop graphics cards which have up-to-date drivers compatible with OpenGL 4.5 or newer. Most graphics cards released in the past 12 years will meet these requirements, including the following:\n\n- INTEL HD Graphics 500 Series (Skylake) or newer\n- NVIDIA GeForce 400 Series (Fermi) or newer\n- AMD Radeon HD 7000 Series (GCN 1) or newer\n\n**Nearly all desktop graphics cards that are already compatible with Minecraft (which requires OpenGL 3.3) should also work with Sodium.** But our team cannot ensure compatibility or provide support for older graphics cards, and they may not work with future versions of Sodium.\n\n**If you are running into problems, you should [make sure that your graphics drivers are up-to-date](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility).** Out-of-date graphics drivers are often the reason for most crashes, rendering bugs, and performance issues.\n\n# 🐛 How to Report Issues\n\nPlease use the [issue tracker](https://github.com/CaffeineMC/sodium/issues) linked at the top of the page to report bugs, crashes, and other issues. Make sure you include information about the mods you are using, and attach any crash/log files you have.\n\n---\n\n_**Note:** The level of performance you see while using the Sodium mod will vary depending on exact hardware and software configuration. For all performance comparisons provided on this page, we used a computer with integrated graphics which we believe to be representative of the casual player._\n\n<sup>_**Hardware configuration:** Intel Core i7-1165G7 (4c/8t, up to 4.70 GHz) with Intel Xe Graphics (96 EUs, up to 1.30 GHz), 2x16 GB DDR4-3200._</sup>\n<sup>_**Software configuration:** Fedora 41, Linux 6.12.4, Mesa 24.3.4, Prism Launcher 9.1, OpenJDK 21.0.7 runtime (as packaged by distribution), Fabric Loader 0.16.10._</sup>",
+          "published": "2021-01-03T00:53:34.185936Z",
+          "updated": "2026-08-07T00:57:37.975432Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Polyform-Shield-1.0.0",
+            "name": "",
+            "url": "https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "optimization"
+          ],
+          "loaders": [
+            "fabric",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+          "issues_url": "https://github.com/CaffeineMC/sodium/issues",
+          "source_url": "https://github.com/CaffeineMC/sodium",
+          "wiki_url": "https://github.com/CaffeineMC/sodium/wiki",
+          "discord_url": "https://caffeinemc.net/discord",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://caffeinemc.net/donate"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/d84313e6f57dc9e7896961dbd2dfc2689d482758_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/d84313e6f57dc9e7896961dbd2dfc2689d482758.webp",
+              "featured": false,
+              "title": "Underwater Lighting Improvements",
+              "description": "Sodium fixes many graphical issues with smooth lighting while underwater.",
+              "created": "2023-06-25T21:35:39.891789Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/6b0e58705156ba67a6d97a74b9f9ac05da69f502_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/6b0e58705156ba67a6d97a74b9f9ac05da69f502.webp",
+              "featured": false,
+              "title": "Biome Blending Improvements",
+              "description": "Sodium improves biome blending to use gradients across each block, making the effect look much smoother.",
+              "created": "2023-06-25T21:32:36.805733Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/b681a9e87daa53a0e85336a894db70427007149b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/b681a9e87daa53a0e85336a894db70427007149b.webp",
+              "featured": false,
+              "title": "Fluid Rendering Improvements",
+              "description": "Sodium implements smooth lighting for all fluids, fixing a long-standing issue in Minecraft.",
+              "created": "2023-06-25T21:34:46.764479Z",
+              "ordering": 10.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/56c4599efcb529a19aed0e118caad4178d7fd540.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/56c4599efcb529a19aed0e118caad4178d7fd540.webp",
+              "featured": false,
+              "title": "Block Shading Improvements",
+              "description": "Sodium greatly improves the shading of blocks, fixing a number of bugs while making block shadows look more smooth and consistent.",
+              "created": "2023-06-25T21:36:48.985787Z",
+              "ordering": 30.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/5ca2e8f6c72f3d543dd3dc95b706964c5678d80e.png",
+              "featured": false,
+              "title": "Sodium 0.5.2",
+              "description": "Sodium greatly optimizes the game's renderer to be faster and more efficient, which can often result in FPS improvements of 300% or more.",
+              "created": "2023-08-19T17:00:08.788447Z",
+              "ordering": 999.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AANobbMI/images/c39debea7fc623306e9c45148084585399fc59ee.webp",
+              "raw_url": "https://cdn.modrinth.com/data/AANobbMI/images/c39debea7fc623306e9c45148084585399fc59ee.webp",
+              "featured": false,
+              "title": "Sodium 0.4.1",
+              "description": "Sodium greatly optimizes the game's renderer to be faster and more efficient, which can often result in FPS improvements of 300% or more.",
+              "created": "2023-06-25T21:30:34.663388Z",
+              "ordering": 1000.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "UETw0GTI",
+          "project_id": "AANobbMI",
+          "author_id": "TEZXhE2U",
+          "name": "Sodium 0.9.1 for NeoForge 26.1.2",
+          "version_number": "mc26.1.2-0.9.1-neoforge",
+          "changelog": "Sodium 0.9.1 for Minecraft 26.1.2 introduces asynchronous occlusion culling alongside other small improvements and fixes for crashes to improve stability.\n\nThis generally improves performance and avoids the frame rate dropping when the camera is moved, especially at high render distances. This feature has been in the works for a long time now, and together with the release for Minecraft 26.2, we've decided to release it. More work is planned, including improvements to the task scheduling system and optimizations to improve responsiveness.\n\n- Implementation of Asynchronous Graph Culling and Frame-Independent Task Scheduling ([#2887](https://github.com/CaffeineMC/sodium/pull/2887))\n- Fix rare issues with chunk fading\n- Fix crash when using `-Dmixin.debug=true` ([#3689](https://github.com/CaffeineMC/sodium/pull/3689))\n- Only make environment changes if the early window will create a gl context early ([#3697](https://github.com/CaffeineMC/sodium/pull/3697))\n- Improve the presentation and wording of some video options ([#3700](https://github.com/CaffeineMC/sodium/pull/3700))\n- Fix water color handling\n- Fix broken block tinting by not incorrectly converting to the wrong color format\n- Fix fluid color overrides not being applied ([#3729](https://github.com/CaffeineMC/sodium/pull/3729))\n- Fix crash \"getResources is null\" ([#3752](https://github.com/CaffeineMC/sodium/pull/3752))\n- Fix crash \"centroid is null,\" \"allQuads is null,\" and \"geometryPlanes is null\" ([#3757](https://github.com/CaffeineMC/sodium/pull/3757), [#3805](https://github.com/CaffeineMC/sodium/pull/3805))\n- Fix crashes resulting from unsafe concurrency in async culling \"ArrayIndexOutOfBoundsException\" ([#3756](https://github.com/CaffeineMC/sodium/pull/3756))\n- Improved mod compatibility by using occlusion culling from camera render state ([#3764](https://github.com/CaffeineMC/sodium/pull/3764))\n- Optimize checks for immediate presentation in RSM ([#3768](https://github.com/CaffeineMC/sodium/pull/3768))\n- Cache max draw size in MultiDrawBatch instead of scanning every frame ([#3773](https://github.com/CaffeineMC/sodium/pull/3773))\n- Fix crash \"sorter is null\" ([#3787](https://github.com/CaffeineMC/sodium/pull/3787))\n- Internal code quality improvements and cleanup\n- Remove extra ABGR conversion to fix incorrect falling block coloration ([#3798](https://github.com/CaffeineMC/sodium/pull/3798))\n- Fix non-terrain block lighting ([#3800](https://github.com/CaffeineMC/sodium/pull/3800))\n- Fix command line not being restored after NeoForge early window init ([#3803](https://github.com/CaffeineMC/sodium/pull/3803))\n\nIris versions 1.11.1 and older are not compatible, and you will need to download an appropriate version from Modrinth, or if no such version is available there, from the Iris Discord server.",
+          "date_published": "2026-07-08T21:04:04.939552Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "f7f39fc069d91873b952a95ee778032b5b9793fdc70bec732275919f1844a858fbba38e536cfc2132524b814e87f9fe000847c5bd251f1b9d7d655d818afb4a5",
+                "sha1": "f369407251bdeb3b91d3e67fbbc133263b0c9078"
+              },
+              "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UETw0GTI/sodium-neoforge-0.9.1%2Bmc26.1.2.jar",
+              "filename": "sodium-neoforge-0.9.1+mc26.1.2.jar",
+              "primary": true,
+              "size": 1185970
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Extra Emeralds Please!",
+        "version": "extra_emeralds-1.0.0-neoforge-26.1.2.jar",
+        "optional": true,
+        "file": "extra_emeralds-1.0.0-neoforge-26.1.2.jar",
+        "type": "mods",
+        "description": "Expand emeralds' use with over 6 new blocks, items, and tools",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1579751,
+        "curseForgeFileId": 8274654,
+        "curseForgeProject": {
+          "id": 1579751,
+          "name": "Extra Emeralds Please!",
+          "authors": [
+            {
+              "id": 128437729,
+              "name": "Shipsun",
+              "url": "https://www.curseforge.com/members/shipsun"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Expand emeralds' use with over 6 new blocks, items, and tools",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "extra-emeralds-please",
+          "isFeatured": false,
+          "dateModified": "2026-06-19T07:48:15.917Z",
+          "dateCreated": "2026-06-19T07:44:37.07Z",
+          "dateReleased": "2026-06-18T18:33:55.053Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/extra-emeralds-please"
+          },
+          "socialLinks": [
+            {
+              "type": "10",
+              "url": "https://www.youtube.com/@shipsun/videos"
+            },
+            {
+              "type": "3",
+              "url": "https://shipsunmods.lovable.app/"
+            }
+          ],
+          "logo": {
+            "id": 1873104,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1873/104/256/256/639174042472756079.png",
+            "title": "639174042472756079.png",
+            "url": "https://media.forgecdn.net/avatars/1873/104/639174042472756079.png",
+            "modId": 1579751
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8274654
+        },
+        "curseForgeFile": {
+          "id": 8274654,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "extra_emeralds-1.0.0-neoforge-26.1.2.jar",
+          "fileName": "extra_emeralds-1.0.0-neoforge-26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-06-18T18:33:55.053Z",
+          "fileLength": 6444464,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3648313270,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2411742119,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1761519211,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3623911069,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 976133839,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2929201541,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "86c2406282aca81158bcc794e0b41ee8cdc4f621",
+              "algo": 1
+            },
+            {
+              "value": "725028bd98f10cc138bd33e1b9d9617d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1870928136,
+          "modId": 1579751
+        }
+      },
+      {
+        "name": "Complementary Shaders - Unbound",
+        "version": "Complementary Unbound r5.9",
+        "optional": true,
+        "file": "ComplementaryUnbound_r5.9.zip",
+        "type": "shaderpack",
+        "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 385587,
+        "curseForgeFileId": 8791767,
+        "curseForgeProject": {
+          "id": 385587,
+          "name": "Complementary Shaders - Unbound",
+          "authors": [
+            {
+              "id": 100618333,
+              "name": "EminGT",
+              "url": "https://www.curseforge.com/members/emingt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. ",
+          "categories": [
+            {
+              "name": "Fantasy",
+              "slug": "fantasy",
+              "url": "https://www.curseforge.com/minecraft/shaders/fantasy",
+              "dateModified": "2023-08-08T12:50:15.257Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6554,
+              "iconUrl": "https://media.forgecdn.net/avatars/862/444/638270958152572728.png",
+              "parentCategoryId": 6552,
+              "classId": 6552
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6554,
+          "classId": 6552,
+          "slug": "complementary-unbound",
+          "isFeatured": false,
+          "dateModified": "2026-09-02T10:55:55.02Z",
+          "dateCreated": "2020-05-26T20:29:24.193Z",
+          "dateReleased": "2026-09-02T10:52:14.287Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/shaders/complementary-unbound",
+            "wikiUrl": "",
+            "issuesUrl": "https://discord.gg/ck5htDSQPv"
+          },
+          "logo": {
+            "id": 875480,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/875/480/256/256/638298072228596362.png",
+            "title": "638298072228596362.png",
+            "url": "https://media.forgecdn.net/avatars/875/480/638298072228596362.png",
+            "modId": 385587
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 726652,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/726/652/310/172/unbound3_cherryrainbow.png",
+              "title": "Morning - Cherry Grove",
+              "url": "https://media.forgecdn.net/attachments/726/652/unbound3_cherryrainbow.png",
+              "modId": 385587
+            }
+          ],
+          "mainFileId": 8791767
+        },
+        "curseForgeFile": {
+          "id": 8791767,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Complementary Unbound r5.9",
+          "fileName": "ComplementaryUnbound_r5.9.zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-09-02T10:52:14.287Z",
+          "fileLength": 552453,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 616155307,
+              "name": ".gitignore"
+            },
+            {
+              "fingerprint": 3932948327,
+              "name": "HOW TO INSTALL.txt"
+            },
+            {
+              "fingerprint": 93728251,
+              "name": "License.txt"
+            },
+            {
+              "fingerprint": 292317416,
+              "name": "shaderFile_1"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_2"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_A.placebo"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_B.placebo"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_C.placebo"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_D.placebo"
+            },
+            {
+              "fingerprint": 2702737872,
+              "name": "shaderFile_E.placebo"
+            },
+            {
+              "fingerprint": 1096224044,
+              "name": "shaders"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7d0e7113631d17f2d8ee0f45d7dbd5daed64e657",
+              "algo": 1
+            },
+            {
+              "value": "566f4c03252a950e8b74bede9e684827",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000017.0000000001",
+              "gameVersion": "1.17.1",
+              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+              "gameVersionName": "1.17.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000010.0000000002",
+              "gameVersion": "1.10.2",
+              "gameVersionReleaseDate": "2016-06-23T05:00:00Z",
+              "gameVersionName": "1.10.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000008",
+              "gameVersion": "1.21.8",
+              "gameVersionReleaseDate": "2025-07-17T14:01:29.007Z",
+              "gameVersionName": "1.21.8"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000009.0000000004",
+              "gameVersion": "1.9.4",
+              "gameVersionReleaseDate": "2016-05-10T05:00:00Z",
+              "gameVersionName": "1.9.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000004",
+              "gameVersion": "1.14.4",
+              "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+              "gameVersionName": "1.14.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000005",
+              "gameVersion": "1.21.5",
+              "gameVersionReleaseDate": "2025-03-25T16:46:25.94Z",
+              "gameVersionName": "1.21.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
+              "gameVersionName": "1.21.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-08-30T00:00:00Z",
+              "gameVersionName": "OptiFine"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000006",
+              "gameVersion": "1.21.6",
+              "gameVersionReleaseDate": "2025-06-17T19:44:59.623Z",
+              "gameVersionName": "1.21.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000007.0000000010",
+              "gameVersion": "1.7.10",
+              "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
+              "gameVersionName": "1.7.10"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000003",
+              "gameVersion": "1.21.3",
+              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
+              "gameVersionName": "1.21.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000007",
+              "gameVersion": "1.21.7",
+              "gameVersionReleaseDate": "2025-06-30T14:45:05.54Z",
+              "gameVersionName": "1.21.7"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015.0000000002",
+              "gameVersion": "1.15.2",
+              "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+              "gameVersionName": "1.15.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000011.0000000002",
+              "gameVersion": "1.11.2",
+              "gameVersionReleaseDate": "2016-12-21T06:00:00Z",
+              "gameVersionName": "1.11.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000008.0000000009",
+              "gameVersion": "1.8.9",
+              "gameVersionReleaseDate": "2015-12-09T06:00:00Z",
+              "gameVersionName": "1.8.9"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000013.0000000002",
+              "gameVersion": "1.13.2",
+              "gameVersionReleaseDate": "2018-10-22T00:00:00Z",
+              "gameVersionName": "1.13.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012.0000000002",
+              "gameVersion": "1.12.2",
+              "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+              "gameVersionName": "1.12.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-08-30T00:00:00Z",
+              "gameVersionName": "Iris"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
+              "gameVersionName": "1.21.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000009",
+              "gameVersion": "1.21.9",
+              "gameVersionReleaseDate": "2025-09-30T15:50:17.583Z",
+              "gameVersionName": "1.21.9"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000010",
+              "gameVersion": "1.21.10",
+              "gameVersionReleaseDate": "2025-10-07T14:57:47Z",
+              "gameVersionName": "1.21.10"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000011",
+              "gameVersion": "1.21.11",
+              "gameVersionReleaseDate": "2025-12-09T16:42:14.27Z",
+              "gameVersionName": "1.21.11"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000002",
+              "gameVersion": "26.2",
+              "gameVersionReleaseDate": "2026-06-16T15:39:22.26Z",
+              "gameVersionName": "26.2"
+            }
+          ],
+          "gameVersions": [
+            "1.17.1",
+            "1.21",
+            "1.16.5",
+            "1.10.2",
+            "1.19.3",
+            "1.20.2",
+            "1.19.4",
+            "1.21.8",
+            "1.9.4",
+            "1.14.4",
+            "1.20.5",
+            "1.21.5",
+            "1.21.4",
+            "1.20.1",
+            "1.20",
+            "OptiFine",
+            "1.20.6",
+            "1.21.1",
+            "1.21.6",
+            "1.7.10",
+            "1.21.3",
+            "1.21.7",
+            "1.15.2",
+            "1.19.1",
+            "1.20.4",
+            "1.18.2",
+            "1.19.2",
+            "1.20.3",
+            "1.11.2",
+            "1.8.9",
+            "1.13.2",
+            "1.12.2",
+            "Iris",
+            "1.19",
+            "1.21.2",
+            "1.21.9",
+            "1.21.10",
+            "1.21.11",
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+          ],
+          "fileFingerprint": 83428285,
+          "modId": 385587
+        },
+        "modrinthProject": {
+          "id": "R6NEzAwj",
+          "slug": "complementary-unbound",
+          "project_type": "shader",
+          "team": "2AJsl7tB",
+          "title": "Complementary Shaders - Unbound",
+          "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance.",
+          "body": "<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/ZGwoSYNPD1o\" title=\"Complementary Shaders r5.0 vs v4.7.2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<br>\n<hr>\n\n[![Patreon Banner](https://www.complementary.dev/assets/img/other/patreon_support_banner.png)](https://patreon.com/emingt)\n\n<br>\n\n### About\nComplementary Shaders is a shader pack for Minecraft Java Edition with exceptional attention to detail, high standards of quality, and top tier optimisation. It offers a ton of high quality effects, two default visual style choices, custom effects for almost every block in the game, profiles ranging from Potato to Ultra and it's designed to never be obstructive during gameplay. It started as an edit of BSL Shaders in 2018, and it received countless major updates including a complete rewrite to meet the standards of our community. Complementary Shaders is dedicated to be shaped by user feedback over anything else, and it still receives regular updates to this day.\n\n\"Unbound\" is one of the two default styles Complementary Shaders r5 comes with. It is the less restricted style of Complementary that aims for a more realistic image. [**Learn more about the two styles here.**](https://www.complementary.dev/shaders/#style-section)\n\n<br>\n\n### Choose Your Style\nComplementary Shaders comes with two distinct visual style options. The only difference between these two styles is the default settings. The Unbound style is designed for people looking for a more realistic experience, while the Reimagined style is made to reimagine Minecraft while preserving its unique visual elements. Please note that you can still customize everything after you download either style. You can switch to blocky clouds on the Unbound style, or use realistic water on the Reimagined style. All settings are located in Shader Options.\n\n-------------------- [**Unbound Style**](https://modrinth.com/shader/complementary-unbound) ---------------------------------------- [**Reimagined Style**](https://modrinth.com/shader/complementary-reimagined) --------------------\n\n![Style Comparison](https://www.complementary.dev/assets/img/editedScreenshots/styleComparison-notitle.png)\n\n<br>\n\n### Installation\n**New:** You can just download the [**Complementary Installer**](https://www.complementary.dev/shaders/#download-section) and click Install to automatically do all the steps below.\n<br>\n**-** First you need to install the [**Iris**](https://irisshaders.dev/download) mod to be able to load shaderpacks.\n<br>\n**-** Then you need to launch the game, and get to the Shaderpacks/Shaders menu in Video Settings.\n<br>\n**-** Open the shaderpacks folder by clicking the button in the menu.\n<br>\n**-** Download Complementary Shaders and put it in the shaderpacks folder. (Please don't unzip the file)\n<br>\n**-** Get back in the game, and choose Complementary in the shaderpacks menu. (Refresh the menu if it doesn't appear)\n\n<br>\n\n### Other\n**-** Check out the [**Complementary Development Website**](https://www.complementary.dev/) for more information.\n<br>\n**-** Join the [**Complementary Discord**](https://discord.gg/ck5htDSQPv) community if you have any questions, or just want to talk.\n<br>\n**-** If you would like to support the development of Complementary, you can do so on [**Patreon**](https://www.patreon.com/emingt).",
+          "published": "2022-12-22T18:59:35.499684Z",
+          "updated": "2026-05-21T14:50:33.267877Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "colored-lighting",
+            "fantasy"
+          ],
+          "loaders": [
+            "iris",
+            "optifine"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/R6NEzAwj/c85ce4049aac76360d2cd24fd9a7003de01ef312_96.webp",
+          "source_url": "https://github.com/ComplementaryDevelopment/ComplementaryReimagined",
+          "discord_url": "https://www.complementary.dev/discord",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/emingt"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/0d56b4e3411149fe19d3a45c0105072c18674960_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/0d56b4e3411149fe19d3a45c0105072c18674960.png",
+              "featured": false,
+              "created": "2026-01-30T21:49:58.764466Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/129865ef5e2eb71f83153cb8e15d8d710fb955a6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/129865ef5e2eb71f83153cb8e15d8d710fb955a6.png",
+              "featured": false,
+              "created": "2026-01-30T22:16:41.110497Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/17a9de3ec65eb86b70a8e9806b4a563413a31076_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/17a9de3ec65eb86b70a8e9806b4a563413a31076.png",
+              "featured": false,
+              "created": "2026-01-30T21:57:57.621373Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/187bd949bf0161e4b5779abf8294859b33c2cdda_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/187bd949bf0161e4b5779abf8294859b33c2cdda.png",
+              "featured": false,
+              "created": "2026-01-30T21:58:18.633555Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/3313649b8546f22a4111f40ab01318773ebcc997_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/3313649b8546f22a4111f40ab01318773ebcc997.png",
+              "featured": false,
+              "created": "2026-01-30T21:51:19.883430Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/48d68baf332e2a5e144db88df25dbc378765cb62_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/48d68baf332e2a5e144db88df25dbc378765cb62.png",
+              "featured": false,
+              "created": "2026-01-30T22:17:41.841862Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/52b5e927b7dd299394f98acb1ccba3d45db82ac4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/52b5e927b7dd299394f98acb1ccba3d45db82ac4.png",
+              "featured": false,
+              "created": "2026-01-30T21:52:08.675410Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/58c2e3137fd5e7b0453293e1713e82aee363a807_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/58c2e3137fd5e7b0453293e1713e82aee363a807.jpeg",
+              "featured": false,
+              "created": "2026-01-30T22:11:53.529626Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/7c45cec837f459ef49571d230e54952c42717cab_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/7c45cec837f459ef49571d230e54952c42717cab.png",
+              "featured": false,
+              "created": "2026-01-30T21:51:36.667200Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/7d10977dbee6ee9fc05b5ae86690db982959609e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/7d10977dbee6ee9fc05b5ae86690db982959609e.png",
+              "featured": false,
+              "created": "2026-01-30T21:55:35.809535Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/8434da89fc850fa2af2917c1fb4e82ed9e7ef1e9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/8434da89fc850fa2af2917c1fb4e82ed9e7ef1e9.jpeg",
+              "featured": false,
+              "created": "2026-01-30T22:12:04.543247Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/859d7d7f3f723118faf93cf2eff9d7e9ac55baf6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/859d7d7f3f723118faf93cf2eff9d7e9ac55baf6.png",
+              "featured": false,
+              "created": "2026-01-30T22:17:00.516109Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/a5a420ab1668bcfe47a76a812eede7056c45fe31_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/633d43e76597db2a2e07e40777dd8b60f37136b1.png",
+              "featured": true,
+              "created": "2023-09-08T21:54:00.865156Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/f9329207e0d5ec390bdc8cb472a27b215ecd478b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/f9329207e0d5ec390bdc8cb472a27b215ecd478b.png",
+              "featured": false,
+              "created": "2026-01-30T22:09:35.487028Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa34f868af9f678a4fa178b227ae35caa081ab01_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa34f868af9f678a4fa178b227ae35caa081ab01.jpeg",
+              "featured": false,
+              "created": "2026-01-30T22:16:22.937696Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa57e1691b057e313a414be5fd66ea93e2fd093d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa57e1691b057e313a414be5fd66ea93e2fd093d.png",
+              "featured": false,
+              "created": "2026-01-30T21:55:07.135683Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa5a42994b1285041f4ce213aabd752412a8e8fb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/R6NEzAwj/images/fa5a42994b1285041f4ce213aabd752412a8e8fb.jpeg",
+              "featured": false,
+              "created": "2026-01-30T21:53:10.197937Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "w6dISYOd",
+          "project_id": "R6NEzAwj",
+          "author_id": "O8iu3LjK",
+          "name": "r5.9",
+          "version_number": "r5.9",
+          "changelog": "Another major Complementary update is out now. This time mainly focusing on polishing the general experience. Aside from fully supporting Minecraft 26.2 features like the special fog in Sulfur Caves; r5.9 brings improved frame rates, tweaked daytime sky, complete volumetric reflection support for the End, more control over shader settings, rebalanced higher performance profiles, a bunch of tweaks, improvements, and a ton of bug fixes as always. \n\nThe full list of changes can be found at https://www.complementary.dev/changelogs",
+          "date_published": "2026-09-02T10:49:24.206713Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "2485490c52c4bf9fa35e015a926d4f7863c2b74f4d8f82fa93432490a361f5d6a36070ee5b3033fa9d90c51a768823a688d2660fb2a736366ae37541438d798e",
+                "sha1": "7d0e7113631d17f2d8ee0f45d7dbd5daed64e657"
+              },
+              "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/w6dISYOd/ComplementaryUnbound_r5.9.zip",
+              "filename": "ComplementaryUnbound_r5.9.zip",
+              "primary": true,
+              "size": 552453
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.7.10",
+            "1.8",
+            "1.8.1",
+            "1.8.2",
+            "1.8.3",
+            "1.8.4",
+            "1.8.5",
+            "1.8.6",
+            "1.8.7",
+            "1.8.8",
+            "1.8.9",
+            "1.9",
+            "1.9.1",
+            "1.9.2",
+            "1.9.3",
+            "1.9.4",
+            "1.10",
+            "1.10.1",
+            "1.10.2",
+            "1.11",
+            "1.11.1",
+            "1.11.2",
+            "1.12",
+            "1.12.1",
+            "1.12.2",
+            "1.13",
+            "1.13.1",
+            "1.13.2",
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1",
+            "1.21.2",
+            "1.21.3",
+            "1.21.4",
+            "1.21.5",
+            "1.21.6",
+            "1.21.7",
+            "1.21.8",
+            "1.21.9",
+            "1.21.10",
+            "1.21.11",
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+          ],
+          "loaders": [
+            "iris",
+            "optifine"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
@@ -12292,7 +12631,7 @@
     "lastPlayed": 1788700813592,
     "numPlays": 1,
     "lastExportName": "RAoE P1",
-    "lastExportVersion": "1.0.1",
+    "lastExportVersion": "1.0.3",
     "lastExportAuthor": "Lauriichan",
     "lastExportSaveTo": "G:\\Minecraft\\ATLauncher\\instances\\RAoEP1"
   },

@@ -9,14 +9,15 @@ A Random Assortment of Mods for 26.1.2
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)) [3.0.9+mc26.1]
 - Clumps ([Modrinth](https://modrinth.com/mod/clumps) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)) [26.1.2.1]
 - Common Capabilities ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities))
+- Complementary Shaders - Unbound ([Modrinth](https://modrinth.com/mod/complementary-unbound) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/complementary-unbound)) [r5.9]
 - Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
 - Controlling ([Modrinth](https://modrinth.com/mod/controlling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)) [26.1.2.4]
 - Cyclops Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
 - Dense Ores ([Modrinth](https://modrinth.com/mod/dense-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dense-ores-abundant)) [1.4.1-neoforge]
 - Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)) [26.1.2.6]
 - Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.10.0-r5.9-neoforge]
+- Extra Emeralds Please! ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-emeralds-please))
 - Extreme sound muffler ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [4.02-ALPHA-26.1.2]
-- Fabric Language Kotlin ([Modrinth](https://modrinth.com/mod/fabric-language-kotlin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)) [1.13.13+kotlin.2.4.10]
 - FerriteCore ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [9.0.0-neoforge]
 - Geophilic ([Modrinth](https://modrinth.com/mod/geophilic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geophilic)) [3.6]
 - Integrated Crafting ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting))
@@ -38,6 +39,6 @@ A Random Assortment of Mods for 26.1.2
 - Retraining ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/retraining))
 - Seamless Trading ([Modrinth](https://modrinth.com/mod/seamlesstrading) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamlesstrading)) [1.3.0]
 - Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
-- Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc26.1.2-0.9.2-beta.1-neoforge]
+- Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc26.1.2-0.9.1-neoforge]
 - Sound Physics Remastered ([Modrinth](https://modrinth.com/mod/sound-physics-remastered) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)) [neoforge-1.5.1+26.1.2]
 - Starcatcher ([Modrinth](https://modrinth.com/mod/starcatcher) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starcatcher)) [3.1.2-PREVIEW-NEOFORGE-26.1.2]
