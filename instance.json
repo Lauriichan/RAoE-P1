@@ -5022,14 +5022,14 @@
           "summary": "A total overhaul to Minecraft's enchanting system",
           "categories": [
             {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -5046,14 +5046,14 @@
               "classId": 6
             },
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
               "gameId": 432,
               "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -6164,9 +6164,9 @@
           "classId": 6,
           "slug": "starcatcher",
           "isFeatured": false,
-          "dateModified": "2026-09-07T05:53:46.723Z",
+          "dateModified": "2026-09-09T02:00:48.453Z",
           "dateCreated": "2025-10-03T08:32:32.333Z",
-          "dateReleased": "2026-09-07T05:44:42.393Z",
+          "dateReleased": "2026-09-09T01:53:00.127Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/starcatcher",
             "wikiUrl": "https://github.com/wdiscute/starcatcher/wiki",
@@ -6298,7 +6298,7 @@
               "modId": 1357603
             }
           ],
-          "mainFileId": 8827934
+          "mainFileId": 8841406
         },
         "curseForgeFile": {
           "id": 8797585,
@@ -6758,9 +6758,9 @@
           "classId": 6,
           "slug": "cyclops-core",
           "isFeatured": false,
-          "dateModified": "2026-09-05T11:03:12.57Z",
+          "dateModified": "2026-09-07T18:32:10.167Z",
           "dateCreated": "2015-07-15T18:05:59.023Z",
-          "dateReleased": "2026-09-05T10:55:39Z",
+          "dateReleased": "2026-09-07T18:15:04.567Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
             "wikiUrl": "https://github.com/CyclopsMC/CyclopsCore/wiki",
@@ -6918,18 +6918,6 @@
           "summary": "Forge Capabilities that can be shared by multiple mods",
           "categories": [
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "API and Library",
               "slug": "library-api",
               "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
@@ -6940,6 +6928,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -6947,9 +6947,9 @@
           "classId": 6,
           "slug": "common-capabilities",
           "isFeatured": false,
-          "dateModified": "2026-09-01T19:25:01.64Z",
+          "dateModified": "2026-09-08T17:59:15.307Z",
           "dateCreated": "2016-07-03T17:06:45.793Z",
-          "dateReleased": "2026-09-01T19:09:02.983Z",
+          "dateReleased": "2026-09-08T17:52:03.02Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities",
             "wikiUrl": "",
@@ -7351,15 +7351,15 @@
           "summary": "A JEI addon that adds mob drops, ore gen, ..",
           "categories": [
             {
-              "name": "Ores and Resources",
-              "slug": "world-ores-resources",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
-              "dateModified": "2014-05-08T17:36:41.233Z",
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
               "gameId": 432,
               "isClass": false,
-              "id": 408,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
-              "parentCategoryId": 406,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -7399,15 +7399,15 @@
               "classId": 6
             },
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
               "gameId": 432,
               "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -9827,9 +9827,9 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2026-09-06T09:01:53.617Z",
+          "dateModified": "2026-09-09T12:43:49.39Z",
           "dateCreated": "2015-11-23T23:00:41.923Z",
-          "dateReleased": "2026-09-06T08:50:35.437Z",
+          "dateReleased": "2026-09-09T12:38:51.367Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
             "wikiUrl": "",
@@ -10124,18 +10124,6 @@
           "summary": "A mod to take full and automated control of your appliances.",
           "categories": [
             {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -10170,6 +10158,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
               "parentCategoryId": 412,
               "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -10177,9 +10177,9 @@
           "classId": 6,
           "slug": "integrated-dynamics",
           "isFeatured": false,
-          "dateModified": "2026-09-06T18:04:07.69Z",
+          "dateModified": "2026-09-07T18:15:50.153Z",
           "dateCreated": "2015-09-23T17:02:45.593Z",
-          "dateReleased": "2026-09-06T17:53:19.847Z",
+          "dateReleased": "2026-09-07T17:57:45.74Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
             "wikiUrl": "https://github.com/CyclopsMC/IntegratedDynamics/wiki",
@@ -10508,6 +10508,18 @@
           "summary": "Transfer other stuff over Integrated Dynamics networks",
           "categories": [
             {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "Energy, Fluid, and Item Transport",
               "slug": "technology-item-fluid-energy-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
@@ -10530,18 +10542,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
               "parentCategoryId": 426,
               "classId": 6
-            },
-            {
-              "name": "Automation",
-              "slug": "technology-automation",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
-              "dateModified": "2021-03-08T14:46:13.24Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4843,
-              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
-              "parentCategoryId": 412,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -10549,9 +10549,9 @@
           "classId": 6,
           "slug": "integrated-tunnels",
           "isFeatured": false,
-          "dateModified": "2026-09-06T05:22:16.857Z",
+          "dateModified": "2026-09-07T15:09:57.497Z",
           "dateCreated": "2016-10-08T12:45:31.653Z",
-          "dateReleased": "2026-09-06T05:10:42.53Z",
+          "dateReleased": "2026-09-07T14:50:28.06Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
             "wikiUrl": "",
@@ -10687,7 +10687,7 @@
               "modId": 251389
             }
           ],
-          "mainFileId": 8813839
+          "mainFileId": 8830621
         },
         "curseForgeFile": {
           "id": 8813801,
@@ -10816,30 +10816,6 @@
           "summary": "Terminals for managing and overviewing Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Integrated Dynamics",
-              "slug": "integrated-dynamics",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
-              "dateModified": "2024-02-06T12:50:12.453Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6954,
-              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
-              "parentCategoryId": 426,
-              "classId": 6
-            },
-            {
               "name": "Technology",
               "slug": "technology",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
@@ -10874,6 +10850,30 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
               "parentCategoryId": 412,
               "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Integrated Dynamics",
+              "slug": "integrated-dynamics",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
+              "dateModified": "2024-02-06T12:50:12.453Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6954,
+              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
+              "parentCategoryId": 426,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -10881,9 +10881,9 @@
           "classId": 6,
           "slug": "integrated-terminals",
           "isFeatured": false,
-          "dateModified": "2026-09-06T14:57:38.173Z",
+          "dateModified": "2026-09-08T18:08:46.89Z",
           "dateCreated": "2019-01-18T18:43:17.843Z",
-          "dateReleased": "2026-09-06T14:48:48.15Z",
+          "dateReleased": "2026-09-08T18:05:01.36Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
             "wikiUrl": "",
@@ -11154,18 +11154,6 @@
               "classId": 6
             },
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -11200,6 +11188,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
               "parentCategoryId": 412,
               "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -11207,9 +11207,9 @@
           "classId": 6,
           "slug": "integrated-crafting",
           "isFeatured": false,
-          "dateModified": "2026-09-06T18:16:26.29Z",
+          "dateModified": "2026-09-08T18:17:02.733Z",
           "dateCreated": "2019-01-18T18:36:56.627Z",
-          "dateReleased": "2026-09-06T18:08:39.08Z",
+          "dateReleased": "2026-09-08T18:09:41.15Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
             "wikiUrl": "",
@@ -12623,15 +12623,369 @@
             "optifine"
           ]
         }
+      },
+      {
+        "name": "Simple Voice Chat",
+        "version": "[NEOFORGE][26.1.2] Simple Voice Chat 2.6.23+26.1.2",
+        "optional": true,
+        "file": "voicechat-neoforge-2.6.23+26.1.2.jar",
+        "type": "mods",
+        "description": "A working voice chat in Minecraft!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 416089,
+        "curseForgeFileId": 8808047,
+        "curseForgeProject": {
+          "id": 416089,
+          "name": "Simple Voice Chat",
+          "authors": [
+            {
+              "id": 20569971,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A working voice chat in Minecraft!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "simple-voice-chat",
+          "isFeatured": false,
+          "dateModified": "2026-09-08T14:43:57.593Z",
+          "dateCreated": "2020-10-28T19:09:35.643Z",
+          "dateReleased": "2026-09-04T16:31:37.487Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+            "wikiUrl": "https://modrepo.de/minecraft/voicechat/wiki",
+            "issuesUrl": "https://github.com/henkelmax/simple-voice-chat/issues",
+            "sourceUrl": "https://github.com/henkelmax/simple-voice-chat"
+          },
+          "logo": {
+            "id": 391367,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/391/367/256/256/637584172062782791.png",
+            "title": "637584172062782791.png",
+            "url": "https://media.forgecdn.net/avatars/391/367/637584172062782791.png",
+            "modId": 416089
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8601566
+        },
+        "curseForgeFile": {
+          "id": 8808047,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NEOFORGE][26.1.2] Simple Voice Chat 2.6.23+26.1.2",
+          "fileName": "voicechat-neoforge-2.6.23+26.1.2.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-09-04T16:15:54.733Z",
+          "fileLength": 4922329,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 416089,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1445348756,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3097232531,
+              "name": "de"
+            },
+            {
+              "fingerprint": 3253926469,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1777547000,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2947182072,
+              "name": "packs"
+            },
+            {
+              "fingerprint": 1291037065,
+              "name": "CONCENTUS_LICENSE"
+            },
+            {
+              "fingerprint": 2731352176,
+              "name": "NATIVE_UTILS_LICENSE"
+            },
+            {
+              "fingerprint": 2130667667,
+              "name": "OPUS_LICENSE"
+            },
+            {
+              "fingerprint": 2990684845,
+              "name": "natives"
+            },
+            {
+              "fingerprint": 3924282273,
+              "name": "RNNOISE_LICENSE"
+            },
+            {
+              "fingerprint": 297457271,
+              "name": "rnnoise"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "LAME4J_LICENSE"
+            },
+            {
+              "fingerprint": 1633161558,
+              "name": "LAME_LICENSE"
+            },
+            {
+              "fingerprint": 4000936336,
+              "name": "MINIMP3_LICENSE"
+            },
+            {
+              "fingerprint": 3609796689,
+              "name": "SPEEX_LICENSE"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ae5328f10b5f0ffe86a1e6d09586eb2164cf518b",
+              "algo": 1
+            },
+            {
+              "value": "87954ebac26df59fd7f5ffab522f2987",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1481583810,
+          "modId": 416089
+        },
+        "modrinthProject": {
+          "id": "9eGKb6K1",
+          "slug": "simple-voice-chat",
+          "project_type": "mod",
+          "team": "O9wOHL2n",
+          "title": "Simple Voice Chat",
+          "description": "A working voice chat in Minecraft!",
+          "body": "[Modrinth](https://modrinth.com/mod/simple-voice-chat)\n|\n[CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/simple-voice-chat)\n|\n[Discord](https://discord.gg/4dH2zwTmyX)\n|\n[Wiki](https://modrepo.de/minecraft/voicechat/wiki)\n|\n[FAQ](https://modrepo.de/minecraft/voicechat/faq)\n|\n[Credits](https://modrepo.de/minecraft/voicechat/credits)\n|\n[API](https://modrepo.de/minecraft/voicechat/api)\n\n# Simple Voice Chat\n\nA proximity voice chat for Minecraft with a variety of [addons](https://modrepo.de/minecraft/voicechat/addons) that offer additional features and functionalities.\n\n⚠️ **NOTE** This mod requires special setup on the server in order to work.\nPlease read the [wiki](https://modrepo.de/minecraft/voicechat/wiki/setup) for more information.\n\n<p align=\"center\">\n    <a href=\"https://discord.gg/4dH2zwTmyX\">\n        <img src=\"https://cdn.modrinth.com/data/cached_images/5ac8884b3c4916cbac2b514220b9bb678db039b7.png\" width=\"300\">\n    </a>\n    <br/>\n    <i>Please join the Discord if you have questions!</i>\n</p>\n\n## Downloads\n\n- [Fabric](https://modrinth.com/mod/simple-voice-chat/versions?l=fabric)\n- [NeoForge](https://modrinth.com/mod/simple-voice-chat/versions?l=neoforge)\n- [Forge](https://modrinth.com/mod/simple-voice-chat/versions?l=forge)\n- [Bukkit/Spigot/Paper](https://modrinth.com/plugin/simple-voice-chat/versions?l=bukkit)\n- [Quilt](https://modrinth.com/mod/simple-voice-chat/versions?l=quilt)\n- [Velocity](https://modrinth.com/mod/simple-voice-chat/versions?l=velocity)\n- [BungeeCord/Waterfall](https://modrinth.com/mod/simple-voice-chat/versions?l=bungeecord)\n\n## Features\n\n- Push to talk\n- Voice activation\n- Proximity voice chat\n- Password protected groups\n- Automatic voice activity detection\n- Automatic microphone gain adjustment\n- [Opus codec](https://opus-codec.org/)\n- [RNNoise](https://jmvalin.ca/demo/rnnoise/) recurrent neural network noise suppression\n- OpenAL audio\n- Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper\n- Support for Velocity, BungeeCord and Waterfall\n- Compatibility with [ModMenu](https://modrinth.com/mod/modmenu) (Use [ClothConfig](https://modrinth.com/mod/cloth-config) for a better configuration UI)\n- Configurable push to talk key\n- Microphone and speaker test playback\n- Configurable voice distance\n- Whispering\n- Individual player volume adjustment\n- Microphone amplification\n- 3D sound\n- AES encryption\n- Audio recording with separate audio tracks\n- A powerful [API](https://modrepo.de/minecraft/voicechat/api)\n- Many [addons](https://modrepo.de/minecraft/voicechat/addons)\n\n## Icons\n\n|                 Icon                 | Description                                           |\n|:------------------------------------:|-------------------------------------------------------|\n| ![](https://cdn.modrinth.com/data/cached_images/920509ef166dd12999f5c37593726d5b38b178df_0.webp) | You are talking                                       |\n| ![](https://cdn.modrinth.com/data/cached_images/fca88ce39851e803b131d80f967baceb979e981e.png) | You are whispering                                    |\n| ![](https://cdn.modrinth.com/data/cached_images/3295a4809a4c5fa34130cf2b0ca4cb0c877ef0b6_0.webp) | Player is talking                                     |\n| ![](https://cdn.modrinth.com/data/cached_images/f65e6c7acc8a12fe235f6a2eab6f7312ec459d0a_0.webp) | Player is whispering                                  |\n| ![](https://cdn.modrinth.com/data/cached_images/8cb7bef660801ee9bee15e12864d766b57905540.png) | Microphone muted                                      |\n| ![](https://cdn.modrinth.com/data/cached_images/05cfff1ecdba43d43e3ed8920e84834babb1b04e.png) | Voice chat disabled                                   |\n| ![](https://cdn.modrinth.com/data/cached_images/ce6cc8977f481476d7f6759bf21f34788d09476f.png) | Voice chat not connected<br/>Voice chat not installed |\n\n## The GUI\n\nYou can open the voice chat GUI by pressing the `V` key.\nThis allows you to open the settings, group chats, mute yourself, disable the voice chat, start/stop a recording and hide all icons.\n\n![](https://cdn.modrinth.com/data/cached_images/c46289d611c1c4802c6f44fb9963ec9a04ea63c8.png)\n\n### Group Chats\n\nGroup chats allow you to talk to players that are not in your vicinity.\nTo open the group chat interface, either press the group button in the voice chat GUI or just press the group key.\n\nTo create a new group, just type a name in the text field and press the button at the bottom.\n\n![](https://cdn.modrinth.com/data/cached_images/dcaa5edc9ee9c404d93d17d5d687f853bb710cda.png)\n\nCreating or joining a group will bring you into the group chat interface.\nYou will also see the heads of the group members in the top left corner of your screen.\nTalking players will be outlined.\nYou can disable these icons by pressing the third button from the left.\n\n![](https://cdn.modrinth.com/data/cached_images/63b27eb45a5e2b5c8df35fb7c63a4ba79cccb154.png)\n\nPlayers that are not in a group will see a group icon next to your head, indicating that you are in a group.\n\nYou can invite players to your group chat by entering the command `/voicechat invite <playername>` or from the social interactions screen.\n\n### Settings\n\nYou can access the voice chat settings by pressing the `V` key and pressing the settings button.\n\nThis menu offers the ability to set up your voice chat audio settings.\n\nBy clicking the microphone button, you can test your microphone activation.\n\n![](https://cdn.modrinth.com/data/cached_images/838d33f174e66349feff2fc7edc03e19a8dd8634.png)\n\n## Important Notes\n\nYou need to open a port on the server. This is port `24454` `UDP` by default.\nWithout opening this port, the voice chat will not work.\nThis port can be changed in the server config.\nMore information [here](https://modrepo.de/minecraft/voicechat/wiki/setup).\n\nThe voice chat is encrypted, but we don't guarantee the security of it. Use at your own risk!\n",
+          "published": "2021-11-15T12:29:48.239701Z",
+          "updated": "2026-09-08T14:31:48.887193Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "adventure",
+            "social",
+            "utility"
+          ],
+          "loaders": [
+            "bukkit",
+            "bungeecord",
+            "fabric",
+            "folia",
+            "forge",
+            "neoforge",
+            "paper",
+            "purpur",
+            "quilt",
+            "spigot",
+            "velocity",
+            "waterfall"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+          "issues_url": "https://github.com/henkelmax/simple-voice-chat/issues",
+          "source_url": "https://github.com/henkelmax/simple-voice-chat",
+          "wiki_url": "https://modrepo.de/minecraft/voicechat/wiki",
+          "discord_url": "https://discord.gg/4dH2zwTmyX",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/4d220632a3c552a296da08697ddd2fd9d3ef94c0_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/d29a64a23694cd2346aabb94bea25245b7198553.png",
+              "featured": false,
+              "created": "2023-01-12T13:24:04.701172Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/95490c1c7cf1be0d2981476efbc6acfe79c8b58b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/975131df603729941d6549a8e78fed1509bf0518.png",
+              "featured": true,
+              "created": "2023-01-12T13:22:17.934010Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/972b1b3ddd3d7a3305b018ac73b960378a034b34_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/e67d331d676f1bb04103c4c11dbc1a1d084f07d3.png",
+              "featured": false,
+              "title": "Creating a group",
+              "created": "2022-12-23T19:34:16.887291Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/b67e87100eb56b0095efdb80a14e43a7cce812da_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/b67e87100eb56b0095efdb80a14e43a7cce812da.png",
+              "featured": false,
+              "title": "Voice chat menu",
+              "created": "2022-12-23T19:34:14.856490Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/d3a99c7719c3218ec36a4225d0b78c270fa37c0f_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/defc06cc89b331d8282e9b5b51a693ede242cf40.png",
+              "featured": false,
+              "title": "Voice chat settings",
+              "created": "2022-12-23T19:34:19.508592Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/images/e6b0a7cb2cfe84304906b684efdf37029b8b55f9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9eGKb6K1/images/124a01aed1e2ed70d85e3da3c3d8ad0aee3be261.png",
+              "featured": false,
+              "title": "Group menu",
+              "created": "2022-12-23T19:34:18.314489Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "C1DRVKAF",
+          "project_id": "9eGKb6K1",
+          "author_id": "mqxuCPbU",
+          "name": "Simple Voice Chat 2.6.23+26.1.2",
+          "version_number": "neoforge-2.6.23+26.1.2",
+          "changelog": "- Fixed JoinGroupEvent being fired for wrong password attempts\n- Fixed error when shutting down a server\n- Improved resiliency against mods that change the camera off-thread\n",
+          "date_published": "2026-09-04T16:16:10.661309Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9362a494ee9ef343f1833fe6cdad6bf598246b99bb3f22605f21c44c15de74257330700d75ef9a37450cc97269ad964fe6b05a6a14b0eb086f60296d9f317ba8",
+                "sha1": "ae5328f10b5f0ffe86a1e6d09586eb2164cf518b"
+              },
+              "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/C1DRVKAF/voicechat-neoforge-2.6.23%2B26.1.2.jar",
+              "filename": "voicechat-neoforge-2.6.23+26.1.2.jar",
+              "primary": true,
+              "size": 4922329
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9eGKb6K1",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1788700813592,
-    "numPlays": 1,
+    "lastPlayed": 1788879651209,
+    "numPlays": 2,
     "lastExportName": "RAoE P1",
-    "lastExportVersion": "1.0.3",
+    "lastExportVersion": "1.0.4",
     "lastExportAuthor": "Lauriichan",
     "lastExportSaveTo": "G:\\Minecraft\\ATLauncher\\instances\\RAoEP1"
   },
