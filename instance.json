@@ -2985,18 +2985,6 @@
               "classId": 6
             },
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -3005,6 +2993,18 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -3026,9 +3026,9 @@
           "classId": 6,
           "slug": "euphoria-patches",
           "isFeatured": false,
-          "dateModified": "2026-09-02T13:08:21.24Z",
+          "dateModified": "2026-09-11T11:15:00.62Z",
           "dateCreated": "2023-09-26T07:45:10.983Z",
-          "dateReleased": "2026-09-02T11:08:27.48Z",
+          "dateReleased": "2026-09-11T10:06:17.103Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/euphoria-patches",
             "wikiUrl": "https://euphoriapatches.com",
@@ -3219,7 +3219,7 @@
               "modId": 915902
             }
           ],
-          "mainFileId": 8791866
+          "mainFileId": 8856685
         },
         "curseForgeFile": {
           "id": 8791859,
@@ -5022,14 +5022,14 @@
           "summary": "A total overhaul to Minecraft's enchanting system",
           "categories": [
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
               "gameId": 432,
               "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -5046,14 +5046,14 @@
               "classId": 6
             },
             {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -6164,9 +6164,9 @@
           "classId": 6,
           "slug": "starcatcher",
           "isFeatured": false,
-          "dateModified": "2026-09-09T02:00:48.453Z",
+          "dateModified": "2026-09-10T22:58:26.69Z",
           "dateCreated": "2025-10-03T08:32:32.333Z",
-          "dateReleased": "2026-09-09T01:53:00.127Z",
+          "dateReleased": "2026-09-10T22:42:08.733Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/starcatcher",
             "wikiUrl": "https://github.com/wdiscute/starcatcher/wiki",
@@ -6298,7 +6298,7 @@
               "modId": 1357603
             }
           ],
-          "mainFileId": 8841406
+          "mainFileId": 8853068
         },
         "curseForgeFile": {
           "id": 8797585,
@@ -6758,9 +6758,9 @@
           "classId": 6,
           "slug": "cyclops-core",
           "isFeatured": false,
-          "dateModified": "2026-09-07T18:32:10.167Z",
+          "dateModified": "2026-09-11T17:51:38.537Z",
           "dateCreated": "2015-07-15T18:05:59.023Z",
-          "dateReleased": "2026-09-07T18:15:04.567Z",
+          "dateReleased": "2026-09-11T17:17:00.517Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
             "wikiUrl": "https://github.com/CyclopsMC/CyclopsCore/wiki",
@@ -6792,7 +6792,7 @@
               "modId": 232758
             }
           ],
-          "mainFileId": 8813417
+          "mainFileId": 8859264
         },
         "curseForgeFile": {
           "id": 8813396,
@@ -6947,9 +6947,9 @@
           "classId": 6,
           "slug": "common-capabilities",
           "isFeatured": false,
-          "dateModified": "2026-09-08T17:59:15.307Z",
+          "dateModified": "2026-09-11T17:52:56.68Z",
           "dateCreated": "2016-07-03T17:06:45.793Z",
-          "dateReleased": "2026-09-08T17:52:03.02Z",
+          "dateReleased": "2026-09-11T17:19:41.357Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities",
             "wikiUrl": "",
@@ -6972,7 +6972,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 8247199
+          "mainFileId": 8859298
         },
         "curseForgeFile": {
           "id": 8787201,
@@ -7351,15 +7351,15 @@
           "summary": "A JEI addon that adds mob drops, ore gen, ..",
           "categories": [
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
               "gameId": 432,
               "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
               "classId": 6
             },
             {
@@ -7399,15 +7399,15 @@
               "classId": 6
             },
             {
-              "name": "Ores and Resources",
-              "slug": "world-ores-resources",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
-              "dateModified": "2014-05-08T17:36:41.233Z",
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
               "gameId": 432,
               "isClass": false,
-              "id": 408,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
-              "parentCategoryId": 406,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -9827,9 +9827,9 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2026-09-09T12:43:49.39Z",
+          "dateModified": "2026-09-11T15:24:58.64Z",
           "dateCreated": "2015-11-23T23:00:41.923Z",
-          "dateReleased": "2026-09-09T12:38:51.367Z",
+          "dateReleased": "2026-09-11T15:14:47.677Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
             "wikiUrl": "",
@@ -10124,6 +10124,18 @@
           "summary": "A mod to take full and automated control of your appliances.",
           "categories": [
             {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -10158,18 +10170,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
               "parentCategoryId": 412,
               "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -10177,9 +10177,9 @@
           "classId": 6,
           "slug": "integrated-dynamics",
           "isFeatured": false,
-          "dateModified": "2026-09-07T18:15:50.153Z",
+          "dateModified": "2026-09-11T20:34:58.647Z",
           "dateCreated": "2015-09-23T17:02:45.593Z",
-          "dateReleased": "2026-09-07T17:57:45.74Z",
+          "dateReleased": "2026-09-11T19:53:02.5Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
             "wikiUrl": "https://github.com/CyclopsMC/IntegratedDynamics/wiki",
@@ -10363,7 +10363,7 @@
               "modId": 236307
             }
           ],
-          "mainFileId": 8813707
+          "mainFileId": 8860094
         },
         "curseForgeFile": {
           "id": 8813707,
@@ -10508,15 +10508,15 @@
           "summary": "Transfer other stuff over Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Automation",
-              "slug": "technology-automation",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
-              "dateModified": "2021-03-08T14:46:13.24Z",
+              "name": "Integrated Dynamics",
+              "slug": "integrated-dynamics",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
+              "dateModified": "2024-02-06T12:50:12.453Z",
               "gameId": 432,
               "isClass": false,
-              "id": 4843,
-              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
-              "parentCategoryId": 412,
+              "id": 6954,
+              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
+              "parentCategoryId": 426,
               "classId": 6
             },
             {
@@ -10532,15 +10532,15 @@
               "classId": 6
             },
             {
-              "name": "Integrated Dynamics",
-              "slug": "integrated-dynamics",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
-              "dateModified": "2024-02-06T12:50:12.453Z",
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
               "gameId": 432,
               "isClass": false,
-              "id": 6954,
-              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
-              "parentCategoryId": 426,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -10549,9 +10549,9 @@
           "classId": 6,
           "slug": "integrated-tunnels",
           "isFeatured": false,
-          "dateModified": "2026-09-07T15:09:57.497Z",
+          "dateModified": "2026-09-11T20:39:47.313Z",
           "dateCreated": "2016-10-08T12:45:31.653Z",
-          "dateReleased": "2026-09-07T14:50:28.06Z",
+          "dateReleased": "2026-09-11T20:14:17.11Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
             "wikiUrl": "",
@@ -10687,7 +10687,7 @@
               "modId": 251389
             }
           ],
-          "mainFileId": 8830621
+          "mainFileId": 8860178
         },
         "curseForgeFile": {
           "id": 8813801,
@@ -10840,18 +10840,6 @@
               "classId": 6
             },
             {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Energy, Fluid, and Item Transport",
               "slug": "technology-item-fluid-energy-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
@@ -10874,6 +10862,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
               "parentCategoryId": 426,
               "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -10881,9 +10881,9 @@
           "classId": 6,
           "slug": "integrated-terminals",
           "isFeatured": false,
-          "dateModified": "2026-09-08T18:08:46.89Z",
+          "dateModified": "2026-09-11T20:44:09.95Z",
           "dateCreated": "2019-01-18T18:43:17.843Z",
-          "dateReleased": "2026-09-08T18:05:01.36Z",
+          "dateReleased": "2026-09-11T20:19:11.153Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
             "wikiUrl": "",
@@ -11142,6 +11142,18 @@
           "summary": "Craft stuff in Integrated Dynamics networks",
           "categories": [
             {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "Technology",
               "slug": "technology",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
@@ -11178,18 +11190,6 @@
               "classId": 6
             },
             {
-              "name": "Processing",
-              "slug": "technology-processing",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
-              "dateModified": "2014-05-08T17:38:41.96Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 413,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Addons",
               "slug": "mc-addons",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
@@ -11207,9 +11207,9 @@
           "classId": 6,
           "slug": "integrated-crafting",
           "isFeatured": false,
-          "dateModified": "2026-09-08T18:17:02.733Z",
+          "dateModified": "2026-09-11T20:43:08.793Z",
           "dateCreated": "2019-01-18T18:36:56.627Z",
-          "dateReleased": "2026-09-08T18:09:41.15Z",
+          "dateReleased": "2026-09-11T20:10:52.327Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
             "wikiUrl": "",
@@ -11321,7 +11321,7 @@
               "modId": 287357
             }
           ],
-          "mainFileId": 8815026
+          "mainFileId": 8860188
         },
         "curseForgeFile": {
           "id": 8726413,
@@ -11472,9 +11472,9 @@
           "classId": 6,
           "slug": "sodium",
           "isFeatured": false,
-          "dateModified": "2026-09-02T16:15:55.88Z",
+          "dateModified": "2026-09-11T18:26:02.03Z",
           "dateCreated": "2020-07-12T22:45:26.14Z",
-          "dateReleased": "2026-09-02T16:13:15.567Z",
+          "dateReleased": "2026-09-11T18:18:32.207Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sodium",
             "wikiUrl": "https://github.com/CaffeineMC/sodium/wiki",
@@ -11524,7 +11524,7 @@
               "modId": 394468
             }
           ],
-          "mainFileId": 8756612
+          "mainFileId": 8859590
         },
         "curseForgeFile": {
           "id": 8396481,
@@ -11962,9 +11962,9 @@
           "classId": 6552,
           "slug": "complementary-unbound",
           "isFeatured": false,
-          "dateModified": "2026-09-02T10:55:55.02Z",
+          "dateModified": "2026-09-11T10:12:42.867Z",
           "dateCreated": "2020-05-26T20:29:24.193Z",
-          "dateReleased": "2026-09-02T10:52:14.287Z",
+          "dateReleased": "2026-09-11T09:59:12.457Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/shaders/complementary-unbound",
             "wikiUrl": "",
@@ -11989,7 +11989,7 @@
               "modId": 385587
             }
           ],
-          "mainFileId": 8791767
+          "mainFileId": 8856646
         },
         "curseForgeFile": {
           "id": 8791767,
@@ -12680,9 +12680,9 @@
           "classId": 6,
           "slug": "simple-voice-chat",
           "isFeatured": false,
-          "dateModified": "2026-09-08T14:43:57.593Z",
+          "dateModified": "2026-09-11T13:00:41.923Z",
           "dateCreated": "2020-10-28T19:09:35.643Z",
-          "dateReleased": "2026-09-04T16:31:37.487Z",
+          "dateReleased": "2026-09-10T18:21:48.047Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
             "wikiUrl": "https://modrepo.de/minecraft/voicechat/wiki",
@@ -12977,6 +12977,2857 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Butchery",
+        "version": "butchery-5.2-neoforge-26.1.2",
+        "optional": true,
+        "file": "butchery-5.2-neoforge-26.1.2.jar",
+        "type": "mods",
+        "description": "Realistically butcher everything in Minecraft!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 973620,
+        "curseForgeFileId": 8536233,
+        "curseForgeProject": {
+          "id": 973620,
+          "name": "Butchery",
+          "authors": [
+            {
+              "id": 100031863,
+              "name": "jmods",
+              "url": "https://www.curseforge.com/members/jmods"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Realistically butcher everything in Minecraft!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "butchery",
+          "isFeatured": false,
+          "dateModified": "2026-07-29T21:13:39.74Z",
+          "dateCreated": "2024-02-12T10:42:27.753Z",
+          "dateReleased": "2026-07-29T21:05:25.533Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/butchery",
+            "wikiUrl": "",
+            "issuesUrl": "https://discord.gg/suRNQjxMzu",
+            "sourceUrl": "https://github.com/MC-jmods/Butchery"
+          },
+          "logo": {
+            "id": 1149680,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1149/680/256/256/638716979916498132.png",
+            "title": "638716979916498132.png",
+            "url": "https://media.forgecdn.net/avatars/1149/680/638716979916498132.png",
+            "modId": 973620
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 850144,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/144/310/172/2024-04-19_22.png",
+              "title": "Rugs",
+              "url": "https://media.forgecdn.net/attachments/850/144/2024-04-19_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 850143,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/143/310/172/2024-04-19_22.png",
+              "title": "Rottiserie",
+              "url": "https://media.forgecdn.net/attachments/850/143/2024-04-19_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 850142,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/142/310/172/2024-04-19_22.png",
+              "title": "Rotisserie",
+              "url": "https://media.forgecdn.net/attachments/850/142/2024-04-19_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 850141,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/141/310/172/2024-04-19_22.png",
+              "title": "Head Mounts",
+              "url": "https://media.forgecdn.net/attachments/850/141/2024-04-19_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 838640,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/838/640/310/172/2024-04-03_22.png",
+              "title": "Corpses",
+              "url": "https://media.forgecdn.net/attachments/838/640/2024-04-03_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 838639,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/838/639/310/172/2024-04-03_22.png",
+              "title": "Corpses",
+              "url": "https://media.forgecdn.net/attachments/838/639/2024-04-03_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 838638,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/838/638/310/172/2024-04-03_22.png",
+              "title": "Corpses",
+              "url": "https://media.forgecdn.net/attachments/838/638/2024-04-03_22.png",
+              "modId": 973620
+            },
+            {
+              "id": 811074,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/74/310/172/2024-02-20_00.png",
+              "title": "Ore and Salt",
+              "url": "https://media.forgecdn.net/attachments/811/74/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811073,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/73/310/172/2024-02-20_00.png",
+              "title": "Sulphuric Acid",
+              "url": "https://media.forgecdn.net/attachments/811/73/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811072,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/72/310/172/2024-02-20_00.png",
+              "title": "Sulphuric Acid",
+              "url": "https://media.forgecdn.net/attachments/811/72/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811071,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/71/310/172/2024-02-20_00.png",
+              "title": "Salting Skin",
+              "url": "https://media.forgecdn.net/attachments/811/71/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811070,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/70/310/172/2024-02-20_00.png",
+              "title": "Wetting Skin",
+              "url": "https://media.forgecdn.net/attachments/811/70/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811069,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/69/310/172/2024-02-20_00.png",
+              "title": "Clean",
+              "url": "https://media.forgecdn.net/attachments/811/69/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811068,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/68/310/172/2024-02-20_00.png",
+              "title": "Goat",
+              "url": "https://media.forgecdn.net/attachments/811/68/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811067,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/67/310/172/2024-02-20_00.png",
+              "title": "Chicken",
+              "url": "https://media.forgecdn.net/attachments/811/67/2024-02-20_00.png",
+              "modId": 973620
+            },
+            {
+              "id": 811066,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/66/310/172/2024-02-19_23.png",
+              "title": "Skeletons",
+              "url": "https://media.forgecdn.net/attachments/811/66/2024-02-19_23.png",
+              "modId": 973620
+            },
+            {
+              "id": 811065,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/65/310/172/2024-02-19_23.png",
+              "title": "Corpses",
+              "url": "https://media.forgecdn.net/attachments/811/65/2024-02-19_23.png",
+              "modId": 973620
+            },
+            {
+              "id": 811064,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/811/64/310/172/2024-02-19_23.png",
+              "title": "Corpses",
+              "url": "https://media.forgecdn.net/attachments/811/64/2024-02-19_23.png",
+              "modId": 973620
+            }
+          ],
+          "mainFileId": 8536233
+        },
+        "curseForgeFile": {
+          "id": 8536233,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "butchery-5.2-neoforge-26.1.2",
+          "fileName": "butchery-5.2-neoforge-26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-07-29T21:05:25.533Z",
+          "fileLength": 13787571,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 139785961,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2999844765,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1651398015,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1335703252,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3887366407,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c3d332699d49f3d81b3141d85cabe70dff251798",
+              "algo": 1
+            },
+            {
+              "value": "98b9e750471f0af934afcaab41cba974",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3904223600,
+          "modId": 973620
+        },
+        "modrinthProject": {
+          "id": "6YfOmC9t",
+          "slug": "butchery",
+          "project_type": "mod",
+          "team": "kOsnFUiz",
+          "title": "Butchery",
+          "description": "An immersive way of harvesting mobs",
+          "body": "![Title](https://cdn.imgchest.com/files/0dfe69bafcb7.png)\n![Image](https://cdn.imgchest.com/files/793c6ef076c7.png)\n\n## **🔪 What is Butchery?**\n\nButchery is a mod that makes harvesting mobs and animals much much more immersive and fun. Whilst simply killing mobs is still an option with this mod installed, you have the added option of kill a mob with the new Butcher's Knife. Killing a mob with the butchers knife will cause the mobs corpse to drop instead of their original loot (with the exception of sheep, they drop their corpse in addition to their wool). Once you've aquired their corpses you're free to start the butchering process.\n\n## **🥩 Features**\n\nConfig file to customise the mod to your specific needs\nKill mobs with the new butchers knife to obtain their corpse (You can also use the Butcher enchant or enable any tool/weapon to obtain corpses in the config.\nHang corpses from hooks to drain their blood and begin the butchering process.\nSkin corpses - Hang them on skin racks, dampen and cover in salt to obtain leather.\nCut up corpses hanging or on the butchers table to obtain different selections of meat (Farmers Delight food and Vanilla foods can be enabled as an alternative in the config)\nPlace corpses on the rotisserie and a campfire underneath to cook the meat\nFill a mincer with beef or lamb to obtain the minced version\nUse the hammer to break open turtle shells\nVarious different decoration blocks including barrel of cod/salmon, jar, brain in a jar, singing salmon, head mounts, barrel of bones and more\nFunctional blocks such as butchers display (storage for food), spike trap (made from elder guardian drop damages and applies mining fatigue on contact)\n\n## **🐖 Currently Included Mobs & Bosses**\n\n<details>\n<summary>Spoiler</summary>\n\n![Supported Mobs](https://cdn.imgchest.com/files/26081dcfed5f.png)\n\n</details>\n\n## **🦬 Addons**\nAlex's Mobs - [https://modrinth.com/mod/butchery-alexs-mobs-addon](https://modrinth.com/mod/butchery-alexs-mobs-addon)\n\n## **🤩 Support Me**\n\nCreating this mod is taking me a lot of time and effort, if you'd like to support me and supply me with tasty italian fuel to continue with this mod and my others you can buy me a pizza by clicking the link below!\n[https://www.paypal.com/donate/?hosted_button_id=YQU6QGQ5N9ALW](https://www.paypal.com/donate/?hosted_button_id=YQU6QGQ5N9ALW)\n \n## **📜 Common Questions**\n\nQ: Will you port to a version BELOW 1.20.1?\nA: No, sorry this is not possible for me to do. Butchery will only ever update to newer versions of Forge.\n\nQ: Fabric?\nA: No, sorry.\n\nQ: Can I request a compatibility?\nA: Sure, head over to the discord and make a thread with your suggestion.\n\nQ: How do I add mobs to the tag files so that they drop carcasses?\nA: Download the butchery datapack and follow the guide in the description. You can download it here:\nhttps://legacy.curseforge.com/minecraft/data-packs/butchery-add-mobs-datapack\n\n ",
+          "published": "2024-02-13T22:08:44.804430Z",
+          "updated": "2026-07-29T21:13:59.778737Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "food",
+            "mobs"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/6YfOmC9t/2fbbc0d1f2cc14629b3d9bb1fb0be4e5899446c8_96.webp",
+          "discord_url": "https://discord.gg/hsNpYA44RD",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/6YfOmC9t/images/356909994c5c2655eda7cc84a4143ae29e180660_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/6YfOmC9t/images/315b8a0cfc331a83a66b96fdb2e4bbe5a650249c.png",
+              "featured": false,
+              "title": "Some of the blocks, mobs etc.",
+              "created": "2024-02-13T22:12:09.685751Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "e9P82uFz",
+          "project_id": "6YfOmC9t",
+          "author_id": "QBXSS1Ij",
+          "name": "Butchery 5.2",
+          "version_number": "5.2",
+          "changelog": "Initial Release of 26.1.2 - This version has not been fully tested so you may encounter some bugs.\n\nAdded:\n- Added ability for bows, crossbows and tridents to use butcher enchant\n- Added butchery:enchantable/weapon tag - Add tags here if you want other weapons to be able to use the enchant. Though most if not all should work already.\n\nFixes:\n- Fixed enderman carcass drops when broken\n- Fixed rotten organs not being put into composters via hoppers\n- Fixed eyes and brains dropping with organ option disabled\n- Fixed vanilla heads not being ground up in the meat grinder\n- \nChanges:\n- Removed composting tag\n- Changed how rotten organs are composted\n- Removed butchers apron durability\n- Changed butchers apron enchantability to 0",
+          "date_published": "2026-07-29T21:13:59.778737Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "c3d332699d49f3d81b3141d85cabe70dff251798",
+                "sha512": "e1ec8a8f59e2bb9235a88f2ea2aabca3d90e247b58d418950691cf66d7f1a3468c95c080f771c88f2da35159cc65f3bb74cd4709b6a9be1286409884dccca382"
+              },
+              "url": "https://cdn.modrinth.com/data/6YfOmC9t/versions/e9P82uFz/butchery-5.2-neoforge-26.1.2.jar",
+              "filename": "butchery-5.2-neoforge-26.1.2.jar",
+              "primary": true,
+              "size": 13787571
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Cobweb",
+        "version": "[NeoForge - 26.1] Cobweb v1.4.0",
+        "optional": true,
+        "file": "cobweb-neoforge-26.1-1.4.0.jar",
+        "type": "mods",
+        "description": "Crystal Nest API",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 968456,
+        "curseForgeFileId": 7868525,
+        "curseForgeProject": {
+          "id": 968456,
+          "name": "Cobweb",
+          "authors": [
+            {
+              "id": 103199458,
+              "name": "CrystalSpider",
+              "url": "https://www.curseforge.com/members/crystalspider"
+            },
+            {
+              "id": 106411992,
+              "name": "MoonstoneWebber",
+              "url": "https://www.curseforge.com/members/moonstonewebber"
+            },
+            {
+              "id": 109688718,
+              "name": "sZeta99",
+              "url": "https://www.curseforge.com/members/szeta99"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Crystal Nest API",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "cobweb",
+          "isFeatured": false,
+          "dateModified": "2026-04-03T16:30:14.963Z",
+          "dateCreated": "2024-05-02T07:43:30.427Z",
+          "dateReleased": "2026-04-03T16:22:17.19Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cobweb",
+            "wikiUrl": "https://github.com/Crystal-Nest/cobweb/wiki",
+            "issuesUrl": "https://github.com/Crystal-Nest/cobweb/issues",
+            "sourceUrl": "https://github.com/Crystal-Nest/cobweb"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/BP6EdBfAmt"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/crystalspider"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/Crystal-Nest"
+            },
+            {
+              "type": "3",
+              "url": "https://crystalnest.it/"
+            }
+          ],
+          "logo": {
+            "id": 988948,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/988/948/256/256/638501129402144275.png",
+            "title": "638501129402144275.png",
+            "url": "https://media.forgecdn.net/avatars/988/948/638501129402144275.png",
+            "modId": 968456
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7868525
+        },
+        "curseForgeFile": {
+          "id": 7868525,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NeoForge - 26.1] Cobweb v1.4.0",
+          "fileName": "cobweb-neoforge-26.1-1.4.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-03T16:22:17.19Z",
+          "fileLength": 87839,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2695938611,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1494064832,
+              "name": "it"
+            },
+            {
+              "fingerprint": 100716581,
+              "name": "banner.png"
+            },
+            {
+              "fingerprint": 106017142,
+              "name": "cobweb.accesswidener"
+            },
+            {
+              "fingerprint": 4115276433,
+              "name": "cobweb.mixins.json"
+            },
+            {
+              "fingerprint": 4292213464,
+              "name": "cobweb.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 341606872,
+              "name": "cobweb.png"
+            },
+            {
+              "fingerprint": 1281474474,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3108963656,
+              "name": "LICENSE_Cobweb"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "96b8cfadd2a305b6cc9bd825dd02a1a8bd6a03f3",
+              "algo": 1
+            },
+            {
+              "value": "74a10faf8a0cd6d103b60727f338ff9f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 455767307,
+          "modId": 968456
+        },
+        "modrinthProject": {
+          "id": "dQcfqGbl",
+          "slug": "cobweb",
+          "project_type": "mod",
+          "team": "a8zQCPrj",
+          "title": "Cobweb",
+          "description": "Crystal Nest API",
+          "body": "![Cobweb banner](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/cobweb/banner.png \"Cobweb banner\")\n\n---\n\n![Minecraft](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/minecraft.svg \"Minecraft\")[![26.1.x](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/26-1-x.svg \"26.1.x\")](https://modrinth.com/mod/cobweb/versions?g=26.1)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.11](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-11.svg \"1.21.11\")](https://modrinth.com/mod/cobweb/versions?g=1.21.11)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.10](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-10.svg \"1.21.10\")](https://modrinth.com/mod/cobweb/versions?g=1.21.10)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.8](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-8.svg \"1.21.8\")](https://modrinth.com/mod/cobweb/versions?g=1.21.8)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.7](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-7.svg \"1.21.7\")](https://modrinth.com/mod/cobweb/versions?g=1.21.7)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.6](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-6.svg \"1.21.6\")](https://modrinth.com/mod/cobweb/versions?g=1.21.6)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.5](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-5.svg \"1.21.5\")](https://modrinth.com/mod/cobweb/versions?g=1.21.5)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.4](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-4.svg \"1.21.4\")](https://modrinth.com/mod/cobweb/versions?g=1.21.4)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.3](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-3.svg \"1.21.3\")](https://modrinth.com/mod/cobweb/versions?g=1.21.3)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21.1](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21-1.svg \"1.21.1\")](https://modrinth.com/mod/cobweb/versions?g=1.21.1)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![1.21](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-21.svg \"1.21\")](https://modrinth.com/mod/cobweb/versions?g=1.21)\n\n![Loader](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/loader/loader.svg \"Loader\")[![NeoForge](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/loader/neoforge.svg \"NeoForge\")](https://modrinth.com/mod/cobweb/versions?l=neoforge)![Separator](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/separator.svg)[![Fabric](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/loader/fabric.svg \"Fabric\")](https://modrinth.com/mod/cobweb/versions?l=fabric)\n\n![Overlay](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/side/client-server.svg)\n\n![Issues](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/github/issues.svg \"Issues\")[![GitHub](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/github/github.svg \"GitHub\")](https://github.com/crystal-nest/cobweb/issues)\n\n---\n\n## 📝 **Description**\n\n**Cobweb** is a lightweight, modular API designed to simplify Minecraft mod development across multiple loaders.  \nIt provides a **Unified Configuration System** and a **Unified Registering System**, both available directly in the common module. These systems help you abstract away the differences between loaders, so you can focus on writing clean, maintainable, and reusable code — not boilerplate.\n\nCobweb is the shared modding API used across all **Crystal Nest** projects.  \n📚 Want to dive deeper? Check out the full [Wiki](https://github.com/Crystal-Nest/cobweb/wiki).\n\n[![Minecraft Storage](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/cobweb/minecraft-storage-banner.png \"Minecraft Storage\")](https://minecraftstorage.com/mods/cobweb?ref=crystal-nest)\n\n## ✨ **Features**\n\nWhether you're developing for Fabric or NeoForge, Cobweb helps unify your modding workflow. Use it as the base for your multi-loader projects or as a dependency to simplify your architecture!\n\n### 🔄 Common (All loaders):\n\n* ✅ Unified Configuration System — write your configs once, load them everywhere\n* ✅ Unified Registering System — abstract away loader-specific registration\n* 🔍 Simple API to retrieve in-game IDs\n* 📦 Create and register **dynamic** resource packs *(experimental)*\n* 📦 Create and register **built-in** (static) resource packs\n* 🌀 Dynamic Block Entity for mutable sets of blocks\n\n### Fabric only features:\n\n- 📝 Eased registering system.\n\n### NeoForge only features:\n\nCurrently none.\n\n## 📜 **License and right of use**\n\nFeel free to use this mod for any mod, modpack, or video, just be sure to give credit and possibly link [here](https://github.com/crystal-nest/cobweb#readme).  \nThis project is published under the [Crystal Nest Community License v1](https://github.com/crystal-nest/cobweb/blob/master/LICENSE).\n\n## ❤️ **Support us**\n\n<a href=\"https://crystalnest.it\"><img alt=\"Crystal Nest Website\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/crystal-nest/pic512.png\" width=\"14.286%\"></a><a href=\"https://discord.gg/BP6EdBfAmt\"><img alt=\"Discord\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/discord/discord512.png\" width=\"14.286%\"></a><a href=\"https://www.patreon.com/crystalspider\"><img alt=\"Patreon\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/patreon/patreon512.png\" width=\"14.286%\"></a><a href=\"https://ko-fi.com/crystalspider\"><img alt=\"Ko-fi\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/kofi/kofi512.png\" width=\"14.286%\"></a><a href=\"https://github.com/Crystal-Nest\"><img alt=\"Our other projects\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/github/github512.png\" width=\"14.286%\"><a href=\"https://modrinth.com/organization/crystal-nest\"><img alt=\"Modrinth\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/modrinth/modrinth512.png\" width=\"14.286%\"></a><a href=\"https://www.curseforge.com/members/crystalspider/projects\"><img alt=\"CurseForge\" src=\"https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/curseforge/curseforge512.png\" width=\"14.286%\"></a>\n\n[![Bisect Hosting](https://www.bisecthosting.com/partners/custom-banners/d559b544-474c-4109-b861-1b2e6ca6026a.webp \"Bisect Hosting\")](https://bisecthosting.com/crystalspider)",
+          "published": "2024-01-29T17:32:24.824199Z",
+          "updated": "2026-04-03T16:22:21.647999Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Crystal-Nest-Community-License-v1",
+            "name": "",
+            "url": "https://github.com/Crystal-Nest/.github/blob/main/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/dQcfqGbl/efabe366d357324b430892f41a6239e3d4fe9271_96.webp",
+          "issues_url": "https://github.com/Crystal-Nest/cobweb/issues",
+          "source_url": "https://github.com/Crystal-Nest/cobweb",
+          "wiki_url": "https://github.com/Crystal-Nest/cobweb/wiki",
+          "discord_url": "https://discord.gg/BP6EdBfAmt",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/crystalspider"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/crystalspider"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/dQcfqGbl/images/4500e29082c44a9274bf8e9ae9b5bfbde4b9b737_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/dQcfqGbl/images/796cb3a796638066652bfe23ae2f7e9ed471ecfe.png",
+              "featured": true,
+              "created": "2024-05-03T15:21:41.749574Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ZaMjT9X9",
+          "project_id": "dQcfqGbl",
+          "author_id": "9xBEY6Nv",
+          "name": "[NeoForge - 26.1] Cobweb v1.4.0",
+          "version_number": "1.4.0",
+          "changelog": "See [Changelog](https://github.com/crystal-nest/cobweb/blob/master/CHANGELOG.md#v140---20260403).",
+          "date_published": "2026-04-03T16:22:21.647999Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "141f8f8f167d60fd950e08e8a4d4b96a61842e58f41590b8a6512a1fa25309423bf5dca9b71ea75be8b51dc1f21073516a89b25cec2b7d08bb559369b18b79ec",
+                "sha1": "96b8cfadd2a305b6cc9bd825dd02a1a8bd6a03f3"
+              },
+              "url": "https://cdn.modrinth.com/data/dQcfqGbl/versions/ZaMjT9X9/cobweb-neoforge-26.1-1.4.0.jar",
+              "filename": "cobweb-neoforge-26.1-1.4.0.jar",
+              "primary": true,
+              "size": 87839
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Harvest with ease",
+        "version": "[NeoForge - 26.1.2] Harvest with ease v9.4.0",
+        "optional": true,
+        "file": "harvest-with-ease-neoforge-26.1.2-9.4.0.jar",
+        "type": "mods",
+        "description": "Don't break crops, right click them!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 602171,
+        "curseForgeFileId": 8009541,
+        "curseForgeProject": {
+          "id": 602171,
+          "name": "Harvest with ease",
+          "authors": [
+            {
+              "id": 103199458,
+              "name": "CrystalSpider",
+              "url": "https://www.curseforge.com/members/crystalspider"
+            },
+            {
+              "id": 109688718,
+              "name": "sZeta99",
+              "url": "https://www.curseforge.com/members/szeta99"
+            },
+            {
+              "id": 106411992,
+              "name": "MoonstoneWebber",
+              "url": "https://www.curseforge.com/members/moonstonewebber"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Don't break crops, right click them!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "harvest-with-ease",
+          "isFeatured": false,
+          "dateModified": "2026-04-29T12:31:03.37Z",
+          "dateCreated": "2022-04-03T07:37:22.63Z",
+          "dateReleased": "2026-04-29T12:26:36.913Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease",
+            "wikiUrl": "https://github.com/crystal-nest/harvest-with-ease/wiki",
+            "issuesUrl": "https://github.com/crystal-nest/harvest-with-ease/issues",
+            "sourceUrl": "https://github.com/crystal-nest/harvest-with-ease"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/BP6EdBfAmt"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/crystalspider"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/Crystal-Nest"
+            },
+            {
+              "type": "3",
+              "url": "https://crystalnest.it/"
+            }
+          ],
+          "logo": {
+            "id": 600618,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/600/618/256/256/637978920899988981_animated.gif",
+            "title": "637978920899988981.gif",
+            "url": "https://media.forgecdn.net/avatars/600/618/637978920899988981.gif",
+            "modId": 602171
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8009541
+        },
+        "curseForgeFile": {
+          "id": 8009541,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NeoForge - 26.1.2] Harvest with ease v9.4.0",
+          "fileName": "harvest-with-ease-neoforge-26.1.2-9.4.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-29T12:26:36.913Z",
+          "fileLength": 473569,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 968456,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4044211184,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1729751861,
+              "name": "it"
+            },
+            {
+              "fingerprint": 4092790400,
+              "name": "banner.png"
+            },
+            {
+              "fingerprint": 3855145782,
+              "name": "harvest-with-ease.png"
+            },
+            {
+              "fingerprint": 1361402277,
+              "name": "harvest_with_ease.accesswidener"
+            },
+            {
+              "fingerprint": 2075849154,
+              "name": "harvest_with_ease.mixins.json"
+            },
+            {
+              "fingerprint": 2075849154,
+              "name": "harvest_with_ease.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 3684299676,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3108963656,
+              "name": "LICENSE_Harvest with ease"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2fc73dbc481e53e1c17c037b76e775ac1db5647e",
+              "algo": 1
+            },
+            {
+              "value": "18a1a1fdae49b10aa6948616a58ccc28",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2745610845,
+          "modId": 602171
+        }
+      },
+      {
+        "name": "Puzzles Lib",
+        "version": "[NEOFORGE] [26.1.x] v26.1.14",
+        "optional": true,
+        "file": "PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
+        "type": "mods",
+        "description": "Why is it called Puzzles? That's the puzzle.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 495476,
+        "curseForgeFileId": 8581757,
+        "curseForgeProject": {
+          "id": 495476,
+          "name": "Puzzles Lib",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Why is it called Puzzles? That's the puzzle.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "puzzles-lib",
+          "isFeatured": false,
+          "dateModified": "2026-09-07T10:40:45.743Z",
+          "dateCreated": "2021-06-20T11:13:13.873Z",
+          "dateReleased": "2026-09-07T10:30:32.527Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/puzzleslib/issues",
+            "sourceUrl": "https://github.com/Fuzss/puzzleslib"
+          },
+          "socialLinks": [
+            {
+              "type": "3",
+              "url": "https://lunapixel.studio/discord"
+            },
+            {
+              "type": "5",
+              "url": "https://x.com/Fusseel"
+            },
+            {
+              "type": "10",
+              "url": "https://www.youtube.com/@heyitsfuzs"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/Fuzss"
+            },
+            {
+              "type": "9",
+              "url": "https://www.reddit.com/user/Fusseel"
+            }
+          ],
+          "logo": {
+            "id": 776232,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/232/256/256/638118144989284933.png",
+            "title": "638118144989284933.png",
+            "url": "https://media.forgecdn.net/avatars/776/232/638118144989284933.png",
+            "modId": 495476
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8829115
+        },
+        "curseForgeFile": {
+          "id": 8581757,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NEOFORGE] [26.1.x] v26.1.14",
+          "fileName": "PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-05T11:15:29.99Z",
+          "fileLength": 1064786,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3709733536,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 899503411,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 957809240,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 921125005,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 3180075938,
+              "name": "puzzleslib.common.mixins.json"
+            },
+            {
+              "fingerprint": 187031447,
+              "name": "puzzleslib.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 3085525391,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 4274635990,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 3114007292,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 3906541937,
+              "name": "metadata.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "300fbea445eaade33672511fb6ec20732f779fb6",
+              "algo": 1
+            },
+            {
+              "value": "50083b6e2e9ddb322d77196394e0e9f0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1451565809,
+          "modId": 495476
+        },
+        "modrinthProject": {
+          "id": "QAGBst4M",
+          "slug": "puzzles-lib",
+          "project_type": "mod",
+          "team": "ubZOU9rM",
+          "title": "Puzzles Lib",
+          "description": "Why is it called Puzzles? That's the puzzle.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://x.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=x&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/@heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/members/fuzs_\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=CurseForge&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"143\" height=\"28\" /></a>&emsp;<a href=\"https://modrinth.com/user/Fuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Modrinth&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=modrinth&amp;logoColor=white\" width=\"129\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">Puzzles Lib</span></strong><span style=\"font-size: 14px;\"> is a library mod required by many of </span><em><span style=\"font-size: 14px;\">@heyitsfuzs</span></em><span style=\"font-size: 14px;\"> Minecraft mods. It does not add new blocks, items, mobs, or gameplay on its own; instead, it provides the shared systems those mods need to run properly. 🧩</span></p>\n<p><span style=\"font-size: 14px;\">For players, this means simpler installation and more consistent behaviour across supported mods. If another mod lists this mod as required, install it alongside that mod and leave it enabled. ✅</span></p>\n<p><span style=\"font-size: 14px;\">The mod is built mainly for </span><em><span style=\"font-size: 14px;\">@heyitsfuzs</span></em><span style=\"font-size: 14px;\"> own projects and is not intended as a general-purpose library for other mod developers. Its focus is keeping those mods reliable, maintainable, and available across supported mod loaders. 🔧</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/features.png\" width=\"854\" height=\"32\" /></p>\n<ul>\n<li><span style=\"font-size: 14px;\">🧩 </span><strong><span style=\"font-size: 14px;\">Required Library:</span></strong><span style=\"font-size: 14px;\"> Provides the shared foundation needed by many </span><em><span style=\"font-size: 14px;\">@heyitsfuzs</span></em><span style=\"font-size: 14px;\"> mods.</span></li>\n<li><span style=\"font-size: 14px;\">🔄 </span><strong><span style=\"font-size: 14px;\">Multi-Loader Support:</span></strong><span style=\"font-size: 14px;\"> Helps supported mods work consistently across Fabric and NeoForge.</span></li>\n<li><span style=\"font-size: 14px;\">🛠️ </span><strong><span style=\"font-size: 14px;\">Shared Mod Systems:</span></strong><span style=\"font-size: 14px;\"> Supports common features used by dependent mods, such as configuration, networking, events, and registration support.</span></li>\n<li><span style=\"font-size: 14px;\">🚀 </span><strong><span style=\"font-size: 14px;\">Lightweight Foundation:</span></strong><span style=\"font-size: 14px;\"> Runs in the background without adding gameplay content or cluttering your world.</span></li>\n<li><span style=\"font-size: 14px;\">📦 </span><strong><span style=\"font-size: 14px;\">Improved Modpack Reliability:</span></strong><span style=\"font-size: 14px;\"> Reduces duplicated systems between mods, helping dependent mods behave more consistently.</span></li>\n<li><span style=\"font-size: 14px;\">🌐 </span><strong><span style=\"font-size: 14px;\">Client and Server Support:</span></strong><span style=\"font-size: 14px;\"> Designed for use in single-player, multiplayer, and dedicated server environments.</span></li>\n</ul>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://modrinth.com/mod/fantastic-wings\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/fantasticwings/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/fast-item-frames\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/fastitemframes/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/easy-magic\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/easymagic/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/better-tridents\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/bettertridents/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/echo-chest\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/echochest/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/effect-insights\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/effectinsights/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/enchantment-insights\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/enchantmentinsights/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/universal-enchants\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalenchants/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/mob-plaques\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mobplaques/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/spiky-spikes\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/spikyspikes/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/puzzleslib/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 14px;\">© 2026 @heyitsfuzs. All rights reserved. This page was last edited on 11 September 2026, at 06:44 (UTC).</span></p>\n",
+          "published": "2022-07-06T18:55:14.270853Z",
+          "updated": "2026-09-07T10:30:32.337720Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
+          "issues_url": "https://github.com/Fuzss/puzzleslib/issues",
+          "source_url": "https://github.com/Fuzss/puzzleslib",
+          "discord_url": "https://lunapixel.studio/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/images/c1324d9942aa50dce1fbf176dbcfd06a5c23e5ae_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QAGBst4M/images/c1324d9942aa50dce1fbf176dbcfd06a5c23e5ae.png",
+              "featured": true,
+              "created": "2025-07-29T07:41:15.035967Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "JzsAJpZS",
+          "project_id": "QAGBst4M",
+          "author_id": "rHdGpxOA",
+          "name": "[NEOFORGE] [26.1.x] v26.1.14",
+          "version_number": "26.1.14",
+          "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres\nto [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v26.1.14-mc26.1.x] - 2026-08-05\n\n### Changed\n\n- Allow `BlockStateResolverContext` to fully support the dynamic resources option from\n  the [ModernFix](https://modrinth.com/mod/modernfix) mod on NeoForge\n\n## [v26.1.13-mc26.1.x] - 2026-08-04\n\n### Changed\n\n- Avoid creating a custom `ModelBakery` for `BlockStateResolverContext` to improve compatibility with other mods on\n  NeoForge\n\n## [v26.1.12-mc26.1.x] - 2026-07-13\n\n### Changed\n\n- Recipe serializers registered via `ContentRegistrationHelper::registerTransmuteRecipeSerializers` are now\n  automatically synced to clients on Fabric to allow for recipe viewer mods to pick them up properly\n\n## [v26.1.11-mc26.1.x] - 2026-06-15\n\n### Fixed\n\n- Fix `ModPackMetadataProvider` generating invalid metadata\n\n## [v26.1.10-mc26.1.x] - 2026-06-10\n\n### Added\n\n- Add `AbstractWidgetsContainerScreen`\n\n### Changed\n\n- Delay calling `ClientModConstructor::onRegisterBlockStateResolver`\n\n### Fixed\n\n- Fix error when installed together with the [Cucumber Library](https://modrinth.com/mod/cucumber) mod\n- Fix `NetworkingHelper::hasChannel` not checking `Connection::isConnected` on NeoForge\n\n## [v26.1.9-mc26.1.x] - 2026-05-30\n\n### Changed\n\n- Make registry syncing more lenient for vanilla clients on Fabric\n\n### Fixed\n\n- Fix crash when trying to open a config screen for a config which is not loaded\n- Fix wrong sign type being passed to the `BlockSetVariant#HANGING_SIGN` item\n\n## [v26.1.8-mc26.1.x] - 2026-05-17\n\n### Fixed\n\n- Fix crash on dedicated servers due to referencing the unregistered `ClientTagsUpdatedCallback`\n- Fix crash when installed together with the ModernFix mod\n\n## [v26.1.7-mc26.1.x] - 2026-05-17\n\n### Added\n\n- Add `ServerResourcesLoadCallback` & `ClientTagsUpdatedCallback`, replacing `TagsUpdatedCallback`\n- Add support for tag file removals on Fabric during data generation\n- Add `DataAttachmentType::remove`\n\n### Fixed\n\n- Fix breaking the [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll) mod\n- Fix `TransmuteShapedRecipeBuilder` still using `ItemStack` instead of `ItemStackTemplate`\n\n## [v26.1.6-mc26.1.x] - 2026-05-06\n\n### Added\n\n- Add `SimpleHumanoidArmorLayer` and `SimpleItemInHandLayer`\n\n### Fixed\n\n- Fix `EventResultHolder` not accepting a `null` value\n\n## [v26.1.5-mc26.1.x] - 2026-05-06\n\n### Added\n\n- Add `ServerEntityEvents`, deprecating `ServerEntityLevelEvents`\n- Add `HotbarScrollingCallback`, deprecating `ClientInputEvents::MouseScroll`\n- Add an additional `ItemComponentsContext::registerItemComponentsPatch` overload\n\n### Fixed\n\n- Fix crash with the [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll) mod\n\n## [v26.1.4-mc26.1.x] - 2026-04-30\n\n### Added\n\n- Add `SingleChestRenderer::createXmasChest`\n- Add `ItemComponentsContext$InitializerV2`\n\n### Changed\n\n- Update `ServerEntityLevelEvents$Load` to use the native Fabric event\n\n## [v26.1.3-mc26.1.x] - 2026-04-29\n\n### Fixed\n\n- Properly support data components in `LazyHolder`\n\n## [v26.1.2-mc26.1.x] - 2026-04-27\n\n### Changed\n\n- Refactor `SingleChestRenderer`\n- Skip world upgrade screens\n\n### Fixed\n\n- Fix texture return types in `ModelLocationHelper`\n- Fix recompilation failing for the common subproject due to a missing access transformer entry\n\n## [v26.1.1-mc26.1.x] - 2026-04-26\n\n### Fixed\n\n- Fix the Mixin config plugin package for common\n\n## [v26.1.0-mc26.1.x] - 2026-04-24\n\n### Changed\n\n- Update to Minecraft 26.1.x\n- Refactor `SpecialBlockModelRenderersContext` as `BuiltInBlockModelsContext`\n- Replace with `ItemComponentsContext` & `ModConstructor::onRegisterItemComponentPatches`\n- `CustomTransmuteRecipes` no longer store the `RecipeSerializer`, instead they use the ResourceKey for dynamically\n  retrieving the serializer instance\n- Rename `ExtractRenderStateCallback` to `ExtractEntityRenderStateCallback`\n- Rename `DrawItemStackOverlayCallback` to `ExtractItemStackDecorationsCallback`\n\n### Removed\n\n- Remove `ClientModConstructor::onRegisterBlockRenderTypes` & `ClientModConstructor::onRegisterFluidRenderTypes`\n- Remove `BlockColorsContext::getBlockColor`\n- Remove `SpritelessImageButton`\n- Remove `MutableBakedQuad::hasAmbientOcclusion`\n- Remove `ChunkSectionLayer` handling in `ClientBlockSetFamily`\n- Remove `VillagerTradesContext`\n- Remove plain `TickingBlockEntity::clientTick` and `TickingBlockEntity::serverTick` methods\n- Remove `AbstractLanguageProvider$BlockFamilyBuilder`\n- Remove `PlayerInteractEvents$UseEntityAt` in favor of `PlayerInteractEvents$UseEntity`\n",
+          "date_published": "2026-08-05T11:15:30.103251Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "300fbea445eaade33672511fb6ec20732f779fb6",
+                "sha512": "8d25fe7a1a61cd9df5cd91b5e45559bdfd62ef14996d540d1a0008b15e90e6b4079cdf5593d4261829bf3b9d1f2c54dfe93b8f8aa0a46561d40960ea7a986c7c"
+              },
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/JzsAJpZS/PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
+              "filename": "PuzzlesLib-v26.1.14-mc26.1.x-NeoForge.jar",
+              "primary": true,
+              "size": 1064786
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Universal Bone Meal",
+        "version": "[NEOFORGE] [26.1.x] v26.1.0",
+        "optional": true,
+        "file": "UniversalBoneMeal-v26.1.0-mc26.1.x-NeoForge.jar",
+        "type": "mods",
+        "description": "Stop the bonemeal discrimination! Grow all plants, no limitations.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 594013,
+        "curseForgeFileId": 7999946,
+        "curseForgeProject": {
+          "id": 594013,
+          "name": "Universal Bone Meal",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Stop the bonemeal discrimination! Grow all plants, no limitations.",
+          "categories": [
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "universal-bone-meal",
+          "isFeatured": false,
+          "dateModified": "2026-06-19T19:26:32.343Z",
+          "dateCreated": "2022-03-15T09:05:55.463Z",
+          "dateReleased": "2026-06-19T18:48:21.603Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/universalbonemeal/issues",
+            "sourceUrl": "https://github.com/Fuzss/universalbonemeal"
+          },
+          "socialLinks": [
+            {
+              "type": "3",
+              "url": "https://lunapixel.studio/discord"
+            },
+            {
+              "type": "5",
+              "url": "https://x.com/Fusseel"
+            },
+            {
+              "type": "10",
+              "url": "https://www.youtube.com/@heyitsfuzs"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/Fuzss"
+            },
+            {
+              "type": "9",
+              "url": "https://www.reddit.com/user/Fusseel"
+            }
+          ],
+          "logo": {
+            "id": 802932,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/802/932/256/256/638168021733369196.png",
+            "title": "638168021733369196.png",
+            "url": "https://media.forgecdn.net/avatars/802/932/638168021733369196.png",
+            "modId": 594013
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 440590,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/590/310/172/2022-03-13_10.png",
+              "title": "Growing chorus plants can be quite exciting",
+              "url": "https://media.forgecdn.net/attachments/440/590/2022-03-13_10.png",
+              "modId": 594013
+            },
+            {
+              "id": 440589,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/589/310/172/2022-03-13_10.png",
+              "title": "Grow nether wart quickly, no need to wait around",
+              "url": "https://media.forgecdn.net/attachments/440/589/2022-03-13_10.png",
+              "modId": 594013
+            },
+            {
+              "id": 440588,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/588/310/172/2022-03-13_10.png",
+              "title": "Populate mycelium with a bunch of mushrooms",
+              "url": "https://media.forgecdn.net/attachments/440/588/2022-03-13_10.png",
+              "modId": 594013
+            },
+            {
+              "id": 440587,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/587/310/172/2022-03-12_15.png",
+              "title": "Getting a lot of dead bushes is no longer a problem",
+              "url": "https://media.forgecdn.net/attachments/440/587/2022-03-12_15.png",
+              "modId": 594013
+            },
+            {
+              "id": 440586,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/586/310/172/2022-03-12_15.png",
+              "title": "Grow small flower to farm all the dyes",
+              "url": "https://media.forgecdn.net/attachments/440/586/2022-03-12_15.png",
+              "modId": 594013
+            },
+            {
+              "id": 440585,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/585/310/172/2022-03-12_15.png",
+              "title": "Lily pads replicate themselves around on any water they find",
+              "url": "https://media.forgecdn.net/attachments/440/585/2022-03-12_15.png",
+              "modId": 594013
+            },
+            {
+              "id": 440584,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/584/310/172/2022-03-12_15.png",
+              "title": "Vines quickly spread downwards when bonemealed",
+              "url": "https://media.forgecdn.net/attachments/440/584/2022-03-12_15.png",
+              "modId": 594013
+            },
+            {
+              "id": 440583,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/583/310/172/2022-03-13_10.png",
+              "title": "Growing cactus up from 12 to 16 blocks tall",
+              "url": "https://media.forgecdn.net/attachments/440/583/2022-03-13_10.png",
+              "modId": 594013
+            },
+            {
+              "id": 440582,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/582/310/172/2022-03-13_10.png",
+              "title": "Growing sugar canes up from 12 to 16 blocks tall",
+              "url": "https://media.forgecdn.net/attachments/440/582/2022-03-13_10.png",
+              "modId": 594013
+            },
+            {
+              "id": 440581,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/440/581/310/172/2022-03-12_15.png",
+              "title": "Give nature a helping hand with just a bit of bone meal",
+              "url": "https://media.forgecdn.net/attachments/440/581/2022-03-12_15.png",
+              "modId": 594013
+            }
+          ],
+          "mainFileId": 8281785
+        },
+        "curseForgeFile": {
+          "id": 7999946,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NEOFORGE] [26.1.x] v26.1.0",
+          "fileName": "UniversalBoneMeal-v26.1.0-mc26.1.x-NeoForge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-27T11:57:39.31Z",
+          "fileLength": 69303,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 768843523,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2622084261,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 108619136,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 845742986,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 2488395478,
+              "name": "universalbonemeal.common.mixins.json"
+            },
+            {
+              "fingerprint": 462758795,
+              "name": "universalbonemeal.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 3144615044,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3693113887,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 959957642,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 1317018459,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 4188492551,
+              "name": "metadata.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c97ae7f60749755a241881d0f24c387e08f6767b",
+              "algo": 1
+            },
+            {
+              "value": "0f72720ae027f02994710122e6ff8ba0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2899786441,
+          "modId": 594013
+        },
+        "modrinthProject": {
+          "id": "66VIiT1y",
+          "slug": "universal-bone-meal",
+          "project_type": "mod",
+          "team": "fpH5sHHX",
+          "title": "Universal Bone Meal",
+          "description": "Stop the bonemeal discrimination! Grow all plants, no limitations.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://x.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=x&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/@heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/members/fuzs_\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=CurseForge&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"143\" height=\"28\" /></a>&emsp;<a href=\"https://modrinth.com/user/Fuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Modrinth&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=modrinth&amp;logoColor=white\" width=\"129\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Universal Bone Meal fills all the missing gaps where bone meal cannot be used, but really should be! All growing behaviors are rather unique, depending on the plant. New behaviors also work with dispensers and can be individually disabled in the config.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/3.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/4.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/5.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/6.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/media/7.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC &amp; NEOFORGE)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/configuration.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">If available for a mod, configuration is possible directly from in-game using the mod menu (requires </span><a href=\"https://modrinth.com/mod/modmenu\"><span style=\"font-size: 14px;\">Mod Menu</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://modrinth.com/user/Prospector\"><span style=\"font-size: 14px;\">Prospector</span></a><span style=\"font-size: 14px;\"> to be installed on Fabric).</span></p>\n<p><span style=\"font-size: 14px;\">For manual configuration using an external text editor all files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/config</span></code><span style=\"font-size: 14px;\">, named as </span><code><span style=\"font-size: 14px;\">MOD_ID-client.toml</span></code><span style=\"font-size: 14px;\">, </span><code><span style=\"font-size: 14px;\">MOD_ID-common.toml</span></code><span style=\"font-size: 14px;\">, or </span><code><span style=\"font-size: 14px;\">MOD_ID-server.toml</span></code><span style=\"font-size: 14px;\">, depending on the type of config. Not all types might exist for a mod, if any at all.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/Forge_User_52183994\"><span style=\"font-size: 14px;\">Pifou</span></a><span style=\"font-size: 14px;\"> for inspiring a few behaviors from their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/improving-minecraft\"><span style=\"font-size: 14px;\">Improving Minecraft</span></a><span style=\"font-size: 14px;\"> mod.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/josephcsible\"><span style=\"font-size: 14px;\">Josephcsible</span></a><span style=\"font-size: 14px;\"> for inspiring a few behaviors from their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/expandedbonemeal\"><span style=\"font-size: 14px;\">ExpandedBonemeal</span></a><span style=\"font-size: 14px;\"> mod.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/pepperoni__jabroni__\"><span style=\"font-size: 14px;\">Pepperoni Jabroni</span></a><span style=\"font-size: 14px;\"> for inspiring the coral behavior from their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/complete-bone-meal\"><span style=\"font-size: 14px;\">Complete Bone Meal</span></a><span style=\"font-size: 14px;\"> mod.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.reddit.com/r/minecraftsuggestions/comments/ujh9bu/using_bonemeal_on_taiga_grass_should_have_a/\"><span style=\"font-size: 14px;\">a Reddit thread</span></a><span style=\"font-size: 14px;\"> for inspiring the sweet berry bush behavior.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://modrinth.com/mod/block-runner\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/blockrunner/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/shroomcraft\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/shroomcraft/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/party-creepers\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/partycreepers/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/mutant-monsters\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mutantmonsters/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/nether-chested\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/netherchested/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/straw-statues\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/strawstatues/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/easy-shulker-boxes\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/easyshulkerboxes/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/reach-behind\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/reachbehind/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://modrinth.com/mod/easy-magic\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/easymagic/banner.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://modrinth.com/mod/leave-my-bars-alone\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/leavemybarsalone/banner.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/studio.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalbonemeal/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 14px;\">© 2026 @heyitsfuzs. All rights reserved. This page was last edited on 11 September 2026, at 06:44 (UTC).</span></p>\n",
+          "published": "2022-07-10T09:14:21.484698Z",
+          "updated": "2026-06-19T18:48:22.246324Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/66VIiT1y/a9044e7055e9822c0582170dfe69a2e2664a06d2_96.webp",
+          "issues_url": "https://github.com/Fuzss/universalbonemeal/issues",
+          "source_url": "https://github.com/Fuzss/universalbonemeal",
+          "discord_url": "https://lunapixel.studio/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/66VIiT1y/images/4fcbc9cdb4ae57233f4fee3ee9ea125d668a0a41_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/66VIiT1y/images/4fcbc9cdb4ae57233f4fee3ee9ea125d668a0a41.png",
+              "featured": true,
+              "created": "2025-07-29T07:44:02.765216Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "HYSsFTfE",
+          "project_id": "66VIiT1y",
+          "author_id": "rHdGpxOA",
+          "name": "[NEOFORGE] [26.1.x] v26.1.0",
+          "version_number": "26.1.0",
+          "changelog": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),\nand this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n\n## [v26.1.0-mc26.1.x] - 2026-04-27\n\n### Changed\n\n- Update to Minecraft 26.1.x\n",
+          "date_published": "2026-04-27T11:57:40.977370Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "64fd04c23357f6f6d8e3834fc786bfa8d10bb63bfbac825f80b4f62847b02faf3b3a5f9616da4d9e47717a0624bcbcf0c5adcc260d69fa11f9d0a6de599cc6b9",
+                "sha1": "c97ae7f60749755a241881d0f24c387e08f6767b"
+              },
+              "url": "https://cdn.modrinth.com/data/66VIiT1y/versions/HYSsFTfE/UniversalBoneMeal-v26.1.0-mc26.1.x-NeoForge.jar",
+              "filename": "UniversalBoneMeal-v26.1.0-mc26.1.x-NeoForge.jar",
+              "primary": true,
+              "size": 69303
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "CreativeCore",
+        "version": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+        "optional": true,
+        "file": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+        "type": "mods",
+        "description": "a core mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 257814,
+        "curseForgeFileId": 8127306,
+        "curseForgeProject": {
+          "id": 257814,
+          "name": "CreativeCore",
+          "authors": [
+            {
+              "id": 8685730,
+              "name": "CreativeMD",
+              "url": "https://www.curseforge.com/members/creativemd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "a core mod",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "creativecore",
+          "isFeatured": false,
+          "dateModified": "2026-09-11T13:51:56.16Z",
+          "dateCreated": "2017-01-23T11:57:10.153Z",
+          "dateReleased": "2026-09-11T13:42:00.873Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CreativeMD/CreativeCore/issues",
+            "sourceUrl": "https://github.com/CreativeMD/CreativeCore"
+          },
+          "logo": {
+            "id": 86225,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/86/225/256/256/636207446427836220.png",
+            "title": "636207446427836220.png",
+            "url": "https://media.forgecdn.net/avatars/86/225/636207446427836220.png",
+            "modId": 257814
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8857710
+        },
+        "curseForgeFile": {
+          "id": 8127306,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+          "fileName": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-05-22T11:49:22.023Z",
+          "fileLength": 1345477,
+          "dependencies": [],
+          "alternateFileId": 8127308,
+          "modules": [
+            {
+              "fingerprint": 1361807083,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 922892434,
+              "name": "team"
+            },
+            {
+              "fingerprint": 1036733341,
+              "name": "creativecore.forge.mixins.json"
+            },
+            {
+              "fingerprint": 518748825,
+              "name": "creativecore.mixins.json"
+            },
+            {
+              "fingerprint": 1124175186,
+              "name": "creativecore.png"
+            },
+            {
+              "fingerprint": 3027253614,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1402582953,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "92efc0a1cbc70477cc0b23f0a39cf982f64cc5c4",
+              "algo": 1
+            },
+            {
+              "value": "2ec533e94358dd999f35b107444e8f07",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 653640838,
+          "modId": 257814
+        },
+        "modrinthProject": {
+          "id": "OsZiaDHq",
+          "slug": "creativecore",
+          "project_type": "mod",
+          "team": "FvoHe2qM",
+          "title": "CreativeCore",
+          "description": "A core mod",
+          "body": "Nothing else than a simple core mod required by most of CreativeMD's mods.\n\n**Features**\n* Gui-Api\n* Config System (/cmdconfig or /cmdclientconfig)\n* Packet system (supports splitted packets)\n* Event system (by N247s)\n* Ingredients\n* Fake world\n\nI know everybody hates core mods, because it is an additional file you have to download, but it speeds up my progress. Over the years, I've created tones of useful methods and ways to achieve something. Now i can put all of it in CreativeCore and use it for all of my mods.\n\nLooking for a server to play with your friends. Our sponsor got you covered:\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\nUse the promo code teamcreative to get 25% off the first month on any of the gaming servers!\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+          "published": "2021-08-17T09:10:08.972681Z",
+          "updated": "2026-09-11T13:42:08.209714Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp",
+          "issues_url": "https://github.com/CreativeMD/CreativeCore/issues",
+          "source_url": "https://github.com/CreativeMD/CreativeCore",
+          "discord_url": "https://discord.gg/W9QM3fS",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/creativemd"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "OqoUKynf",
+          "project_id": "OsZiaDHq",
+          "author_id": "YTAyzo4h",
+          "name": "2.14.16",
+          "version_number": "2.14.16",
+          "changelog": "* Fixed crash when min max is configured wrong (min being larger than max)\n",
+          "date_published": "2026-05-22T11:49:29.475616Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "92efc0a1cbc70477cc0b23f0a39cf982f64cc5c4",
+                "sha512": "2be02041ac8539bfddeb6de17a29778fee99b373d52806da543f59ab5c60569413aefe29f0147b27150a7ce91df6a9a09cf606483798c52da0aa596b11592241"
+              },
+              "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/OqoUKynf/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+              "filename": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+              "primary": true,
+              "size": 1345477
+            },
+            {
+              "hashes": {
+                "sha1": "ebb6217e1da661666ef53f876f85e333e8388b50",
+                "sha512": "33e099bf584380faf8f76e3d014c724122cbe9450171a69be467ba69a7891705aa6adbefb91ec19a492aa2c2dda40783464aa26ab5cdaf2adbc82e3fa66fa07c"
+              },
+              "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/OqoUKynf/CreativeCore_NEOFORGE_SOURCE_v2.14.16_mc26.1.2.jar",
+              "filename": "CreativeCore_NEOFORGE_SOURCE_v2.14.16_mc26.1.2.jar",
+              "primary": false,
+              "size": 524968
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "AmbientSounds 6",
+        "version": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+        "optional": true,
+        "file": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+        "type": "mods",
+        "description": "#listentonature",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 254284,
+        "curseForgeFileId": 7976888,
+        "curseForgeProject": {
+          "id": 254284,
+          "name": "AmbientSounds 6",
+          "authors": [
+            {
+              "id": 8685730,
+              "name": "CreativeMD",
+              "url": "https://www.curseforge.com/members/creativemd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "#listentonature",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "ambientsounds",
+          "isFeatured": false,
+          "dateModified": "2026-06-22T11:01:43.007Z",
+          "dateCreated": "2016-11-27T18:51:50.427Z",
+          "dateReleased": "2026-06-22T10:56:59.797Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CreativeMD/AmbientSounds/issues",
+            "sourceUrl": "https://github.com/CreativeMD/AmbientSounds"
+          },
+          "logo": {
+            "id": 65045,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/65/45/256/256/636158453613581226.png",
+            "title": "636158453613581226.png",
+            "url": "https://media.forgecdn.net/avatars/65/45/636158453613581226.png",
+            "modId": 254284
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8299375
+        },
+        "curseForgeFile": {
+          "id": 7976888,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+          "fileName": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-24T11:03:50.953Z",
+          "fileLength": 84813650,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 257814,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 7976889,
+          "modules": [
+            {
+              "fingerprint": 137743513,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 633448184,
+              "name": "team"
+            },
+            {
+              "fingerprint": 3880996333,
+              "name": "ambientsounds.mixins.json"
+            },
+            {
+              "fingerprint": 3887141381,
+              "name": "ambientsounds.png"
+            },
+            {
+              "fingerprint": 2165122760,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1619471372,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3518751924,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7ee917ba26ed40fa39ae9a4ef24ee5d3dced23b1",
+              "algo": 1
+            },
+            {
+              "value": "8f9dc740feeac7c130a77caae7e27357",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1160575058,
+          "modId": 254284
+        },
+        "modrinthProject": {
+          "id": "fM515JnW",
+          "slug": "ambientsounds",
+          "project_type": "mod",
+          "team": "4RhBAs8B",
+          "title": "AmbientSounds",
+          "description": "#listentonature",
+          "body": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2Z1QIyxFUas\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n**Requires [CreativeCore](https://modrinth.com/mod/creativecore)**\n\nAdds a rich ambience to the minecraft world. It supports custom engines and works well with mods world gen mods.\n\nUse /cmdclientconfig to access the config menu.\n\nUse /ambient-debug to see which sounds are playing (especially provide this information if you run into any issues)\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\nUse the promo code teamcreative to get 25% off the first month on any of the gaming servers!\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+          "published": "2021-08-17T09:26:03.852346Z",
+          "updated": "2026-06-22T10:57:26.698031Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp",
+          "issues_url": "https://github.com/CreativeMD/AmbientSounds/issues",
+          "source_url": "https://github.com/CreativeMD/AmbientSounds",
+          "discord_url": "https://discord.gg/W9QM3fS",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/creativemd"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "8fcrHsji",
+          "project_id": "fM515JnW",
+          "author_id": "YTAyzo4h",
+          "name": "6.3.6",
+          "version_number": "6.3.6",
+          "changelog": "* Make savanna cicadas and cricket depend on sand or grass being around\n* Renamed light-wind3 to heavy-wind2 (suggested by Catomon)\n* Fixed playing cold (light-wind) in caves\n* Fixed possible crash when reloading\n* Fixed issue reported by ModernFix of registering reloader resource manager too late\n",
+          "date_published": "2026-04-24T11:04:27.358508Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "7ee917ba26ed40fa39ae9a4ef24ee5d3dced23b1",
+                "sha512": "aa4a4d150d366ff3863072359d137d9861aa5fc6299815bf0f1df53f57ed0b68695ae43d91a2853731c05af82a9faf62693afa886e7002db52fcfd2ea02ebef8"
+              },
+              "url": "https://cdn.modrinth.com/data/fM515JnW/versions/8fcrHsji/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+              "filename": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+              "primary": true,
+              "size": 84813650
+            },
+            {
+              "hashes": {
+                "sha512": "7a017815316e2c337a15383c237039bb66188ab388f0e6b9f68c9c5b43bcec512754e11ca00333b353b409ee9cf787e4a515bb09c2f2bb6d0526a5ff6925e977",
+                "sha1": "6127649a9c3d606f68aaf85f906859460ec7d1ee"
+              },
+              "url": "https://cdn.modrinth.com/data/fM515JnW/versions/8fcrHsji/AmbientSounds_NEOFORGE_SOURCE_v6.3.6_mc26.1.2.jar",
+              "filename": "AmbientSounds_NEOFORGE_SOURCE_v6.3.6_mc26.1.2.jar",
+              "primary": false,
+              "size": 56262
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "OsZiaDHq",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Chimes",
+        "version": "Chimes-v2.1.2-26.1-NeoForge",
+        "optional": true,
+        "file": "Chimes-v2.1.2-26.1-NeoForge.jar",
+        "type": "mods",
+        "description": "Wind chimes that create ambient noises for your base.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 350464,
+        "curseForgeFileId": 8703375,
+        "curseForgeProject": {
+          "id": 350464,
+          "name": "Chimes",
+          "authors": [
+            {
+              "id": 100626211,
+              "name": "CicadaBluw",
+              "url": "https://www.curseforge.com/members/cicadabluw"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Wind chimes that create ambient noises for your base.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "chimes",
+          "isFeatured": false,
+          "dateModified": "2026-08-21T23:41:47.01Z",
+          "dateCreated": "2020-11-09T22:45:12.287Z",
+          "dateReleased": "2026-08-21T23:32:11.55Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chimes",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 312142,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/312/142/256/256/637404786829510911.png",
+            "title": "637404786829510911.png",
+            "url": "https://media.forgecdn.net/avatars/312/142/637404786829510911.png",
+            "modId": 350464
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 401727,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/401/727/310/172/2021-10-17_00.png",
+              "title": "Iron Wind Chimes",
+              "url": "https://media.forgecdn.net/attachments/401/727/2021-10-17_00.png",
+              "modId": 350464
+            },
+            {
+              "id": 469803,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/469/803/310/172/2021-10-16_23.png",
+              "title": "More Wind Chime Blocks ",
+              "url": "https://media.forgecdn.net/attachments/469/803/2021-10-16_23.png",
+              "modId": 350464
+            },
+            {
+              "id": 684592,
+              "description": "Over 250+ unique combinations!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/684/592/310/172/customize_your_wind_bell.png",
+              "title": "Customize Your Wind Bell!",
+              "url": "https://media.forgecdn.net/attachments/684/592/customize_your_wind_bell.png",
+              "modId": 350464
+            },
+            {
+              "id": 469775,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/469/775/310/172/prettylilcopperchimesscene.png",
+              "title": "Copper Wind Chimes",
+              "url": "https://media.forgecdn.net/attachments/469/775/prettylilcopperchimesscene.png",
+              "modId": 350464
+            },
+            {
+              "id": 323063,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/323/63/310/172/2020-11-15_23.png",
+              "title": "Bamboo Wind Chimes",
+              "url": "https://media.forgecdn.net/attachments/323/63/2020-11-15_23.png",
+              "modId": 350464
+            },
+            {
+              "id": 469795,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/469/795/310/172/amethystchimescave.png",
+              "title": "Amethyst Wind Chimes",
+              "url": "https://media.forgecdn.net/attachments/469/795/amethystchimescave.png",
+              "modId": 350464
+            },
+            {
+              "id": 469802,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/469/802/310/172/2022-06-08_16.png",
+              "title": "Tied Copper Wind Chime",
+              "url": "https://media.forgecdn.net/attachments/469/802/2022-06-08_16.png",
+              "modId": 350464
+            },
+            {
+              "id": 323062,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/323/62/310/172/screenshot_2020-11-15_at_23.png",
+              "title": "Chime Blocks",
+              "url": "https://media.forgecdn.net/attachments/323/62/screenshot_2020-11-15_at_23.png",
+              "modId": 350464
+            },
+            {
+              "id": 321701,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/321/701/310/172/screenshot-2020-11-09-at-00.png",
+              "title": "Bamboo Wind Chime recipe",
+              "url": "https://media.forgecdn.net/attachments/321/701/screenshot-2020-11-09-at-00.png",
+              "modId": 350464
+            },
+            {
+              "id": 321702,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/321/702/310/172/screenshot-2020-11-09-at-00.png",
+              "title": "Iron Wind Chime recipe",
+              "url": "https://media.forgecdn.net/attachments/321/702/screenshot-2020-11-09-at-00.png",
+              "modId": 350464
+            }
+          ],
+          "mainFileId": 8703397
+        },
+        "curseForgeFile": {
+          "id": 8703375,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Chimes-v2.1.2-26.1-NeoForge",
+          "fileName": "Chimes-v2.1.2-26.1-NeoForge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-21T23:28:02.393Z",
+          "fileLength": 12489515,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2972015235,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3026386409,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1350481041,
+              "name": "chimeslogo.png"
+            },
+            {
+              "fingerprint": 4245894962,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2633886739,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1972405141,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7c4e55f899f15376383b34f0f87eb3f99406d297",
+              "algo": 1
+            },
+            {
+              "value": "98f19f92f10bdf8d558965c25db84c5c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1102624906,
+          "modId": 350464
+        }
+      },
+      {
+        "name": "Balm",
+        "version": "balm-neoforge-26.1.2-26.1.2.14.jar",
+        "optional": true,
+        "file": "balm-neoforge-26.1.2-26.1.2.14.jar",
+        "type": "mods",
+        "description": "Abstraction Layer for Multi-Loader Mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 531761,
+        "curseForgeFileId": 8837452,
+        "curseForgeProject": {
+          "id": 531761,
+          "name": "Balm",
+          "authors": [
+            {
+              "id": 12099681,
+              "name": "BlayTheNinth",
+              "url": "https://www.curseforge.com/members/blaytheninth"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Abstraction Layer for Multi-Loader Mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "balm",
+          "isFeatured": false,
+          "dateModified": "2026-09-08T14:33:32.94Z",
+          "dateCreated": "2021-09-29T10:33:49.32Z",
+          "dateReleased": "2026-09-08T13:30:06.28Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/balm",
+            "wikiUrl": "https://balm.twelveiterations.com/",
+            "issuesUrl": "https://github.com/TwelveIterations/Balm/issues",
+            "sourceUrl": "https://github.com/TwelveIterations/Balm"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/36qHFMNgAh"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            },
+            {
+              "type": "8",
+              "url": "https://www.twitch.tv/blaytheninth"
+            },
+            {
+              "type": "14",
+              "url": "https://bsky.app/profile/blaytheninth.bsky.social"
+            }
+          ],
+          "logo": {
+            "id": 1107117,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
+            "title": "638657111836546584.png",
+            "url": "https://media.forgecdn.net/avatars/1107/117/638657111836546584.png",
+            "modId": 531761
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8837452
+        },
+        "curseForgeFile": {
+          "id": 8837452,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "balm-neoforge-26.1.2-26.1.2.14.jar",
+          "fileName": "balm-neoforge-26.1.2-26.1.2.14.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-09-08T13:30:06.28Z",
+          "fileLength": 1072715,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3770911214,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 11611604,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3359067785,
+              "name": "balm.api.mixins.json"
+            },
+            {
+              "fingerprint": 3839853307,
+              "name": "balm.mixins.json"
+            },
+            {
+              "fingerprint": 3984967944,
+              "name": "balm.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 3525494648,
+              "name": "balm.png"
+            },
+            {
+              "fingerprint": 3768852101,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3107534818,
+              "name": "wthit_plugins.json"
+            },
+            {
+              "fingerprint": 814305286,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 905828214,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1185419476,
+              "name": "LICENSE_Balm"
+            },
+            {
+              "fingerprint": 2268135453,
+              "name": "LICENSE_binaries_Balm"
+            },
+            {
+              "fingerprint": 129205867,
+              "name": "NOTICE_Balm"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3184731e20eaa203cb9c5d2283441aeb58af4464",
+              "algo": 1
+            },
+            {
+              "value": "67caf8c6fb76e6ce844e5ea6fd6425a2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2402534329,
+          "modId": 531761
+        },
+        "modrinthProject": {
+          "id": "MBAkmtvl",
+          "slug": "balm",
+          "project_type": "mod",
+          "team": "c1tw4qzj",
+          "title": "Balm",
+          "description": "Abstraction Layer for Multi-Loader Mods",
+          "body": "Balm is a library mod for mod developers that simplifies the process of creating multi-loader mods by providing common interfaces and events and removing the need for most mod-loader specific code.\n\nIt is **not** a magic solution for running Forge and Fabric mods together. As a user, you only need to install this mod if you use a mod that requires it.\n\nVersions for Minecraft 1.16 and below are not needed - mods will run without Balm on those versions!\n\n**Key Points**\n\n- No custom Gradle tooling, official mod loader plugins only\n- Uses Mojang Mappings, supports Jared's Multiloader-Template\n- All-inclusive from networking to configs, no third party dependencies\n- Battle-tested across Blay's 20+ mods ranging from content additions to quality of life utilities\n- Supports NeoForge and Fabric without duplicate code\n- Snapshot builds for pre-releases and release candidates\n- Unified support for Third Party Mods like Curios or Jade\n- Available on CurseForge and Modrinth (incl. Third Party Access)\n\n**How to make a mod with Balm (as a mod developer)**\n\n- Check out the [documentation](https://balm.twelveiterations.com/) for a Getting Started guide and a project generator.\n- You can also use [this template repository](https://github.com/TwelveIterations/balm-mod) as a starting point or reference.\n- Consider browsing Blay's existing mods' [source code](https://github.com/orgs/TwelveIterations/repositories) to learn how specific things are done.\n- Join Blay and other developers using Balm on the [Balm Developers Discord](https://discord.gg/36qHFMNgAh) server.\n",
+          "published": "2022-06-14T18:11:16.556742Z",
+          "updated": "2026-08-31T14:00:11.605861Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://mods.twelveiterations.com/permissions"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp",
+          "issues_url": "https://github.com/TwelveIterations/Balm/issues",
+          "source_url": "https://github.com/TwelveIterations/Balm",
+          "wiki_url": "https://balm.twelveiterations.com/",
+          "discord_url": "https://discord.gg/36qHFMNgAh",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "XfUUh0yW",
+          "project_id": "MBAkmtvl",
+          "author_id": "WE4nCeiO",
+          "name": "26.1.2.14+neoforge-26.1.2",
+          "version_number": "26.1.2.14+neoforge-26.1.2",
+          "changelog": "- Fixed custom recipe types not being registered for syncing\n",
+          "date_published": "2026-09-08T13:29:46.987666Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "3184731e20eaa203cb9c5d2283441aeb58af4464",
+                "sha512": "fad304d59a7455408babda3e30731e47dd410531d71c540357a9c81deb78f729d6c653862a351692eb1d9088de2db1a4241418a121c922cc60d0f5e194c76452"
+              },
+              "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/XfUUh0yW/balm-neoforge-26.1.2-26.1.2.14.jar",
+              "filename": "balm-neoforge-26.1.2-26.1.2.14.jar",
+              "primary": true,
+              "size": 1072715
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Hardcore Revival",
+        "version": "hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+        "optional": true,
+        "file": "hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+        "type": "mods",
+        "description": "Help your friends back up after they die (if you can make it in time)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 274036,
+        "curseForgeFileId": 8837385,
+        "curseForgeProject": {
+          "id": 274036,
+          "name": "Hardcore Revival",
+          "authors": [
+            {
+              "id": 12099681,
+              "name": "BlayTheNinth",
+              "url": "https://www.curseforge.com/members/blaytheninth"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Help your friends back up after they die (if you can make it in time)",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "hardcore-revival",
+          "isFeatured": false,
+          "dateModified": "2026-09-10T11:06:02.933Z",
+          "dateCreated": "2017-08-08T15:30:09.133Z",
+          "dateReleased": "2026-09-10T09:29:01.963Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/hardcore-revival",
+            "wikiUrl": "https://mods.twelveiterations.com/minecraft/hardcore-revival",
+            "issuesUrl": "https://github.com/TwelveIterations/HardcoreRevival/issues",
+            "sourceUrl": "https://github.com/TwelveIterations/HardcoreRevival"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/VAfZ2Nau6j"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            },
+            {
+              "type": "8",
+              "url": "https://www.twitch.tv/blaytheninth"
+            },
+            {
+              "type": "14",
+              "url": "https://bsky.app/profile/blaytheninth.bsky.social"
+            }
+          ],
+          "logo": {
+            "id": 109140,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/109/140/256/256/636377568336643477.png",
+            "title": "636377568336643477.png",
+            "url": "https://media.forgecdn.net/avatars/109/140/636377568336643477.png",
+            "modId": 274036
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 214908,
+              "description": "Wait to be rescued or accept your fate.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/214/908/310/172/2017-08-08_10.png",
+              "title": "You are K.O.",
+              "url": "https://media.forgecdn.net/attachments/214/908/2017-08-08_10.png",
+              "modId": 274036
+            }
+          ],
+          "mainFileId": 8849484
+        },
+        "curseForgeFile": {
+          "id": 8837385,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+          "fileName": "hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-09-08T13:20:39.767Z",
+          "fileLength": 365842,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 531761,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4026798051,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2570062876,
+              "name": "net"
+            },
+            {
+              "fingerprint": 4052529431,
+              "name": "hardcorerevival.mixins.json"
+            },
+            {
+              "fingerprint": 2958132505,
+              "name": "hardcorerevival.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 229135715,
+              "name": "hardcorerevival.png"
+            },
+            {
+              "fingerprint": 704106831,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1906141822,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1253149227,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1031176930,
+              "name": "LICENSE_Hardcore Revival"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d9594f67cc9d10291f174f177b92d9ab4fca81a1",
+              "algo": 1
+            },
+            {
+              "value": "764809cf1d1671e4bb7ce0b55352a718",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 1610409641,
+          "modId": 274036
+        },
+        "modrinthProject": {
+          "id": "HqKoXaXz",
+          "slug": "hardcore-revival",
+          "project_type": "mod",
+          "team": "7o4Y1keX",
+          "title": "Hardcore Revival",
+          "description": "Help your friends back up after they die (if you can make it in time)",
+          "body": "Have you ever played Hardcore multiplayer with friends and suddenly your teammate died to a dumb mistake while you were just being comfy at home? You usually would be forced to restart, even though you didn't really do anything wrong. Maybe your friend didn't do anything wrong either. Overall I believe that death in hardcore is only fun if it feels like you really deserved it, for example while fighting a strong boss monster.\n\nTherefore, this mod aims to solve this problem! When a player dies, instead of being gone for good, they enter a K.O. state, at which point a timer will start running. Being the good friend you are, you can attempt to save them in time. If you do, everything is fine - they get a small debuff and a strong appetite and you two can be on your way again. If you don't, for example because you died while trying to save them, or you just didn't ~~care about your friend~~ get there in time, then that's your own fault and you can now decide to restart while in peace with yourself!\n\nThis mod requires [Balm](https://modrinth.com/mod/balm), which must be installed alongside the mod.\n\n### ![Features](https://mods.twelveiterations.com/img/features-header.png)\n\n*   Grace K.O. period before final death where your friends can save you\n*   However, friends are not included :(\n*   Locate the player and hold-right click to help them get back up\n*   K.O. players can look around and chat, but can't move, attack nor use items\n*   Works in both Hardcore and Normal mode\n\n![K.O. Screen](https://blay09.net/files/brand/hardcorerevival.png)\n",
+          "published": "2022-06-15T17:49:27.525608Z",
+          "updated": "2026-09-08T13:25:25.086445Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://mods.twelveiterations.com/permissions"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "social"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/HqKoXaXz/37f51593b0a4b81c66f6843c35010e5acc6ee08a_96.webp",
+          "issues_url": "https://github.com/TwelveIterations/HardcoreRevival/issues",
+          "source_url": "https://github.com/TwelveIterations/HardcoreRevival",
+          "wiki_url": "https://mods.twelveiterations.com/minecraft/hardcore-revival",
+          "discord_url": "https://discord.gg/VAfZ2Nau6j",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/HqKoXaXz/images/acc41a08e6f9794037f4900316dc8582a124f615_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/HqKoXaXz/images/acc41a08e6f9794037f4900316dc8582a124f615.png",
+              "featured": true,
+              "title": "You are K.O.",
+              "description": "Wait to be rescued or accept your fate.",
+              "created": "2026-08-10T13:49:23.539084Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "aNzGG46l",
+          "project_id": "HqKoXaXz",
+          "author_id": "WE4nCeiO",
+          "name": "26.1.2.7+neoforge-26.1.2",
+          "version_number": "26.1.2.7+neoforge-26.1.2",
+          "changelog": "- Fixed players still looking like they can be attacked to mobs, possibly fixing some modded mob targeting behavior\n- Fixed regression that caused armor to once again be damaged when getting hit while knocked out\n- Fixed edge case when a player dies without their knockout state being reset\n- Fixed potential zero health state after rescue if `rescueRespawnHealth` is configured badly\n",
+          "date_published": "2026-09-08T13:19:38.777648Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "13c1f7412e2d47d500a46c7ddc6d23b28032a1ef15d5428136d57c7418a557ca168aa4a4ec3883db1c7e979990a520ad0127212843666a27ab5c92b36c01a20d",
+                "sha1": "d9594f67cc9d10291f174f177b92d9ab4fca81a1"
+              },
+              "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/aNzGG46l/hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+              "filename": "hardcorerevival-neoforge-26.1.2-26.1.2.7.jar",
+              "primary": true,
+              "size": 365842
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "MBAkmtvl",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
@@ -12985,7 +15836,7 @@
     "lastPlayed": 1788879651209,
     "numPlays": 2,
     "lastExportName": "RAoE P1",
-    "lastExportVersion": "1.0.4",
+    "lastExportVersion": "1.1.0",
     "lastExportAuthor": "Lauriichan",
     "lastExportSaveTo": "G:\\Minecraft\\ATLauncher\\instances\\RAoEP1"
   },
