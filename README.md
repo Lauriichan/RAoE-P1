@@ -8,6 +8,7 @@ A Random Assortment of Mods for 26.1.2
 - Apothic Enchanting ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting))
 - Apothic-Spawners ([Modrinth](https://modrinth.com/mod/apothic-spawners) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-spawners)) [26.1.2-2.0.1]
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)) [3.0.9+mc26.1]
+- Architectury API ([Modrinth](https://modrinth.com/mod/architectury-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)) [20.1.14+neoforge]
 - Balm ([Modrinth](https://modrinth.com/mod/balm) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)) [26.1.2.14+neoforge-26.1.2]
 - Butchery ([Modrinth](https://modrinth.com/mod/butchery) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/butchery)) [5.2]
 - Chimes ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chimes))
@@ -20,6 +21,7 @@ A Random Assortment of Mods for 26.1.2
 - CreativeCore ([Modrinth](https://modrinth.com/mod/creativecore) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)) [2.14.16]
 - Cyclops Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
 - Dense Ores ([Modrinth](https://modrinth.com/mod/dense-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dense-ores-abundant)) [1.4.1-neoforge]
+- Dynamic Surroundings (Expanded) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-expanded))
 - Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)) [26.1.2.6]
 - Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.10.0-r5.9-neoforge]
 - Extra Emeralds Please! ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-emeralds-please))
