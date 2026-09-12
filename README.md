@@ -13,17 +13,22 @@ A Random Assortment of Mods for 26.1.2
 - Butchery ([Modrinth](https://modrinth.com/mod/butchery) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/butchery)) [5.2]
 - Chimes ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chimes))
 - Clumps ([Modrinth](https://modrinth.com/mod/clumps) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)) [26.1.2.1]
+- Cobblegen Galore ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobblegen-galore))
 - Cobweb ([Modrinth](https://modrinth.com/mod/cobweb) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobweb)) [1.4.0]
 - Common Capabilities ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities))
-- Complementary Shaders - Unbound ([Modrinth](https://modrinth.com/mod/complementary-unbound) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/complementary-unbound)) [r5.9]
+- Complementary Shaders - Unbound ([Modrinth](https://modrinth.com/mod/complementary-unbound) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/complementary-unbound)) [r5.9.1]
 - Configured ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured))
 - Controlling ([Modrinth](https://modrinth.com/mod/controlling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)) [26.1.2.4]
 - CreativeCore ([Modrinth](https://modrinth.com/mod/creativecore) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)) [2.14.16]
+- Croptopia ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia))
 - Cyclops Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
 - Dense Ores ([Modrinth](https://modrinth.com/mod/dense-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dense-ores-abundant)) [1.4.1-neoforge]
 - Dynamic Surroundings (Expanded) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-expanded))
+- Easy Villagers ([Modrinth](https://modrinth.com/mod/easy-villagers) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)) [neoforge-1.1.43+26.1.2]
+- Effortless Building ([Modrinth](https://modrinth.com/mod/effortless-building) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/effortless-building)) [4.3]
 - Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)) [26.1.2.6]
-- Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.10.0-r5.9-neoforge]
+- EpheroLib ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/epherolib))
+- Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.10.1-r5.9.1-neoforge]
 - Extra Emeralds Please! ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-emeralds-please))
 - Extreme sound muffler ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [4.02-ALPHA-26.1.2]
 - FerriteCore ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [9.0.0-neoforge]
@@ -36,7 +41,7 @@ A Random Assortment of Mods for 26.1.2
 - Integrated Terminals ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals))
 - Integrated Tunnels ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels))
 - Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.11.3+26.1-neoforge]
-- Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [29.35.0.95]
+- Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [29.37.0.98]
 - Just Enough Professions (JEP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep))
 - Just Enough Resources (JER) ([Modrinth](https://modrinth.com/mod/just-enough-resources-jer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)) [1.10.1.40]
 - Lithium ([Modrinth](https://modrinth.com/mod/lithium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)) [mc26.1.2-0.24.7-neoforge]
@@ -52,6 +57,8 @@ A Random Assortment of Mods for 26.1.2
 - Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
 - Simple Voice Chat ([Modrinth](https://modrinth.com/mod/simple-voice-chat) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)) [neoforge-2.6.23+26.1.2]
 - Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc26.1.2-0.9.1-neoforge]
+- Sophisticated Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core))
+- Sophisticated Storage ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage))
 - Sound Physics Remastered ([Modrinth](https://modrinth.com/mod/sound-physics-remastered) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)) [neoforge-1.5.1+26.1.2]
-- Starcatcher ([Modrinth](https://modrinth.com/mod/starcatcher) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starcatcher)) [3.1.2-PREVIEW-NEOFORGE-26.1.2]
+- Starcatcher ([Modrinth](https://modrinth.com/mod/starcatcher) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starcatcher)) [3.1.4.1-NEOFORGE-26.1.2]
 - Universal Bone Meal ([Modrinth](https://modrinth.com/mod/universal-bone-meal) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal)) [26.1.0]
