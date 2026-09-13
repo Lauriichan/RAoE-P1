@@ -8685,18 +8685,6 @@
           "summary": "Transfer other stuff over Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -8706,6 +8694,18 @@
               "id": 6954,
               "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
               "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
               "classId": 6
             },
             {
@@ -16290,18 +16290,6 @@
           "summary": "A fishing overhaul mod with 100+ fishes, and a ton of new fishing related content",
           "categories": [
             {
-              "name": "Farming",
-              "slug": "technology-farming",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
-              "dateModified": "2014-05-08T17:39:21.57Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 416,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Mobs",
               "slug": "world-mobs",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
@@ -16311,6 +16299,18 @@
               "id": 411,
               "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
               "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -18631,6 +18631,3522 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "inzhefop's Core",
+        "version": "inzhefopcore-1.0.0-neoforge-26.1.2.jar",
+        "optional": true,
+        "file": "inzhefopcore-1.0.0-neoforge-26.1.2.jar",
+        "type": "mods",
+        "description": "Core mod for all my mods, providing essential debugging tools and game utilities.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 434516,
+        "curseForgeFileId": 8702532,
+        "curseForgeProject": {
+          "id": 434516,
+          "name": "inzhefop's Core",
+          "authors": [
+            {
+              "id": 100133240,
+              "name": "inzhefop",
+              "url": "https://www.curseforge.com/members/inzhefop"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Core mod for all my mods, providing essential debugging tools and game utilities.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "inzhefop-core",
+          "isFeatured": false,
+          "dateModified": "2026-09-06T21:12:45.547Z",
+          "dateCreated": "2021-01-10T10:42:24.2Z",
+          "dateReleased": "2026-09-06T20:56:31.57Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/inzhefop-core",
+            "wikiUrl": "",
+            "issuesUrl": ""
+          },
+          "logo": {
+            "id": 1998754,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1998/754/256/256/639229410371511785.png",
+            "title": "639229410371511785.png",
+            "url": "https://media.forgecdn.net/avatars/1998/754/639229410371511785.png",
+            "modId": 434516
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8825559
+        },
+        "curseForgeFile": {
+          "id": 8702532,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "inzhefopcore-1.0.0-neoforge-26.1.2.jar",
+          "fileName": "inzhefopcore-1.0.0-neoforge-26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-21T20:43:18.567Z",
+          "fileLength": 123921,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3868489802,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2198564128,
+              "name": "inzhefop"
+            },
+            {
+              "fingerprint": 1694890262,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2855893747,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 762347863,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "831e69ef7f4225d373bb72c47fa576fbe39af503",
+              "algo": 1
+            },
+            {
+              "value": "69840f7753d4e4d673ed9993b5cbff16",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2903689362,
+          "modId": 434516
+        }
+      },
+      {
+        "name": "Iron Generators",
+        "version": "irongenerators-1.1.0-neoforge-26.1.2.jar",
+        "optional": true,
+        "file": "irongenerators-1.1.0-neoforge-26.1.2.jar",
+        "type": "mods",
+        "description": "Adds various generators, ranging from Stone to Netherite, that produce power!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 446489,
+        "curseForgeFileId": 8679315,
+        "curseForgeProject": {
+          "id": 446489,
+          "name": "Iron Generators",
+          "authors": [
+            {
+              "id": 100133240,
+              "name": "inzhefop",
+              "url": "https://www.curseforge.com/members/inzhefop"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds various generators, ranging from Stone to Netherite, that produce power!",
+          "categories": [
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "iron-generators",
+          "isFeatured": false,
+          "dateModified": "2026-09-06T22:32:04.83Z",
+          "dateCreated": "2021-02-14T10:41:11.23Z",
+          "dateReleased": "2026-09-06T22:11:15.327Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/iron-generators",
+            "wikiUrl": ""
+          },
+          "socialLinks": [
+            {
+              "type": "10",
+              "url": "https://www.youtube.com/@forceofphoenix"
+            }
+          ],
+          "logo": {
+            "id": 1990506,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1990/506/256/256/639225886518554366.png",
+            "title": "639225886518554366.png",
+            "url": "https://media.forgecdn.net/avatars/1990/506/639225886518554366.png",
+            "modId": 446489
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1874916,
+              "description": "day.jpg",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1874/916/310/172/day-jpg.jpg",
+              "title": "day.jpg",
+              "url": "https://media.forgecdn.net/attachments/1874/916/day-jpg.jpg",
+              "modId": 446489
+            },
+            {
+              "id": 1874917,
+              "description": "night.jpg",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1874/917/310/172/night-jpg.jpg",
+              "title": "night.jpg",
+              "url": "https://media.forgecdn.net/attachments/1874/917/night-jpg.jpg",
+              "modId": 446489
+            },
+            {
+              "id": 1876920,
+              "description": "gui_1.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1876/920/310/172/gui_1-png.png",
+              "title": "gui_1.png",
+              "url": "https://media.forgecdn.net/attachments/1876/920/gui_1-png.png",
+              "modId": 446489
+            },
+            {
+              "id": 1876921,
+              "description": "gui_2.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1876/921/310/172/gui_2-png.png",
+              "title": "gui_2.png",
+              "url": "https://media.forgecdn.net/attachments/1876/921/gui_2-png.png",
+              "modId": 446489
+            }
+          ],
+          "mainFileId": 8826061
+        },
+        "curseForgeFile": {
+          "id": 8679315,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "irongenerators-1.1.0-neoforge-26.1.2.jar",
+          "fileName": "irongenerators-1.1.0-neoforge-26.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-18T18:10:05.967Z",
+          "fileLength": 514669,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 405593,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 434516,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 364466,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1083741730,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4142401517,
+              "name": "inzhefop"
+            },
+            {
+              "fingerprint": 2596222130,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1131598541,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2392944293,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2599494182,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "434cb9d3cec786f8599602c55199ae943370196b",
+              "algo": 1
+            },
+            {
+              "value": "3497d361169725bf68803484a7c7743c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2357622828,
+          "modId": 446489
+        }
+      },
+      {
+        "name": "GuideME",
+        "version": "GuideME 26.1.12-beta",
+        "optional": true,
+        "file": "guideme-26.1.12-beta.jar",
+        "type": "mods",
+        "description": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1173950,
+        "curseForgeFileId": 8204880,
+        "curseForgeProject": {
+          "id": 1173950,
+          "name": "GuideME",
+          "authors": [
+            {
+              "id": 101333983,
+              "name": "shartte",
+              "url": "https://www.curseforge.com/members/shartte"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+          "categories": [
+            {
+              "name": "Applied Energistics 2",
+              "slug": "applied-energistics-2",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
+              "dateModified": "2015-09-14T14:18:48.563Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4545,
+              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "guideme",
+          "isFeatured": false,
+          "dateModified": "2026-07-12T19:59:22.49Z",
+          "dateCreated": "2025-01-19T14:27:26.523Z",
+          "dateReleased": "2026-07-12T19:49:00.503Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/guideme",
+            "wikiUrl": "https://guideme.appliedenergistics.org",
+            "issuesUrl": "https://github.com/AppliedEnergistics/GuideME/issues",
+            "sourceUrl": "https://github.com/AppliedEnergistics/GuideME"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/b6HZ4p8EKH"
+            },
+            {
+              "type": "13",
+              "url": "https://github.com/AppliedEnergistics/GuideME"
+            },
+            {
+              "type": "3",
+              "url": "https://guideme.appliedenergistics.org/"
+            }
+          ],
+          "logo": {
+            "id": 1151155,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1151/155/256/256/638718882756139313.png",
+            "title": "638718882756139313.png",
+            "url": "https://media.forgecdn.net/avatars/1151/155/638718882756139313.png",
+            "modId": 1173950
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8420861
+        },
+        "curseForgeFile": {
+          "id": 8204880,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "GuideME 26.1.12-beta",
+          "fileName": "guideme-26.1.12-beta.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-06-06T10:11:47.397Z",
+          "fileLength": 5192549,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3144011725,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1878547266,
+              "name": "guideme"
+            },
+            {
+              "fingerprint": 303294545,
+              "name": "NOTICE"
+            },
+            {
+              "fingerprint": 3209115098,
+              "name": "guideme.mixins.json"
+            },
+            {
+              "fingerprint": 1448966983,
+              "name": "guideme.optional.mixins.json"
+            },
+            {
+              "fingerprint": 1045817030,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1375014034,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d609c5b4617369b2dc781efb149c718d03698740",
+              "algo": 1
+            },
+            {
+              "value": "e57d932baf1841b40144cae3ec10afc0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3969784480,
+          "modId": 1173950
+        },
+        "modrinthProject": {
+          "id": "Ck4E7v7R",
+          "slug": "guideme",
+          "project_type": "mod",
+          "team": "EresTnjy",
+          "title": "GuideME",
+          "description": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+          "body": "# GuideME\n\nThis project offers the foundation for your mods or modpacks guidebook. Based on the technology powering Applied Energistics 2s guidebook, it allows you to write your guide in simple Markdown, while embedding 3d scenes straight from structure files.\n\nFor players, guides based on GuideME offer:\n\n- Smooth scrolling goodness\n- Content being front and center, with an advanced text layout engine supporting reflow and inline elements\n- Interactive 3D scenes with annotations, intuitively illustrating concepts from your mod\n- Cross-linking between topics and quick information in link tooltips\n- Showing inline-recipes in your guidebook \"JEI-Style\"\n- Offers the ability to \"hold G\" to quickly jump to the relevant guidebook page in any item tooltip\n\nFor modders, it offers a rich extensibility API, allowing you to:\n\n- Add custom inline or block tags to Markdown, backed by a custom Widget system\n- Extend the recipe rendering to display your custom recipes in the guide\n- Use custom Markdown front-matter to easily add arbitrary information to guidebook pages\n- Use custom indices to quickly find pages based on custom attributes\n- Allow resource packs or addons to add their own content to your guide\n\n## Example\n\nThe following is an example page from the AE2 guidebook (source).\n\n```\n---\nnavigation:\n  parent: ae2-mechanics/ae2-mechanics-index.md\n  title: Channels\n  icon: controller\n---\n\n# Channels\n\nApplied Energistics 2's [ME Networks](me-network-connections.md) require\nChannels to support [devices](../ae2-mechanics/devices.md) which use networked storage, or other network\nservices. Think of channels like USB cables to all your devices. A computer only has so many USB ports and can only support\nso many devices connected to it. Most machines, full-block devices, and standard cables can only pass through\nup to 8 channels. You can think of full-block devices and standard cables as a bundle of 8 \"channel wires\". However, [dense cables](../items-blocks-machines/cables.md#dense-cable) can support up\nto 32 channels. The only other devices capable of transmitting 32 are <ItemLink id=\"me_p2p_tunnel\" />\nand the [Quantum Network Bridge](../items-blocks-machines/quantum_bridge.md). Each time a device uses up a channel, imagine pulling off a usb \"wire\" from\nthe bundle, which obviously means that \"wire\" isn't available further down the line.\n\n<GameScene zoom=\"7\" interactive={true}>\n  <ImportStructure src=\"../assets/assemblies/channel_demonstration_1.snbt\" />\n</GameScene>\n```\n\n![Example](https://cdn.modrinth.com/data/cached_images/6e2fe4965e8ddc6a440ffa085d7a5df88fbd7424.png)",
+          "published": "2025-01-17T22:35:18.397149Z",
+          "updated": "2026-07-12T19:49:01.738873Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Multiple-OSS-Licenses",
+            "name": "",
+            "url": "https://github.com/AppliedEnergistics/GuideME/blob/main/LICENSE.MD"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Ck4E7v7R/04e8cbe7daff69feb20bf114074475001d9c7be5.png",
+          "issues_url": "https://github.com/AppliedEnergistics/GuideME/issues",
+          "source_url": "https://github.com/AppliedEnergistics/GuideME/",
+          "discord_url": "https://discord.gg/Zd6t9ka7ne",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Ck4E7v7R/images/6e2fe4965e8ddc6a440ffa085d7a5df88fbd7424_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/Ck4E7v7R/images/6e2fe4965e8ddc6a440ffa085d7a5df88fbd7424.png",
+              "featured": false,
+              "created": "2025-01-17T22:43:06.348280Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ZkJhP9xE",
+          "project_id": "Ck4E7v7R",
+          "author_id": "3HAu37Rl",
+          "name": "GuideME 26.1.12-beta",
+          "version_number": "26.1.12-beta",
+          "changelog": "See https://guideme.appliedenergistics.org/changelog#26112-beta-minecraft-2612\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/GuideME/compare/v26.1.11-beta...v26.1.12-beta",
+          "date_published": "2026-06-06T10:11:47.913028Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d609c5b4617369b2dc781efb149c718d03698740",
+                "sha512": "f661f7924c51af2c0150fe56ff956ec31bcb085728d7fc685264644aeeac24017a6e6f1a1e8d9067a143ca72e9e673f4aed2d6e50e904056871b98c5918e3ff7"
+              },
+              "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ZkJhP9xE/guideme-26.1.12-beta.jar",
+              "filename": "guideme-26.1.12-beta.jar",
+              "primary": true,
+              "size": 5192549
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Applied Energistics 2",
+        "version": "AE2 26.1.10-beta [NEOFORGE]",
+        "optional": true,
+        "file": "appliedenergistics2-26.1.10-beta.jar",
+        "type": "mods",
+        "description": "A Mod about Matter, Energy and using them to conquer the world..",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 223794,
+        "curseForgeFileId": 8257570,
+        "curseForgeProject": {
+          "id": 223794,
+          "name": "Applied Energistics 2",
+          "authors": [
+            {
+              "id": 101370726,
+              "name": "thetechnici4n",
+              "url": "https://www.curseforge.com/members/thetechnici4n"
+            },
+            {
+              "id": 101333983,
+              "name": "shartte",
+              "url": "https://www.curseforge.com/members/shartte"
+            },
+            {
+              "id": 16673090,
+              "name": "TeamAppliedEnergistics",
+              "url": "https://www.curseforge.com/members/teamappliedenergistics"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Mod about Matter, Energy and using them to conquer the world..",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 415,
+          "classId": 6,
+          "slug": "applied-energistics-2",
+          "isFeatured": false,
+          "dateModified": "2026-06-16T11:59:33.04Z",
+          "dateCreated": "2014-08-27T20:04:28.857Z",
+          "dateReleased": "2026-06-16T11:54:09.36Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+            "wikiUrl": "https://guide.appliedenergistics.org/",
+            "issuesUrl": "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues",
+            "sourceUrl": "https://github.com/AppliedEnergistics/Applied-Energistics-2"
+          },
+          "logo": {
+            "id": 1025127,
+            "description": "",
+            "thumbnailUrl": "",
+            "title": "638548475358792693.webp",
+            "url": "https://media.forgecdn.net/avatars/1025/127/638548475358792693.webp",
+            "modId": 223794
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7148494
+        },
+        "curseForgeFile": {
+          "id": 8257570,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "AE2 26.1.10-beta [NEOFORGE]",
+          "fileName": "appliedenergistics2-26.1.10-beta.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-06-16T11:54:09.36Z",
+          "fileLength": 8347899,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 440979,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1173950,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3351720856,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3099123959,
+              "name": "appeng"
+            },
+            {
+              "fingerprint": 303294545,
+              "name": "NOTICE"
+            },
+            {
+              "fingerprint": 763466425,
+              "name": "ae2.mixins.json"
+            },
+            {
+              "fingerprint": 666721860,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1202541880,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1999289619,
+              "name": "wthit_plugins.json"
+            },
+            {
+              "fingerprint": 1654837354,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3246070488,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a4803b04e885c698eff0236cb8faeb8abc33f216",
+              "algo": 1
+            },
+            {
+              "value": "2c2680686b0a966969f656f4e0c52147",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 14477322,
+          "modId": 223794
+        },
+        "modrinthProject": {
+          "id": "XxWD5pD3",
+          "slug": "ae2",
+          "project_type": "mod",
+          "team": "CqWdb4w5",
+          "title": "Applied Energistics 2",
+          "description": "AE2: A popular automation and storage mod",
+          "body": "Applied Energistics 2 (AE2) is a comprehensive mod for Minecraft that introduces a unique approach to in-game inventory management. It presents a tech-based, futuristic theme, centered around the concept of using energy and technology to convert matter into energy and vice versa. Please come visit our [homepage](https://appliedenergistics.github.io/) or chat with us on [Discord](https://discord.gg/Zd6t9ka7ne).\n\n![image of subnetworks from the guidebook](https://guide-assets.appliedenergistics.org/minecraft-1.20.1/ae2/ae2-mechanics/subnetworks_scene1.njRxulYCJ84v.png)\n\nKey features of the mod include:\n\n**Storage Systems**: AE2 revolutionizes storage in Minecraft. The mod adds a network-based digital storage system, where items and blocks are stored as energy in a digital form within a network of connected devices. This allows for compact storage solutions and easy access to your items.\n\n**Auto-Crafting**: Another significant feature of AE2 is its automatic crafting capabilities. Players can set up patterns and recipes which the system can automatically craft on demand. This greatly streamlines bulk and complex crafting processes, saving time and effort.\n\n**Networking and Channels**: AE2 adds a whole new level of strategy to your Minecraft builds with its networking and channel system. Devices connected to the same network can communicate and interact with each other, and the channel system limits the number of devices that can be connected to a single cable, adding a layer of planning and organization to your builds.\n\n**Spatial Storage**: This feature allows players to store entire regions of space within a spatial storage cell. Essentially, you can take a chunk of the world, including all blocks, items, and entities within, and store it digitally to be released later.\n\n**Unique Resources**: AE2 introduces several new resources and materials for crafting its technological components, such as Certus Quartz, Fluix Crystals, and Inscribers. Many of these new materials come with their own decorative blocks to spice up your builds.\n\nAE2 is known for the complexity and depth it adds to Minecraft's tech gameplay, encouraging players to create, optimize, and manage large-scale, efficient systems. It is a fantastic mod for those who love to automate processes and manage resources efficiently.",
+          "published": "2021-12-14T11:50:43.324146Z",
+          "updated": "2026-08-25T08:39:37.546369Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Multiple",
+            "name": "",
+            "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2#license"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "storage",
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XxWD5pD3/60b001515abbf6ebf32bc2729b0ddd95d2793feb_96.webp",
+          "issues_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues",
+          "source_url": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+          "wiki_url": "https://appliedenergistics.github.io/",
+          "discord_url": "https://discord.gg/Zd6t9ka7ne",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "pK0VDmDU",
+          "project_id": "XxWD5pD3",
+          "author_id": "3HAu37Rl",
+          "name": "AE2 26.1.10-beta [NEOFORGE]",
+          "version_number": "26.1.10-beta",
+          "changelog": "## What's Changed\r\n* Fix custom ingredients in fluid transform recipes crashing\r\n* Replace JLine static `Log` reference with SLF4J `Logger` instance by @JackPGreen in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8883\r\n* perf: cache stack max damage for getFuzzySearchMaxValue (1.21.1) by @Vonr in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8891\r\n* Fix tooltip offset for crafting status table by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8898\r\n* Update recipe after \"Take items\" in Crafting Terminal by @Mithi83 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8897\r\n* correct world position and block flags in attemptRecovery by @quasar8842 in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8885\r\n\r\n## New Contributors\r\n* @JackPGreen made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8883\r\n* @Vonr made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8891\r\n* @quasar8842 made their first contribution in https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/8885\r\n\r\n**Full Changelog**: https://github.com/AppliedEnergistics/Applied-Energistics-2/compare/v26.1.9-alpha...v26.1.10-beta",
+          "date_published": "2026-06-16T11:54:12.782800Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "bcb83b3a5eabb5b4629eb270586d6cfd3f151763c01f7676d7fa8710e899ce85219623a3926a6a24b8c5191b31f3cbb9020a599864247e71b96ab803ed9432f9",
+                "sha1": "a4803b04e885c698eff0236cb8faeb8abc33f216"
+              },
+              "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/pK0VDmDU/appliedenergistics2-26.1.10-beta.jar",
+              "filename": "appliedenergistics2-26.1.10-beta.jar",
+              "primary": true,
+              "size": 8347899
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Ck4E7v7R",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Eyw0UxEx",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "tq47Uqpn"
+            },
+            {
+              "project_id": "nvQzSEkH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "nfn13YXA",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "6AQIaxuO",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "version": "ae2wtlib-26.1.1-beta.jar",
+        "optional": true,
+        "file": "ae2wtlib-26.1.1-beta.jar",
+        "type": "mods",
+        "description": "An addon for Applied Energistics 2 that adds wireless versions of several Terminals",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 459929,
+        "curseForgeFileId": 8544261,
+        "curseForgeProject": {
+          "id": 459929,
+          "name": "Applied Energistics 2 Wireless Terminals",
+          "authors": [
+            {
+              "id": 33350113,
+              "name": "Mari_023",
+              "url": "https://www.curseforge.com/members/mari_023"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon for Applied Energistics 2 that adds wireless versions of several Terminals",
+          "categories": [
+            {
+              "name": "Applied Energistics 2",
+              "slug": "applied-energistics-2",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
+              "dateModified": "2015-09-14T14:18:48.563Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4545,
+              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 4545,
+          "classId": 6,
+          "slug": "applied-energistics-2-wireless-terminals",
+          "isFeatured": false,
+          "dateModified": "2026-08-01T10:40:32.703Z",
+          "dateCreated": "2021-03-21T11:02:23.533Z",
+          "dateReleased": "2026-07-31T00:24:34.89Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Mari023/AE2WirelessTerminalLibrary/issues",
+            "sourceUrl": "https://github.com/Mari023/AE2WirelessTerminalLibrary"
+          },
+          "socialLinks": [
+            {
+              "type": "13",
+              "url": "https://github.com/Mari023/AE2WirelessTerminalLibrary"
+            }
+          ],
+          "logo": {
+            "id": 1036500,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1036/500/256/256/638561060692728338.png",
+            "title": "638561060692728338.png",
+            "url": "https://media.forgecdn.net/avatars/1036/500/638561060692728338.png",
+            "modId": 459929
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8450398
+        },
+        "curseForgeFile": {
+          "id": 8544261,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ae2wtlib-26.1.1-beta.jar",
+          "fileName": "ae2wtlib-26.1.1-beta.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-07-31T00:24:34.89Z",
+          "fileLength": 246873,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 223794,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3086523320,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 626043455,
+              "name": "de"
+            },
+            {
+              "fingerprint": 378298558,
+              "name": "ae2wtlib.mixins.json"
+            },
+            {
+              "fingerprint": 3931306763,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1736573183,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 692099602,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2162148601,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2375985669,
+              "name": "texture_references"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2fd46db5fa695fe2a094b9809b2865223ec82a7e",
+              "algo": 1
+            },
+            {
+              "value": "2283a7f61883e1a3f854ef6b806d771d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3983126012,
+          "modId": 459929
+        },
+        "modrinthProject": {
+          "id": "pNabrMMw",
+          "slug": "applied-energistics-2-wireless-terminals",
+          "project_type": "mod",
+          "team": "UO8MbImy",
+          "title": "Applied Energistics 2 Wireless Terminals",
+          "description": "Ae2wtlib is an addon for ae2 that adds wireless versions of several Terminals",
+          "body": "ae2wtlib is a Fabric/Forge port of [Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal), [Wireless Pattern Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal), [Wireless Interface Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-interface-terminal), [Wireless Fluid Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal) and [Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) for modern minecraft versions\n\n\n\nIt features several wireless versions of Applied Energistics 2 terminals with support for a Quantum Bridge Card, which allows terminals to work from everywhere and even across dimensions.\n\n\nIt also adds a wireless universal terminal which has all wireless terminals in one item\n\nMissing Features / Known Issues\n- Displaying Trinkets in wireless crafting terminal doesn't work anymore",
+          "published": "2021-03-17T10:44:51.325944Z",
+          "updated": "2026-07-31T00:24:37.376833Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pNabrMMw/97a54d0cf4b9ba62a4a099ce8c9dc3cd82c6e61f.png",
+          "issues_url": "https://github.com/Mari023/AE2WirelessTerminalLibrary/issues",
+          "source_url": "https://github.com/Mari023/AE2WirelessTerminalLibrary",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/pNabrMMw/images/3ed059d970d35adbe7c80219bb10abbea94bc244.png",
+              "raw_url": "https://cdn.modrinth.com/data/pNabrMMw/images/3ed059d970d35adbe7c80219bb10abbea94bc244.png",
+              "featured": true,
+              "title": "Wireless Terminals",
+              "description": "From the left: \n- Crafting Terminal (from ae2)\n- Pattern Encoding Terminal\n- Pattern Access Terminal\n- Universal Terminal",
+              "created": "2024-07-07T18:33:04.270841Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pNabrMMw/images/0f6dbf6ffb7b1d225f762285b6cb86cf65a27036.png",
+              "raw_url": "https://cdn.modrinth.com/data/pNabrMMw/images/0f6dbf6ffb7b1d225f762285b6cb86cf65a27036.png",
+              "featured": false,
+              "title": "Wireless Terminals (old textures)",
+              "description": "From the left: \n- Crafting Terminal (from ae2)\n- Pattern Encoding Terminal\n- Pattern Access Terminal\n- Universal Terminal",
+              "created": "2023-01-13T19:54:12.772329Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ncEqrp7o",
+          "project_id": "pNabrMMw",
+          "author_id": "GeQ5qn8q",
+          "name": "26.1.1-beta",
+          "version_number": "26.1.1-beta",
+          "changelog": "- fix Pick Block probably not working on dedicated Servers (#381)\n- fix Pick Block not visually switching to the correct slot\n- fix JEI recipe transfer not working (#382)\n- fix Universal Terminal recipe not showing in JEI or the recipe book\n",
+          "date_published": "2026-07-31T00:24:37.376833Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "2fd46db5fa695fe2a094b9809b2865223ec82a7e",
+                "sha512": "7d30333f4d632eb3b95ff7aa930fc45a4a86097333f5ff02f2c82b312a1493e2ec1532ff900d12ded45716df3ed87ff01fa35ba6453799b0834c56b98ab1d27d"
+              },
+              "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/ncEqrp7o/ae2wtlib-26.1.1-beta.jar",
+              "filename": "ae2wtlib-26.1.1-beta.jar",
+              "primary": true,
+              "size": 246873
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "XxWD5pD3",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "SuperMartijn642's Config Lib",
+        "version": "SuperMartijn642's Config Library 1.1.8 for NeoForge 26.1",
+        "optional": true,
+        "file": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+        "type": "mods",
+        "description": "Config Lib makes dealing with config files just a bit easier.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 438332,
+        "curseForgeFileId": 8306682,
+        "curseForgeProject": {
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Config Lib makes dealing with config files just a bit easier.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "supermartijn642s-config-lib",
+          "isFeatured": false,
+          "dateModified": "2026-09-11T15:38:30.497Z",
+          "dateCreated": "2021-01-21T10:53:00.8Z",
+          "dateReleased": "2026-09-11T15:32:38.307Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/QEbGyUYB2e"
+            }
+          ],
+          "logo": {
+            "id": 334247,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/334/247/256/256/637467847705006848.png",
+            "title": "637467847705006848.png",
+            "url": "https://media.forgecdn.net/avatars/334/247/637467847705006848.png",
+            "modId": 438332
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8858539
+        },
+        "curseForgeFile": {
+          "id": 8306682,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "SuperMartijn642's Config Library 1.1.8 for NeoForge 26.1",
+          "fileName": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-06-23T14:37:33.817Z",
+          "fileLength": 206410,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4001939097,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1144802621,
+              "name": "com"
+            },
+            {
+              "fingerprint": 4041043145,
+              "name": "supermartijn642configlib.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1348561a0143b41e6737dd0ca8a7cf4f4be14fa2",
+              "algo": 1
+            },
+            {
+              "value": "84b864b6d2822b120c5f072d49d6114a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2225727016,
+          "modId": 438332
+        },
+        "modrinthProject": {
+          "id": "LN9BxssP",
+          "slug": "supermartijn642s-config-lib",
+          "project_type": "mod",
+          "team": "ddl3TBwM",
+          "title": "SuperMartijn642's Config Lib",
+          "description": "Config Lib makes dealing with config files just a bit easier.",
+          "body": "![SuperMartijn642's Config Lib](https://imgur.com/oVcLlAO.png)   \n**SuperMartijn642's Config Lib** allows you to **specify a config once** and it then **handles reloading values between world loads, syncing values with clients**, and **generating values for client- or server-only** on its own.\n\n---\n\n### Creating a config:\nA config is created using a `ModConfigBuilder`.\nSimply create a new instance using `#ModConfigBuilder()`.\n```java\n   ModConfigBuilder builder = new ModConfigBuilder();\n```\nA value can be added to the config with `ModConfigBuilder#define` which takes a name and a default value.\nFor integer and double values a minimum and maximum value are also required.\n`ModConfigBuilder#define` returns a `Supplier` which should be stored to retrieve the value from the config.\n```java\n   Supplier<Boolean> booleanValue = builder.define( \"booleanValue\", true );\n\n   Supplier<Integer> integerValue = builder.define( \"integerValue\", 5, 0, 10 );\n\n   Supplier<Double> doubleValue = builder.define( \"doubleValue\", 0.5, 0, 1);\n\n   Supplier<ExampleEnum> enumValue = builder.define( \"enumValue\", ExampleEnum.VALUE_1 );\n```\nA comment can be added to a value by calling `ModConfigBuilder#comment(String)` before defining the value.\n```java\n   Supplier<Boolean> valueWithComment = builder.comment( \"this is a comment for 'valueWithComment'\" ).define( \"valueWithComment \", true );\n```\nBy default values are reloaded when world is loaded.\nThis can be changed to only reload a value when Minecraft launches by calling `ModConfigBuilder#gameRestart()` before defining the value.\n```java\n   Supplier<Boolean> notReloadedValue = builder.comment( \"this is value will not be reloaded\" ).define( \"notReloadedValue\", true );\n```\nValues in COMMON or SERVER configs are synchronized with clients by default, to prevent this use `ModConfigBuilder#dontSync()`.\n```java\n   Supplier<Boolean> notSynchronizedValue = builder.comment( \"this is value will not be synchronized\" ).define( \"notSynchronizedValue\", true );\n```\nValues can also be put into categories.\n`ModConfigBuilder#push(String)` pushes a category and `ModConfigBuilder#pop()` pops a category.\n```java\n   builder.push( \"special\" );\n   \n   Supplier<Boolean> specialValue = builder.comment( \"this value is in the 'special' category\" ).define( \"specialValue\", true );\n   \n   builder.pop();\n```\nA comment can be added to the active category using `ModConfigBuilder#categoryComment(String)`.\n```java\n   builder.push( \"client\" ).categoryComment( \"this, is a comment for the 'client' category\" );\n```\nAfter defining all values `ModConfigBuilder#build()` must be called to finish the config.\n```java\n   builder.build();\n```\nNow the values in your config will reloaded and synced automatically and the values can be retrieved using the stored `Supplier` instances.\nThis will work for all available versions, that includes Minecraft 1.12, 1.14, 1.15, 1.16, 1.17, 1.18, and 1.19.\n\n---\n\n### Example Mod:\nFor a concrete example of how to use Config Lib checkout [the example mod](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/blob/1.16/src/test/java/ExampleModConfig.java).\n\n---\n\n### FAQ\nCan I use your mod in my modpack?  \nYes, feel free to use my mod in your modpack\n\n---\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n",
+          "published": "2022-07-15T17:18:43.675914Z",
+          "updated": "2026-09-11T15:32:38.214848Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/LN9BxssP/ad25597dd1b10b49cdfbc97c70d401e3158000f7_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/issues",
+          "source_url": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "gD2yQaPN",
+          "project_id": "LN9BxssP",
+          "author_id": "3KDmigFH",
+          "name": "SuperMartijn642's Config Library 1.1.8",
+          "version_number": "1.1.8-neoforge-mc26.1",
+          "changelog": "## Update to Minecraft 26.1\r\n\r\n### SuperMartijn642's Config Library 1.1.8\r\n- Initial release of SuperMartijn642's Config Library for Minecraft 1.21.11\r\n",
+          "date_published": "2026-06-23T14:35:44.969004Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "1348561a0143b41e6737dd0ca8a7cf4f4be14fa2",
+                "sha512": "018e694d07217e4f597f7d3895038bb3327fe373d639ee87a4ce7e9b32e8bf4f37d3fc022851eba9e605285fc063164ebca62a8efc4afa49842cf2a4157d1e9e"
+              },
+              "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/gD2yQaPN/supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+              "filename": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+              "primary": true,
+              "size": 206410
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "SuperMartijn642's Core Lib",
+        "version": "SuperMartijn642's Core Lib 1.1.24a for NeoForge 26.1",
+        "optional": true,
+        "file": "supermartijn642corelib-1.1.24a-neoforge-mc26.1.jar",
+        "type": "mods",
+        "description": "SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 454372,
+        "curseForgeFileId": 8735390,
+        "curseForgeProject": {
+          "id": 454372,
+          "name": "SuperMartijn642's Core Lib",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "supermartijn642s-core-lib",
+          "isFeatured": false,
+          "dateModified": "2026-09-10T08:12:59.2Z",
+          "dateCreated": "2021-03-11T11:16:44.717Z",
+          "dateReleased": "2026-09-10T08:07:48.76Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/QEbGyUYB2e"
+            }
+          ],
+          "logo": {
+            "id": 352207,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/352/207/256/256/637507429195617557.png",
+            "title": "637507429195617557.png",
+            "url": "https://media.forgecdn.net/avatars/352/207/637507429195617557.png",
+            "modId": 454372
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8849146
+        },
+        "curseForgeFile": {
+          "id": 8735390,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "SuperMartijn642's Core Lib 1.1.24a for NeoForge 26.1",
+          "fileName": "supermartijn642corelib-1.1.24a-neoforge-mc26.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-25T23:46:39.827Z",
+          "fileLength": 609108,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4044077610,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3807467263,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3214496803,
+              "name": "supermartijn642corelib.mixins.json"
+            },
+            {
+              "fingerprint": 1404450715,
+              "name": "supermartijn642corelib.png"
+            },
+            {
+              "fingerprint": 1795449234,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3482888529,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1945635673,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1230528f1d11fb8862a1ba73cec8388a5cfb271f",
+              "algo": 1
+            },
+            {
+              "value": "ef597c47290c726c2dd4194a5669b664",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3715595385,
+          "modId": 454372
+        },
+        "modrinthProject": {
+          "id": "rOUBggPv",
+          "slug": "supermartijn642s-core-lib",
+          "project_type": "mod",
+          "team": "7Mt1p6Lt",
+          "title": "SuperMartijn642's Core Lib",
+          "description": "SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!",
+          "body": "![SuperMartijn642's Core Lib](https://imgur.com/lOYCHZa.png)   \nSuperMartijn642's Core Lib adds lots of basic implementations for guis, blocks, tile entities, and network packets that allow for similar code between Minecraft 1.12, 1.14, 1.15, 1.16, 1.17, 1.18, and 1.19!\n\n---\n\n### FAQ\nCan I use your mod in my modpack?  \nYes, feel free to use my mod in your modpack\n\n---\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)",
+          "published": "2022-07-15T17:04:00.399600Z",
+          "updated": "2026-09-10T08:07:48.195376Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/rOUBggPv/e745e719d7fe2aa0335d819ca9c97defbf2e0bcb_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues",
+          "source_url": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "vzOvtoQX",
+          "project_id": "rOUBggPv",
+          "author_id": "3KDmigFH",
+          "name": "SuperMartijn642's Core Lib 1.1.24a",
+          "version_number": "1.1.24a-neoforge-mc26.1",
+          "changelog": "### SuperMartijn642's Core Library 1.1.24a\r\n- Fixed `tag_populated` resource condition always failing on first resource reload\r\n\r\n### SuperMartijn642's Core Library 1.1.24\r\n- Fixed `CustomSlot` hover check area being 2 pixels too large\r\n\r\n### SuperMartijn642's Core Library 1.1.23a\r\n- Fixed code for adding items to creative groups scaling with #total items * #total groups, thus being extremely slow when there's many mods\r\n\r\n### SuperMartijn642's Core Library 1.1.23\r\n- Added `#getWidget` method for `WidgetScreen` and `WidgetContainerScreen`\r\n- `Widget` backgrounds are now rendered earlier, in the same way as vanilla menu background, for improved mod compatibility\r\n- Fixed multipart conditions not being flattened correctly in `BlockStateGenerator`\r\n\r\n### SuperMartijn642's Core Library 1.1.22\r\n- Added support for vanilla z rotation in `BlockStateGenerator`\r\n- Added support for material `force_translucent` property in `ModelGenerator`\r\n- Fixed `ElementBuilder#shape` having one parameter as an int instead of float\r\n\r\n### SuperMartijn642's Core Library 1.1.21b\r\n- Fixed `ClientRegistrationHandler` item model overwrites not working due to accessing item components too early\r\n- Completely bypass NeoForge's picture-in-picture rendering pool for ArbitraryPictureInPictureRenderer as it keeps breaking it\r\n\r\n### SuperMartijn642's Core Library 1.1.21a\r\n- Fixed crash on dedicated server when receiving a packet through `PacketChannel`\r\n\r\n## Update to Minecraft 26.1\r\n\r\n### SuperMartijn642's Core Library 1.1.21\r\n- Fixed client not being updated when `BaseBlockEntity#writeClientData` returns empty tag\r\n\r\n### SuperMartijn642's Core Library 1.1.20\r\n- Added `Widget#cursor` to change the cursor when hovering a widget\r\n- Added `ScrollbarWidget` for creating a configurable scrollbar\r\n- Added `ScissorWidet` that restricts rendering and input handling of child widgets to its bounds\r\n- Added `CustomSlot` for creating container slots\r\n- Added `AbstractButtonWidget#isClickable` and `AbstractButtonWidget#setActive`\r\n- Improved `BaseWidget` focus handling\r\n- Fixed `GuiGraphicsHelper#submitCustomRendering` not respecting active scissor\r\n- Fixed child widgets not getting unfocused when focused widget changes\r\n- Fixed output from `BlockStateGenerator`, `ModelGenerator`, and `TagGenerator` not being consistent\r\n\r\n### SuperMartijn642's Core Library 1.1.19\r\n- Added additional properties to `BlockProperties` to match vanilla\r\n\r\n### SuperMartijn642's Core Library 1.1.18\r\n- Initial release of SuperMartijn642's Core Library for Minecraft 1.21.11\r\n",
+          "date_published": "2026-08-25T23:46:39.024075Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "1230528f1d11fb8862a1ba73cec8388a5cfb271f",
+                "sha512": "801778b14c891e0d57e60baf7941ff6f453a3a056556a3ef26d361057b5cdaed8e287200d46c2fb76e0771816bdd5c44758a369ffd475741382372113376668b"
+              },
+              "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/vzOvtoQX/supermartijn642corelib-1.1.24a-neoforge-mc26.1.jar",
+              "filename": "supermartijn642corelib-1.1.24a-neoforge-mc26.1.jar",
+              "primary": true,
+              "size": 609108
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Fusion (Connected Textures)",
+        "version": "Fusion 1.3.15 for NeoForge 26.1",
+        "optional": true,
+        "file": "fusion-1.3.15-neoforge-mc26.1.jar",
+        "type": "mods",
+        "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 854949,
+        "curseForgeFileId": 8796332,
+        "curseForgeProject": {
+          "id": 854949,
+          "name": "Fusion (Connected Textures)",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "fusion-connected-textures",
+          "isFeatured": false,
+          "dateModified": "2026-09-11T15:53:58.49Z",
+          "dateCreated": "2023-06-19T10:50:00.003Z",
+          "dateReleased": "2026-09-11T15:40:37.58Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+            "wikiUrl": "https://github.com/SuperMartijn642/Fusion/wiki",
+            "issuesUrl": "https://github.com/SuperMartijn642/Fusion/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/Fusion"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/QEbGyUYB2e"
+            }
+          ],
+          "logo": {
+            "id": 835860,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/835/860/256/256/638227854854712053.png",
+            "title": "638227854854712053.png",
+            "url": "https://media.forgecdn.net/avatars/835/860/638227854854712053.png",
+            "modId": 854949
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1060607,
+              "description": "Connected textures can be used to connect grass to neighboring blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/607/310/172/better-grass.png",
+              "title": "Better grass",
+              "url": "https://media.forgecdn.net/attachments/1060/607/better-grass.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060612,
+              "description": "Entity model modifiers allow changing an entity's model and texture based on the biome it is in",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/612/310/172/snowy-cow.png",
+              "title": "Taiga cow variant",
+              "url": "https://media.forgecdn.net/attachments/1060/612/snowy-cow.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060618,
+              "description": "Item model modifier allow an item's texture to change depending on the stack size",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/618/310/172/sticks.gif",
+              "title": "Stacking stick texture",
+              "url": "https://media.forgecdn.net/attachments/1060/618/sticks.gif",
+              "modId": 854949
+            },
+            {
+              "id": 1060609,
+              "description": "Textures from one block can be made to overflow onto others",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/609/310/172/grass-overflow.png",
+              "title": "Grass overflow",
+              "url": "https://media.forgecdn.net/attachments/1060/609/grass-overflow.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060615,
+              "description": "Fusion allows resource packs to add connecting textures!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/615/310/172/connected-glass.png",
+              "title": "Connected glass",
+              "url": "https://media.forgecdn.net/attachments/1060/615/connected-glass.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060608,
+              "description": "Emissive textures can be used to make ores glow in the dark",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/608/310/172/emissive-diamonds.png",
+              "title": "Emissive ores",
+              "url": "https://media.forgecdn.net/attachments/1060/608/emissive-diamonds.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060606,
+              "description": "Custom entity models allow you to change the models of vanilla entities",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/606/310/172/rooster.png",
+              "title": "Rooster chicken model",
+              "url": "https://media.forgecdn.net/attachments/1060/606/rooster.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060611,
+              "description": "The random texture type allows textures to have multiple variations",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/611/310/172/random-tuff-bricks.png",
+              "title": "Random tuff bricks",
+              "url": "https://media.forgecdn.net/attachments/1060/611/random-tuff-bricks.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060617,
+              "description": "Entity model modifiers can be used to make entities have a random texture",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/617/310/172/random-creepers.png",
+              "title": "Random creepers",
+              "url": "https://media.forgecdn.net/attachments/1060/617/random-creepers.png",
+              "modId": 854949
+            },
+            {
+              "id": 1060616,
+              "description": "With item model modifier, an item's texture can change depending on its enchantments",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/616/310/172/fiery-diamond-sword.gif",
+              "title": "Fiery sword",
+              "url": "https://media.forgecdn.net/attachments/1060/616/fiery-diamond-sword.gif",
+              "modId": 854949
+            },
+            {
+              "id": 1060610,
+              "description": "The continuous texture type can be used to make textures spanning multiple blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1060/610/310/172/large-stone-bricks.png",
+              "title": "Large stone bricks",
+              "url": "https://media.forgecdn.net/attachments/1060/610/large-stone-bricks.png",
+              "modId": 854949
+            },
+            {
+              "id": 680715,
+              "description": "All connections in 'simple' connected texture layout",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/715/310/172/simple-animation-large.gif",
+              "title": "The 'simple' connected texture layout",
+              "url": "https://media.forgecdn.net/attachments/680/715/simple-animation-large.gif",
+              "modId": 854949
+            },
+            {
+              "id": 680716,
+              "description": "Example of the scrolling texture type used to create a conveyor",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/716/310/172/conveyor-animation-reset-large.gif",
+              "title": "The scrolling texture type",
+              "url": "https://media.forgecdn.net/attachments/680/716/conveyor-animation-reset-large.gif",
+              "modId": 854949
+            },
+            {
+              "id": 680721,
+              "description": "All connections in 'full' connected texture layout",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/721/310/172/full-animation-large.gif",
+              "title": "The 'full' connected texture layout",
+              "url": "https://media.forgecdn.net/attachments/680/721/full-animation-large.gif",
+              "modId": 854949
+            }
+          ],
+          "mainFileId": 8858607
+        },
+        "curseForgeFile": {
+          "id": 8796332,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fusion 1.3.15 for NeoForge 26.1",
+          "fileName": "fusion-1.3.15-neoforge-mc26.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-09-03T00:05:26.063Z",
+          "fileLength": 935257,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 730295299,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1696061922,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1885653084,
+              "name": "fusion.mixins.json"
+            },
+            {
+              "fingerprint": 2106792421,
+              "name": "fusion.png"
+            },
+            {
+              "fingerprint": 446798968,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0c02a3d574fa7533836128d2c2f96f7f5abdf3ec",
+              "algo": 1
+            },
+            {
+              "value": "afea5168f21dc4eb10fa6a938437a132",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 4124537041,
+          "modId": 854949
+        },
+        "modrinthProject": {
+          "id": "p19vrgc2",
+          "slug": "fusion-connected-textures",
+          "project_type": "mod",
+          "team": "4ZTLcqlz",
+          "title": "Fusion (Connected Textures)",
+          "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+          "body": "![Separator](https://imgur.com/gZDWWY6.png)\n\n# Fusion Connected Textures\n\nFusion is a library for both Forge and Fabric which adds additional resource pack features such as connected textures and custom entity models to be used in resource packs and other mods!\nIntegration with Fusion can be done optionally for a soft dependency.\n\n## 📖 Wiki\n### For resource pack developers:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-resource-packs\n### For mod developers:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-mod-developers\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## Resource packs\n\nHere's a list of resource packs available for Fusion.\n\n**Official resource packs:**\n- <img width='24' src='https://cdn.modrinth.com/data/ajcwQmG4/e5be78021a6029715b317ce2a368d3428bd3c081_96.webp'> <a href='https://modrinth.com/resourcepack/fusion-block-transitions'><u>Fusion Block Transitions</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/2w5wDdfQ/da4a9fd3c5c7322ebb46d5048f7be022483e0acd.gif'> <a href='https://modrinth.com/resourcepack/fusion-connected-blocks'><u>Fusion Connected Blocks</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/xuN3KzPl/a734b043c20527064ee42b01f80461f59f061106_96.webp'> <a href='https://modrinth.com/resourcepack/fusion-connected-glass'><u>Fusion Connected Glass</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/anEmXbCW/1e2099e20823601b0db21231ce12aa6426d69b8e.gif'> <a href='https://modrinth.com/resourcepack/fusion-emissive-ores'><u>Fusion Emissive Ores</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/d2NwuerS/ac7733a1d69c76e89e8f0cfe922b09ff3f2a4622.gif'> <a href='https://modrinth.com/resourcepack/fusion-stacking-items'><u>Fusion Stacking Items</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/YCXs6v9u/51fabb7cce50131cc22ba8368eb9f9429afa40f0.gif'> <a href='https://modrinth.com/resourcepack/fusion-3d-items'><u>Fusion 3D Items</u></a>\n\n**Third-party resource packs:**\n- <img width='24' src='https://cdn.modrinth.com/data/yuaFoww2/2e6f129810ec0b8b8c34341e28e3974ef1f1f8aa.gif'> <a href='https://modrinth.com/resourcepack/connected-bricks-(fusion)'><u>Connected Bricks (Fusion)</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/ogC9TDK2/6532ddf775bf0166f08383fd991d727b0dfd0e76.gif'> <a href='https://modrinth.com/resourcepack/connected-paths-(fusion)'><u>Connected Paths (Fusion)</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/55BgSDaZ/657feac68e969712ed59e6cd1816763f003f04ca.gif'> <a href='https://modrinth.com/resourcepack/connected-rocks-(fusion)'><u>Connected Rocks (Fusion)</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/tOCRtfAR/e3632c8071b833841e48c64c9b86696395ddb86d_96.webp'> <a href='https://modrinth.com/resourcepack/deep-origins-overlays'><u>Deep Origins Overlays</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/7Po6Q0I2/4a29787781fee8defff1a458e72701233afced1f_96.webp'> <a href='https://modrinth.com/resourcepack/glowing-emissive-ores-fusion'><u>Glowing Emissive Ores - Fusion</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/REUBThfK/047446298218692066ee3e8384978fca67a7ab01.png'> <a href='https://modrinth.com/resourcepack/immersive-snowy-leaves'><u>Immersive Snowy Leaves (Bushy Leaves)</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/tO3CWuz1/1fa48588b3d39787d9ac2d33a04b7fe4ab99ea1e_96.webp'> <a href='https://modrinth.com/resourcepack/mt-bgs'><u></u>Midnighttigger's Better Grass & Snow</a>\n- <img width='24' src='https://cdn.modrinth.com/data/TjOXlt9Y/d00e887b7f92fe414c6bc091dc42b6438ecb77d1.png'> <a href='https://modrinth.com/resourcepack/mt-ct-d'><u>Midnighttigger's Default Connected Textures</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/nVen30Ks/f3b347cfddb70b1854c6644646afcb418fb5a0da.png'> <a href='https://modrinth.com/resourcepack/mt-ct-a'><u>Midnighttigger's Connected Textures Addons</u></a>\n- <img width='24' src='https://cdn.modrinth.com/data/hgi0g54q/5e55cf6804001bbb63bffb02ab1439b8699b396a.png'> <a href='https://modrinth.com/resourcepack/snow-side-texture'><u>Snow Side Texture</u></a>\n\n###### _(This is not a comprehensive list. If you made a resource pack which is compatible with Fusion and would like it listed here, feel free to send me a message on Discord.)_\n\nYou can also see all resource packs on Modrinth that use Fusion using the following link: https://modrinth.com/discover/resourcepacks?dep=required,optional:p19vrgc2\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## Connecting textures\n\nConnected textures are textures with a special layout which allows them to connect to other blocks when combined with the connecting model type. Fusion offers 7 different connecting texture layouts for different situations.  \nHere are examples of the full and compact layouts:  \n\n<img width='390' src='https://imgur.com/AoSdjrP.gif' alt='Bordered wooden tiles example'>\n<img width='450' src='https://imgur.com/AJ9kVP5.gif' alt='Steel beams example'>\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## Scrolling textures\nScrolling textures are a type of animated texture which scrolls over an image. The scrolling can occur from any corner to any other corner of the texture, even diagonal!\nHere is an example of a conveyor belt:\n\n<img width='300' src='https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif' alt='Scrolling texture conveyor example'>  <img width='400' src='https://imgur.com/uFCxMjF.gif' alt='Scrolling texture conveyor belt'>\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## Continuous textures\nContinuous textures allow creating textures which span multiple blocks!\n\n<img width='400' src='https://cdn.modrinth.com/data/p19vrgc2/images/37b83e6e032ec50aea577d01b7ddf24504f521b2_350.webp' alt='Large stone bricks example'>\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## 📐 Block overlays\nUsing the features provided by the connecting model and connecting texture type, you can also create block overlays!  \n\n<img width='480' src='https://imgur.com/I6Whhhe.gif' alt='Sand overflow example'>\n<img width='360' src='https://cdn.modrinth.com/data/p19vrgc2/images/ff36183671ab0c6aaa01ab1304ccaa33bac0ba0a.png' alt='Grass overflow example'>\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## Custom entity models\nCustom entity models and entity model modifiers allow resource packs to change entity models and textures randomly or depending various conditions such altitude, biome, dimension, age, etc.\n\n<img width='430' src='https://cdn.modrinth.com/data/p19vrgc2/images/2cb2daacd3bf8a16ea2bf95a3d942a3fcad9394f.png' alt='Custom chicken model'>\n<img width='410' src='https://cdn.modrinth.com/data/p19vrgc2/images/4fbd5adc5f9568952cc3f0e04c7ec86b01d0dc01_350.webp' alt='Taiga cow variant'>\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n## FAQ\n### Can I use Fusion in my modpack?\nYes, you are allowed use Fusion in your modpack\n### Do I need to install Fusion on the server?\nNo, Fusion is only required on the client and does nothing when installed on a server\n### Why does Fusion not work with Sodium?\nIf you are using a version of Sodium older than 0.6, you will also have to install [Indium](https://modrinth.com/mod/indium). Sodium replaces the vanilla rendering with their own which ignores the Fabric Rendering API. Indium patches Sodium to support the Fabric Rendering API\n\n### ![Separator](https://imgur.com/gZDWWY6.png)  \n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n",
+          "published": "2023-04-30T16:10:10.808333Z",
+          "updated": "2026-09-11T15:40:37.977477Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/p19vrgc2/8a9940a468bb536f7402b389d583e7f070ee14fb_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/Fusion/issues",
+          "source_url": "https://github.com/SuperMartijn642/Fusion",
+          "wiki_url": "https://github.com/SuperMartijn642/Fusion/wiki",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/03ef392fa9840be9d5b62a4dc8ee24d9fcf43d32.gif",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/03ef392fa9840be9d5b62a4dc8ee24d9fcf43d32.gif",
+              "featured": false,
+              "title": "Stacking stick texture",
+              "description": "Item model modifier allow an item's texture to change depending on the stack size",
+              "created": "2025-01-08T19:01:09.417941Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/2cb2daacd3bf8a16ea2bf95a3d942a3fcad9394f.png",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/2cb2daacd3bf8a16ea2bf95a3d942a3fcad9394f.png",
+              "featured": false,
+              "title": "Rooster chicken model",
+              "description": "Custom entity models allow you to change the models of vanilla entities",
+              "created": "2025-01-08T18:59:39.078027Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/3419a1af0e3efcde8d62c5609dd1e457f894e6b6.png",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/3419a1af0e3efcde8d62c5609dd1e457f894e6b6.png",
+              "featured": false,
+              "title": "Random creepers",
+              "description": "Entity model modifiers can be used to make entities have a random texture",
+              "created": "2025-01-08T18:57:50.125068Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/37b83e6e032ec50aea577d01b7ddf24504f521b2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/37b83e6e032ec50aea577d01b7ddf24504f521b2.png",
+              "featured": false,
+              "title": "Large stone bricks",
+              "description": "The continuous texture type can be used to make textures spanning multiple blocks",
+              "created": "2025-01-08T18:57:08.478158Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif",
+              "featured": false,
+              "title": "The scrolling texture type",
+              "description": "Example of the scrolling texture type used to create a conveyor",
+              "created": "2023-06-19T09:20:11.466771Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/4fbd5adc5f9568952cc3f0e04c7ec86b01d0dc01_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/4fbd5adc5f9568952cc3f0e04c7ec86b01d0dc01.png",
+              "featured": false,
+              "title": "Taiga cow variant",
+              "description": "Entity model modifiers allow changing an entity's model and texture based on the biome it is in",
+              "created": "2025-01-08T19:00:24.618970Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/5592b8f436f874018276de74e3a1b257e5d4c499.png",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/5592b8f436f874018276de74e3a1b257e5d4c499.png",
+              "featured": false,
+              "title": "Random tuff bricks",
+              "description": "The random texture type allows textures to have multiple variations",
+              "created": "2025-01-08T18:58:51.553388Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/66135a3d8370990ceab5dd580469030afb672728_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/66135a3d8370990ceab5dd580469030afb672728.png",
+              "featured": false,
+              "title": "Emissive ores",
+              "description": "Emissive textures can be used to make ores glow in the dark",
+              "created": "2025-01-08T18:55:10.953870Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/6f6ecd6740717a0a95d14df6ea18cb02cd354dc7.gif",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/6f6ecd6740717a0a95d14df6ea18cb02cd354dc7.gif",
+              "featured": false,
+              "title": "The 'full' connected texture layout",
+              "description": "All connections in 'full' connected texture layout",
+              "created": "2023-06-19T09:18:57.553265Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/73817d73221c971f483e73f918a340485dac3de9.gif",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/73817d73221c971f483e73f918a340485dac3de9.gif",
+              "featured": false,
+              "title": "Fiery sword",
+              "description": "With item model modifier, an item's texture can change depending on its enchantments",
+              "created": "2025-01-08T18:55:56.885995Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/a96e0f388f54182083e25875306aa6890f9e0c05_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/a96e0f388f54182083e25875306aa6890f9e0c05.png",
+              "featured": false,
+              "title": "Better grass",
+              "description": "Connected textures can be used to connect grass to neighboring blocks",
+              "created": "2025-01-08T18:53:58.745078Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif",
+              "featured": false,
+              "title": "The 'simple' connected texture layout",
+              "description": "All connections in 'simple' connected texture layout",
+              "created": "2023-06-19T09:19:19.824585Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/fea9d5681acd38290f9508c1ac18162849cd219c_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/fea9d5681acd38290f9508c1ac18162849cd219c.png",
+              "featured": false,
+              "title": "Connected glass",
+              "description": "Fusion allows resource packs to add connecting textures!",
+              "created": "2025-01-08T18:54:33.465602Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/ff36183671ab0c6aaa01ab1304ccaa33bac0ba0a.png",
+              "raw_url": "https://cdn.modrinth.com/data/p19vrgc2/images/ff36183671ab0c6aaa01ab1304ccaa33bac0ba0a.png",
+              "featured": false,
+              "title": "Grass overflow",
+              "description": "Textures from one block can be made to overflow onto others",
+              "created": "2025-01-08T18:56:25.525900Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "AFsho5bx",
+          "project_id": "p19vrgc2",
+          "author_id": "3KDmigFH",
+          "name": "Fusion 1.3.15",
+          "version_number": "1.3.15-neoforge-mc26.1",
+          "changelog": "### Fusion 1.3.15\r\n- Fixed `ambientocclusion`, `shade`, and `emissive` model properties not always applying to texture types that have subtextures like `connecting` and `random`\r\n- Fixed `is_biome` predicate always evaluating to `false` for chunk geometry \r\n\r\n### Fusion 1.3.14\r\n- Fixed `DefaultModelTypes#ITEM_MODEL_GENERATOR` not being registered\r\n- Fixed crash when Iris PBR texture has empty tiles resulting in a different number of sprites compared to regular texture\r\n\r\n### Fusion 1.3.13\r\n- Added integration with Iris to intercept normal and specular maps for Fusion textures and handle them as Fusion textures\r\n- Fixed models without geometry being baked as missing model\r\n- Fixed sub-textures for `random` texture type receiving wrong texture data leading to a crash\r\n- Fixed crash when using `is_face_visible` connection predicate in an item model\r\n- Fixed model lighting sometimes being incorrect with Sodium installed due to precision errors when checking whether model transform is limited to rotations of 90 degrees\r\n\r\n### Fusion 1.3.12\r\n- Fixed `MutableQuad#chunkLayer` not always overwriting flags\r\n\r\n### Fusion 1.3.11a\r\n- Fixed error when baking faces with `null` chunk layer\r\n\r\n### Fusion 1.3.11\r\n- Significantly reduced memory used by Fusion models\r\n  - Facing and chunk render type of `MutableQuad`s are now stored as bit flags\r\n  - `connecting` textures ignore non-default tiles when predicate is always true or always false\r\n  - `connecting` texture sub-texture data is now stored more compactly when some tiles are empty\r\n  - When `connecting` texture has no sub-texture, its tiles are initialized lazily\r\n\r\n### Fusion 1.3.10\r\n- Fixed model item transforms (`display` property) translations not being scaled by 1/16th\r\n\r\n### Fusion 1.3.9\r\n- Fixed `dimension` block model predicate not working for chunk geometry\r\n\r\n### Fusion 1.3.8\r\n- Fixed crash when using `continuous` texture type as a sub texture for other texture types\r\n- Fixed quad material cache not being invalidated when copying quad properties leading to incorrect material properties\r\n- Fixed Sodium preventing Fusion animated textures from animating\r\n\r\n### Fusion 1.3.7\r\n- Fixed crash when breaking blocks targeted by block model modifiers due to Mixin bug\r\n\r\n### Fusion 1.3.6\r\n- Added `random_offset` property for block model modifier model entries to overwrite hardcoded block random offsets\r\n- Improved randomness of `random` texture type\r\n- Significantly reduced memory footprint of `MutableQuad`s and thus models from Fusion\r\n- Fixed `match_state_in_front` behaving as `match_state`\r\n- Fixed incorrect uv calculation when explicitly specifying frame indices for animated textures leading to it always showing the first frame\r\n- Fixed block model predicates being rotated incorrectly due to floating point errors\r\n- Fixed `composite` model parents not being loaded\r\n\r\n### Fusion 1.3.5\r\n- Directional model predicates, i.e. `match_block` and `match_state`, are now rotated along with `composite` model entries\r\n- Replaced vanilla default uv calculation of model elements with calculation that better handles elements outside the center block space\r\n- Fixed deserialization of item transforms (`display` property) for Fusion models\r\n- Fixed `match_block`, `match_state` model predicates and `match_block`, `match_state`, `match_block_in_front`, `match_state_in_front` connection predicates only using the last block from the `blocks` array property\r\n- Fixed origin being offset for `composite` model transforms\r\n- Fixed composition order of `composite` model transforms with blockstate file transforms\r\n- Fixed vanilla uv-lock handling breaking for model transforms that translate or scale the model\r\n\r\n### Fusion 1.3.4\r\n- Fixed threading issue with `match_block` and `match_state` block predicates potentially leading to incorrect results or crashes\r\n- Fixed element face 'uv' property being ignored\r\n\r\n### Fusion 1.3.3\r\n- Fixed deserialization of `dimension`, `match_block`, and `match_state` block predicates\r\n- Fixed deserialization of `dimension` entity predicate\r\n\r\n### Fusion 1.3.2b\r\n- Fixed `overrides_folder` not working for mod resources\r\n\r\n### Fusion 1.3.2a\r\n- Fixed crash when mods bake models outside the normal baking window\r\n\r\n### Fusion 1.3.2\r\n- Fixed connecting texture predicate resolution for item models\r\n\r\n### Fusion 1.3.1\r\n- Fixed `overlay` connecting texture layout producing way too many quads\r\n- Fixed `connections` property of connecting textures not working\r\n- Fixed base texture properties not working for `connecting` and `random` texture types\r\n- Fixed geometry of `base` models being duplicated\r\n- Fixed crash with quick pack mod\r\n- Renamed `ConnectingModelData.ConnectingModelDataBuilder` to `ConnectingModelData.Builder`\r\n- Fixed model materials map serialization not including '#' for references\r\n\r\n### Fusion 1.3.0\r\n- Model related changes:\r\n  - Overhauled `ModelType` and how models are loaded:\r\n    - Any model with a Fusion model as parent will now be loaded as a Fusion model\r\n  - Changes for `base` model type:\r\n    - Model can now be made emissive, through `emissive` property\r\n    - Shading can now be disabled, through `shade` property\r\n    - Ambient occlusion can now be disabled, through `ambient_occlusion` property\r\n    - Lighting in guis can now be changed, through `gui_light` property\r\n    - Elements can now have `light_emission`, `emissive`, `shade`, `ambient_occlusion` properties\r\n    - Element faces can now have `light_emission`, `emissive`, `shade`, `ambient_occlusion` properties\r\n  - Overhauled block and item model modifiers:\r\n    - Added `priority` property\r\n    - Modifiers are now applied in order of `priority`, then file name, rather than 'random'\r\n    - Missing targets (like modded items/blocks) can now be ignored, through `ignore_missing_targets` property\r\n    - Added `default_model_overwrites` to allow changes the default model when item/block model predicates are met\r\n    - Added `append_models` to append models when item/block model predicates are met\r\n    - For block model modifiers, `show_breaking_overlay` can now be set per model entry\r\n  - Added block model predicates:\r\n    - Simple `true`, `false`, `and`, `or`, `not` types\r\n    - `match_block` checks whether the block at a certain offset matches certain blocks\r\n    - `match_state` checks whether the block at a certain offset matches certain blocks and state properties\r\n    - `biome` checks whether the block is in a biome\r\n    - `dimension` checks whether the block is in a dimension\r\n    - `altitude` checks whether the block's y-position is within a range\r\n  - Added item model predicates:\r\n    - Simple `true`, `false`, `and`, `or`, `not` types\r\n    - `count` checks if a stack's count is within a range\r\n    - `durability` checks if a stack's durability is within a range\r\n    - `enchantment` checks whether an enchantment is present has a certain level\r\n    - `match_name` checks whether an item's custom name matches a string or regex\r\n    - `potion` checks whether the stack has a potion type\r\n  - Added `composite` model type:\r\n    - Allows combining multiple models\r\n    - Models can be applied conditionally based on item and block predicates\r\n    - Models can be translated, scaled, and rotated\r\n- Texture related changes:\r\n  - Overhauled `TextureType` and how textures are loaded:\r\n    - Textures can now have multiple texture atlas sprites\r\n    - Textures can now have sub-textures\r\n    - Any model using a Fusion texture will now be loaded as a Fusion model\r\n    - Added generic quad processing for custom texture types\r\n  - Changes for `base` texture type:\r\n    - No longer requires a `base` model\r\n  - Changes for `connecting` texture type:\r\n    - No longer requires a `connecting` model\r\n    - Each tile is now its own sprite on the texture atlas\r\n    - Empty tiles (completely transparent) are ignored and not stitched or processed\r\n    - Tiles can now use a sub-texture type, through `sub_texture` property\r\n    - Animated image layout can now be per-tile, through `per_tile_animation` property\r\n    - Added an option for a default connection predicate, through `connections` property\r\n    - Changes to connection predicates:\r\n      - Added `true` and `false` types\r\n      - Added `ignore_missing` options for `match_block`, `match_state`, `match_block_in_front`, `match_state_in_front`\r\n      - Allow specifying multiple blocks for `match_block`, `match_state`, `match_block_in_front`, `match_state_in_front`\r\n  - Changes for `random` texture type:\r\n    - Each tile is now its own sprite on the texture atlas\r\n    - Empty tiles (completely transparent) are ignored and not stitched or processed\r\n    - Tiles can now use a sub-texture type, through `sub_texture` property\r\n    - Added randomness options `position`, `position_facing`, `position_axis`, through `random_source` property\r\n    - Animated image layout can now be per-tile, through `per_tile_animation` property\r\n    - Increased maximum `rows` and `columns` from 10 to 100\r\n  - Changes for `continuous` texture type:\r\n    - Default tile is now its own sprite on the texture atlas\r\n    - Increased maximum `rows` and `columns` from 10 to 32\r\n  - Changes for `scrolling` texture type:\r\n    - Added 'wrap' loop type to allow the frame to wrap around the image\r\n- General changes:\r\n  - Error messages are now printed in a user-friendly readable format\r\n  - Improved clarity of error messages\r\n- Bug fixes:\r\n  - Fixed handling of `full` layout connecting textures with a legacy square image\r\n  - Fixed inconsistent randomness for block model modifier models\r\n  - Fixed geometry key for block model modifiers\r\n  - Fixed handling of generated item models\r\n  - Fixed concurrency issue when using `pane_culling_fix` potentially leading to corrupted quads\r\n  - Fixed item transforms not getting serialized for base model data\r\n  - Fixed incorrect scaling of origin for rotation of base model data elements\r\n  - Fixed not all vanilla model properties being serializable through `cuboid` model type\r\n  - Fixed continuous textures not working correctly when rotated\r\n  - Fixed thin edges sometimes showing around connecting, continuous, and random textures\r\n  - Fixed sometimes broken mipmaps for Fusion textures on Minecraft 1.12\r\n  - Fixed integration with FramedBlocks on Minecraft 1.20.1 and 1.21.1\r\n  - Fixed inconsistent ordering of model modifiers on older Minecraft versions\r\n  - Fixed model ordering of appended models in block model modifiers not being maintained when some models are vanilla and some are not\r\n\r\n## Update to Minecraft 26.1\r\n\r\n### Fusion 1.2.12\r\n- Fixed handling of connections key references in connecting models\r\n- Fixed texture references added through base model data builder having an extra '#'\r\n\r\n### Fusion 1.2.11b\r\n- Fixed `enchantment` item model modifier predicate not working for enchanted books\r\n\r\n### Fusion 1.2.11a\r\n- Fixed crash with Sodium\r\n\r\n### Fusion 1.2.11\r\n- Initial release of Fusion for Minecraft 1.21.11\r\n",
+          "date_published": "2026-09-03T00:05:26.386342Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "19ec04ca9070e5468c491144e495af9e63c2fc6a455bc25597501b473b7e79aa6d0ce4cb840e27f3deb9c9db429d2c4f4a70f0c0f2987bce01da36bd7e7f1882",
+                "sha1": "0c02a3d574fa7533836128d2c2f96f7f5abdf3ec"
+              },
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/AFsho5bx/fusion-1.3.15-neoforge-mc26.1.jar",
+              "filename": "fusion-1.3.15-neoforge-mc26.1.jar",
+              "primary": true,
+              "size": 935257
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Rechiseled",
+        "version": "Rechiseled 1.2.5 for NeoForge 26.1",
+        "optional": true,
+        "file": "rechiseled-1.2.5-neoforge-mc26.1.jar",
+        "type": "mods",
+        "description": "Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 558998,
+        "curseForgeFileId": 8393820,
+        "curseForgeProject": {
+          "id": 558998,
+          "name": "Rechiseled",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "rechiseled",
+          "isFeatured": false,
+          "dateModified": "2026-09-11T15:53:58.21Z",
+          "dateCreated": "2022-01-05T07:53:55.62Z",
+          "dateReleased": "2026-09-11T15:40:00.34Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rechiseled",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SuperMartijn642/Rechiseled/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/Rechiseled"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/QEbGyUYB2e"
+            }
+          ],
+          "logo": {
+            "id": 473070,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/473/70/256/256/637764150842291454.png",
+            "title": "637764150842291454.png",
+            "url": "https://media.forgecdn.net/avatars/473/70/637764150842291454.png",
+            "modId": 558998
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 420202,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/202/310/172/2022-01-03_20.png",
+              "title": "Various Decorative Wood Blocks",
+              "url": "https://media.forgecdn.net/attachments/420/202/2022-01-03_20.png",
+              "modId": 558998
+            },
+            {
+              "id": 420203,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/203/310/172/2022-01-03_20.png",
+              "title": "Wooden Building",
+              "url": "https://media.forgecdn.net/attachments/420/203/2022-01-03_20.png",
+              "modId": 558998
+            },
+            {
+              "id": 420201,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/201/310/172/2022-01-03_21.png",
+              "title": "Various Decorative Stone Blocks",
+              "url": "https://media.forgecdn.net/attachments/420/201/2022-01-03_21.png",
+              "modId": 558998
+            },
+            {
+              "id": 420204,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/204/310/172/2022-01-03_18.png",
+              "title": "Decorative Variants of Vanilla Blocks",
+              "url": "https://media.forgecdn.net/attachments/420/204/2022-01-03_18.png",
+              "modId": 558998
+            },
+            {
+              "id": 1491510,
+              "description": "The interface of the chisel, allowing you to change between different blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1491/510/310/172/new-chiseling-screen-gif.gif",
+              "title": "Chiseling screen",
+              "url": "https://media.forgecdn.net/attachments/1491/510/new-chiseling-screen-gif.gif",
+              "modId": 558998
+            }
+          ],
+          "mainFileId": 8858597
+        },
+        "curseForgeFile": {
+          "id": 8393820,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Rechiseled 1.2.5 for NeoForge 26.1",
+          "fileName": "rechiseled-1.2.5-neoforge-mc26.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-07-08T13:46:20.44Z",
+          "fileLength": 11900700,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 438332,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 454372,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 854949,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 570817964,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2764365649,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3617655576,
+              "name": "rechiseled.mixins.json"
+            },
+            {
+              "fingerprint": 3118470809,
+              "name": "rechiseled.png"
+            },
+            {
+              "fingerprint": 870788954,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 4120627332,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1887870050,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9c37e38331c5b22becd2a0a6456421ced3d2bc18",
+              "algo": 1
+            },
+            {
+              "value": "37f63bfa6757cc9fc27682f14fe8b964",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2919615423,
+          "modId": 558998
+        },
+        "modrinthProject": {
+          "id": "B0g2vT6l",
+          "slug": "rechiseled",
+          "project_type": "mod",
+          "team": "yhMTJMdP",
+          "title": "Rechiseled",
+          "description": "Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!",
+          "body": "![Rechiseled](https://imgur.com/uGsS7I5.png)  \n\n**Rechiseled** allows you to exchange between various decorative blocks with connected textures!\nRechiseled adds over 600+ decorative variants of vanilla blocks!\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### <img width='32' src='https://imgur.com/V6R7ll8.png' alt='Chisel'> Chisel\nThe chisel allows you to exchange between various decorative variants of blocks.  \nYou can right-click the chisel to open the chiseling screen.  \nYou can left-click blocks to exchange between their decorative variants.\n<details>\n<summary>Recipe</summary>\n<img width='310' src='https://imgur.com/WQjOeRq.png' alt='Recipe for the Chisel'>\n</details>\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### Chiseling Screen\nThe chiseling screen allows to put in a block and preview all its variants as well as exachanging between all these variants and their stairs and slabs. Most blocks also have a version with and without connecting textures that the screen allows you to toggle between.\n\n<img width='480' src='https://imgur.com/BlbuIFV.gif' alt='Chiseling screen'><br>\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### In world chiseling\nThe chisel can be used to change already placed blocks as well. You can left-click block with the chisel to change them to a random variant. If there is a block stored in the chisel, it will be used as a filter and any left-clicked blocks will be transformed to that variant.\n\n<img width='476' src='https://i.imgur.com/2RRYnEK.gif' alt='In-world chiseling demo'><br>\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### Stairs and slabs\nMost of Rechiseled's decorative variants also have stairs and slabs. The stairs and slabs can also be obtained through the chiseling screen. The connecting textures will also connect between the full block, stairs, and slab of a variant.\n\n<img width='476' src='https://i.imgur.com/3zrBCgS.gif' alt='Connecting stairs and slabs demo'><br>\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### Addons\nYou can also check out these official addons for Rechiseled:\n\n### [<img alt='Rechiseled: Create' width='20' src='https://cdn.modrinth.com/data/E6867niZ/160d0983c4d1af06a9f3b0100f3da0f827901f7f_96.webp'> **Rechiseled: Create**](https://modrinth.com/mod/rechiseled-create)\nAdds the Mechanical Chisel which can automatically chisel blocks using constraptions from Create. The addon also adds 100+ decorative variants for blocks in Create.\n\n### [<img alt='Rechiseled: Applied Energistics 2' width='20' src='https://cdn.modrinth.com/data/1Tpwnc5h/8894f9e9febca4dd4abf99c13c3731a513126004_96.webp'> **Rechiseled: Applied Energistics 2**](https://modrinth.com/mod/rechiseled-applied-energistics-2)\nAdds the Chiseling Pattern Encoder which allows for autocrafting of recipes from Rechiseled with the storage systems from Applied Energistics 2 as well as adding 100+ new decorative variants of blocks in Applied Energistics 2.\n\n### [<img alt='Rechiseled: Cobblemon' width='20' src='https://cdn.modrinth.com/data/Mqaobp5i/39836d8dc22a5cd3ed88f51e1b6ba466c5cd824a_96.webp'> **Rechiseled: Cobblemon**](https://modrinth.com/mod/rechiseled-cobblemon)\nAdds decorative variants for the Tumblestone, Apricorn, and Saccharine block sets in Cobblemon.\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### FAQ\n**Does the chisel have durability?**  \nNo, the chisel can be used as many times as you want  \n**My blocks are not connecting, why is that?**  \nMost blocks have version a with and without connecting textures. You can toggle between these with the button in the bottom right of the chiseling screen  \n**Can I use your mod in my modpack?**  \nYes, feel free to use my mod in your modpack\n\n![Separator](https://imgur.com/msvPh45.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img alt='SuperMartijn642's Mods Discord invite' width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/msvPh45.png)",
+          "published": "2022-07-16T22:18:19.391954Z",
+          "updated": "2026-09-11T15:40:01.583822Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/B0g2vT6l/b3d1c0f2ed2ec55eed1d6cd59c3ceb8f23b6eba3_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/Rechiseled/issues",
+          "source_url": "https://github.com/SuperMartijn642/Rechiseled",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/B0g2vT6l/images/059227f6f8721260fecac40eda30c861d0d82cb8_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/B0g2vT6l/images/059227f6f8721260fecac40eda30c861d0d82cb8.png",
+              "featured": true,
+              "title": "Various Decorative Wood Blocks",
+              "created": "2022-07-16T22:18:13.975764Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/B0g2vT6l/images/0e177be5e8cfdee5f3b4f234687a7edb7347c8f4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/B0g2vT6l/images/0e177be5e8cfdee5f3b4f234687a7edb7347c8f4.png",
+              "featured": false,
+              "title": "Wooden Building",
+              "created": "2022-07-16T22:18:13.975764Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/B0g2vT6l/images/a1c8d0794bf4765b3125722497601f292d9a05a2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/B0g2vT6l/images/6cf9dcc8d5e7d3c3d352d8b6c5b32101a4aa13d6.png",
+              "featured": false,
+              "title": "Various Decorative Stone Blocks",
+              "created": "2022-07-16T22:18:13.975764Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/B0g2vT6l/images/fa27a7abf590a37a24d038be213e4549ee970ac4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/B0g2vT6l/images/2a85471aa3106d1e208f1e56bd73f5907cb55479.png",
+              "featured": false,
+              "title": "Decorative Variants of Vanilla Blocks",
+              "created": "2022-07-16T22:18:13.975764Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "bhoIwLZm",
+          "project_id": "B0g2vT6l",
+          "author_id": "3KDmigFH",
+          "name": "Rechiseled 1.2.5",
+          "version_number": "1.2.5-neoforge-mc26.1",
+          "changelog": "## Update to Minecraft 26.1\r\n\r\n### Rechiseled 1.2.5\r\n- Fixed non-connecting blocks also connecting with Fusion 1.3.0\r\n- Fixed texture for Compacted Coal Block\r\n\r\n### Rechiseled 1.2.4\r\n- Fixed chisel stack not always updating when shift-clicking items from its slot\r\n\r\n### Rechiseled 1.2.3\r\n- Replaced default JEI scrollbar with custom smooth scrolling\r\n- Fixed texture for Edged Block of Amethyst connecting incorrectly\r\n\r\n### Rechiseled 1.2.2\r\n- Fixed being able to obtain oversized item stacks from the chisel\r\n- Fixed crash when saving a chisel containing a stack with size greater than 99\r\n\r\n### Rechiseled 1.2.1\r\n- Fixed in-world chiseling not working when on a server\r\n\r\n### Rechiseled 1.2.0\r\n- Added stairs and slabs for all Rechiseled's decorative blocks\r\n- Overhauled the chiseling screen with a scrollbar, search field, filters, and stairs and slabs\r\n- Blocks can now be chiseled by left-clicking on them with a chisel\r\n- Rechiseled's textures now take up 76% less atlas space\r\n- Chiseling recipes can now have stairs and slabs\r\n- Improved integration with JEI and REI\r\n- Flowers and other vegetation can now be placed on dirt blocks from Rechiseled\r\n- Added stairs and slabs for vanilla chiseling recipe entries\r\n- Chiseling screen now displays more entries at once\r\n- Chiseling screen now shows an indicator for chiselable blocks in your inventory\r\n- Mods can now register plugins to add or modify chiseling recipes\r\n- Added tags for the blocks, stairs, and slabs of each block type in Rechiseled\r\n- Improved lighting of the chiseling screen preview\r\n- Fixed transparent blocks showing internal faces in chiseling screen preview\r\n- Fixed connecting blocks like glass panes not being connected in chiseling screen preview\r\n- Fixed a couple incorrectly aligned textures\r\n- Fixed crashes with the mod Quad\r\n\r\n### Rechiseled 1.1.6\r\n- Initial release of Rechiseled for Minecraft 1.21.11\r\n",
+          "date_published": "2026-07-08T13:46:22.197123Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "9c37e38331c5b22becd2a0a6456421ced3d2bc18",
+                "sha512": "61fa6971c103759493b29d1dbb7df4635a7df1191aa0aa84de5de9042e8be633aa8c45b7b8a6530ac23006c32b3dfc423ec974f3e06ee4340570d1ee13337aec"
+              },
+              "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/bhoIwLZm/rechiseled-1.2.5-neoforge-mc26.1.jar",
+              "filename": "rechiseled-1.2.5-neoforge-mc26.1.jar",
+              "primary": true,
+              "size": 11900700
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "rOUBggPv",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "LN9BxssP",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "p19vrgc2",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Rechiseled: Applied Energistics 2",
+        "version": "Rechiseled: Applied Energistics 2 1.0.1 for NeoForge 26.1",
+        "optional": true,
+        "file": "rechiseledae-1.0.1-neoforge-mc26.1.jar",
+        "type": "mods",
+        "description": "Allows autocrafting blocks from Rechiseled with AE2!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1483822,
+        "curseForgeFileId": 8394400,
+        "curseForgeProject": {
+          "id": 1483822,
+          "name": "Rechiseled: Applied Energistics 2",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Allows autocrafting blocks from Rechiseled with AE2!",
+          "categories": [
+            {
+              "name": "Applied Energistics 2",
+              "slug": "applied-energistics-2",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
+              "dateModified": "2015-09-14T14:18:48.563Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4545,
+              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "rechiseled-applied-energistics-2",
+          "isFeatured": false,
+          "dateModified": "2026-07-08T15:46:02.577Z",
+          "dateCreated": "2026-03-12T14:55:03.173Z",
+          "dateReleased": "2026-07-08T15:38:37.357Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-applied-energistics-2",
+            "issuesUrl": "https://github.com/SuperMartijn642/RechiseledAE2/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/RechiseledAE2"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/QEbGyUYB2e"
+            }
+          ],
+          "logo": {
+            "id": 1712746,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1712/746/256/256/639088652613345646.png",
+            "title": "639088652613345646.png",
+            "url": "https://media.forgecdn.net/avatars/1712/746/639088652613345646.png",
+            "modId": 1483822
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1577771,
+              "description": "The Chiseling Pattern Encoder displays the selected block on top, making it great for decoration!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1577/771/310/172/encoder-decoration-screenshot-png.png",
+              "title": "Chiseling Pattern Encoder",
+              "url": "https://media.forgecdn.net/attachments/1577/771/encoder-decoration-screenshot-png.png",
+              "modId": 1483822
+            }
+          ],
+          "mainFileId": 8394400
+        },
+        "curseForgeFile": {
+          "id": 8394400,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Rechiseled: Applied Energistics 2 1.0.1 for NeoForge 26.1",
+          "fileName": "rechiseledae-1.0.1-neoforge-mc26.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-07-08T15:38:37.357Z",
+          "fileLength": 923465,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 558998,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 223794,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4033880848,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1471133057,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1272375996,
+              "name": "rechiseledae.mixins.json"
+            },
+            {
+              "fingerprint": 1594657779,
+              "name": "rechiseledae.png"
+            },
+            {
+              "fingerprint": 2009875869,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2020077173,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3378693257,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "5b6bf9b7926bfbfa42727f9d7bcd0cd4c179cd60",
+              "algo": 1
+            },
+            {
+              "value": "4b4277edc2a06a8e39920ae808f402b4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 2178235650,
+          "modId": 1483822
+        },
+        "modrinthProject": {
+          "id": "1Tpwnc5h",
+          "slug": "rechiseled-applied-energistics-2",
+          "project_type": "mod",
+          "team": "tk1mKZ05",
+          "title": "Rechiseled: Applied Energistics 2",
+          "description": "Allows autocrafting blocks from Rechiseled with AE2!",
+          "body": "![Chiseling pattern encoder demo](https://i.imgur.com/iky83w6.gif)\n\n**Rechiseled: Applied Energistics 2** adds integration between Applied Energistics 2 and Rechiseled! The mod allows for autocrafting of recipes from Rechiseled with the storage systems from Applied Energistics 2 as well as adding 100+ new decorative variants of blocks in Applied Energistics 2!\n\n![Separator](https://imgur.com/0MeNaUZ.png)\n\n### Decorative Blocks\n\nBlocks for Certus Quartz, Fluix Crystals, and Sky Stone all get new decorative variants the can be obtained with the Chisel.\n\n<img alt='Certus Quartz blocks' width='270' src='https://imgur.com/EuNXjtz.png'>\n<img alt='Fluix blocks' width='270' src='https://imgur.com/J1q6Dkt.png'>\n<img alt='Sky Stone blocks' width='270' src='https://imgur.com/mQ75cRP.png'>\n<br><br>\n\n![Separator](https://imgur.com/0MeNaUZ.png)\n\n### Chiseling Patterns\n\nThe Chiseling Pattern Encoder is a new block that allows you to pick an input and output entry from chiseling recipes and encode them into a Chiseling Pattern. The chiseling pattern can then be used with a Molecular Assembler to allow for autocrafting similar to regular crafting recipes. \n(As a bonus, the Chiseling Pattern Encoder also displays the selected entry on top of the block, making it great for decoration!)\n\n<img alt=\"Chiseling Pattern Encoder interface\" width=800 src=\"https://imgur.com/gjOEjva.png\">  \n<br><br>\n\n![Separator](https://imgur.com/0MeNaUZ.png)\n\n### Frequently Asked Questions\n**Can I use your mod in my modpack?**  \nYes, feel free to use my mod in your modpack\n\n![Separator](https://imgur.com/0MeNaUZ.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/0MeNaUZ.png)",
+          "published": "2026-03-11T22:38:38.469700Z",
+          "updated": "2026-07-08T15:36:55.927756Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-CC-BY-NC-SA-3.0",
+            "name": "",
+            "url": "https://github.com/SuperMartijn642/RechiseledAE2#textures-license"
+          },
+          "categories": [
+            "decoration",
+            "technology"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/1Tpwnc5h/8894f9e9febca4dd4abf99c13c3731a513126004_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/RechiseledAE2/issues",
+          "source_url": "https://github.com/SuperMartijn642/RechiseledAE2",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/1Tpwnc5h/images/f6d68269bf5c3fbb9f8e119f511b3437902d49c7_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/1Tpwnc5h/images/f6d68269bf5c3fbb9f8e119f511b3437902d49c7.png",
+              "featured": true,
+              "title": "Chiseling Pattern Encoder",
+              "description": "The Chiseling Pattern Encoder displays the selected block on top, making it great for decoration!",
+              "created": "2026-03-12T01:09:52.980866Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1Tpwnc5h/images/61342123f67d5b4e41fba350610536223dba4e23_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/1Tpwnc5h/images/61342123f67d5b4e41fba350610536223dba4e23.png",
+              "featured": false,
+              "title": "All New Decorational Blocks",
+              "description": "All the decorative variants of Certus Quartz, Fluix, and Sky Stone blocks",
+              "created": "2026-03-12T01:37:06.343042Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ybi2wdmx",
+          "project_id": "1Tpwnc5h",
+          "author_id": "3KDmigFH",
+          "name": "Rechiseled: Applied Energistics 2 1.0.1",
+          "version_number": "1.0.1-neoforge-mc26.1",
+          "changelog": "## Update to Minecraft 26.1\r\n\r\n### Rechiseled: Applied Energistics 2 1.0.1\r\n- Fixed non-connecting blocks also connecting with Fusion 1.3.0\r\n\r\n### Rechiseled: Applied Energistics 2 1.0.0\r\n- Initial release of Rechiseled: Applied Energistics\r\n",
+          "date_published": "2026-07-08T15:36:55.927756Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "1f3bf3b0f78585efc262e06b382d42fcdd1298aaa7d0c5ef64a12095873e70fdb3376faa876e83683a13f9252c173948c8d2a93fe6c125534fb0e14678353a90",
+                "sha1": "5b6bf9b7926bfbfa42727f9d7bcd0cd4c179cd60"
+              },
+              "url": "https://cdn.modrinth.com/data/1Tpwnc5h/versions/ybi2wdmx/rechiseledae-1.0.1-neoforge-mc26.1.jar",
+              "filename": "rechiseledae-1.0.1-neoforge-mc26.1.jar",
+              "primary": true,
+              "size": 923465
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "XxWD5pD3",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "B0g2vT6l",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Not Enough Patterns",
+        "version": "Not Enough Patterns 26.1.2-0.5.1",
+        "optional": true,
+        "file": "nep-26.1.2-0.5.1.jar",
+        "type": "mods",
+        "description": "Adds better AE2 pattern compatibility for multiple mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1624304,
+        "curseForgeFileId": 8724408,
+        "curseForgeProject": {
+          "id": 1624304,
+          "name": "Not Enough Patterns",
+          "authors": [
+            {
+              "id": 101789980,
+              "name": "LegendaryRylex",
+              "url": "https://www.curseforge.com/members/legendaryrylex"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds better AE2 pattern compatibility for multiple mods",
+          "categories": [
+            {
+              "name": "Applied Energistics 2",
+              "slug": "applied-energistics-2",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
+              "dateModified": "2015-09-14T14:18:48.563Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4545,
+              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "not-enough-patterns",
+          "isFeatured": false,
+          "dateModified": "2026-09-09T16:28:21.657Z",
+          "dateCreated": "2026-07-27T10:42:53.02Z",
+          "dateReleased": "2026-08-24T14:04:18.907Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/not-enough-patterns",
+            "issuesUrl": "https://github.com/LegendaryRylex/not-enough-patterns/issues",
+            "sourceUrl": "https://github.com/LegendaryRylex/not-enough-patterns"
+          },
+          "logo": {
+            "id": 1948117,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1948/117/256/256/639208263094272724.png",
+            "title": "639208263094272724.png",
+            "url": "https://media.forgecdn.net/avatars/1948/117/639208263094272724.png",
+            "modId": 1624304
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 8724408
+        },
+        "curseForgeFile": {
+          "id": 8724408,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Not Enough Patterns 26.1.2-0.5.1",
+          "fileName": "nep-26.1.2-0.5.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-08-24T14:04:18.907Z",
+          "fileLength": 490961,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 892005,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1084104,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 223794,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 246640,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 304024,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1063926,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3114743521,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 541136703,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3862713149,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3453604119,
+              "name": "nep.advancedae.mixins.json"
+            },
+            {
+              "fingerprint": 1407826902,
+              "name": "nep.mixins.json"
+            },
+            {
+              "fingerprint": 3708592135,
+              "name": "nep.thunderbolt.mixins.json"
+            },
+            {
+              "fingerprint": 1669869369,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1551439185,
+              "name": "data"
+            },
+            {
+              "fingerprint": 516772423,
+              "name": "guide_filters"
+            },
+            {
+              "fingerprint": 1826688752,
+              "name": "LICENSE"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "005462f77370824b123798109c2e4e924f48010a",
+              "algo": 1
+            },
+            {
+              "value": "188a798056079df5c552ef164941c934",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3779913889,
+          "modId": 1624304
+        }
+      },
+      {
+        "name": "NoMoreCraters",
+        "version": "nomorecraters-1.0.0.jar",
+        "optional": true,
+        "file": "nomorecraters-1.0.0.jar",
+        "type": "mods",
+        "description": "this is a simple mixin mod to remove AE2 destructive worldgen, and converts meteors to buried/underwater with no craters impacting nearby structures",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1535626,
+        "curseForgeFileId": 8048925,
+        "curseForgeProject": {
+          "id": 1535626,
+          "name": "NoMoreCraters",
+          "authors": [
+            {
+              "id": 36387323,
+              "name": "ATMTeam",
+              "url": "https://www.curseforge.com/members/atmteam"
+            },
+            {
+              "id": 100737837,
+              "name": "thevortexFoxTopia",
+              "url": "https://www.curseforge.com/members/thevortexfoxtopia"
+            },
+            {
+              "id": 101028709,
+              "name": "LobsterJonn",
+              "url": "https://www.curseforge.com/members/lobsterjonn"
+            }
+          ],
+          "gameId": 432,
+          "summary": "this is a simple mixin mod to remove AE2 destructive worldgen, and converts meteors to buried/underwater with no craters impacting nearby structures",
+          "categories": [
+            {
+              "name": "Applied Energistics 2",
+              "slug": "applied-energistics-2",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
+              "dateModified": "2015-09-14T14:18:48.563Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4545,
+              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "nomorecraters",
+          "isFeatured": false,
+          "dateModified": "2026-09-08T19:22:28.27Z",
+          "dateCreated": "2026-05-08T05:52:43.46Z",
+          "dateReleased": "2026-05-06T17:01:29.057Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/nomorecraters"
+          },
+          "logo": {
+            "id": 1794546,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1794/546/256/256/639136835193236208.png",
+            "title": "639136835193236208.png",
+            "url": "https://media.forgecdn.net/avatars/1794/546/639136835193236208.png",
+            "modId": 1535626
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1667677,
+              "description": "2026-05-05_20.31.11 (Small).png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1667/677/310/172/2026-05-05_20-31-11-small-png.png",
+              "title": "2026-05-05_20.31.11 (Small).png",
+              "url": "https://media.forgecdn.net/attachments/1667/677/2026-05-05_20-31-11-small-png.png",
+              "modId": 1535626
+            },
+            {
+              "id": 1667678,
+              "description": "2026-05-05_20.41.15 (Small).png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1667/678/310/172/2026-05-05_20-41-15-small-png.png",
+              "title": "2026-05-05_20.41.15 (Small).png",
+              "url": "https://media.forgecdn.net/attachments/1667/678/2026-05-05_20-41-15-small-png.png",
+              "modId": 1535626
+            },
+            {
+              "id": 1667679,
+              "description": "2026-05-05_20.42.28 (Small).png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1667/679/310/172/2026-05-05_20-42-28-small-png.png",
+              "title": "2026-05-05_20.42.28 (Small).png",
+              "url": "https://media.forgecdn.net/attachments/1667/679/2026-05-05_20-42-28-small-png.png",
+              "modId": 1535626
+            }
+          ],
+          "mainFileId": 8048925
+        },
+        "curseForgeFile": {
+          "id": 8048925,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "nomorecraters-1.0.0.jar",
+          "fileName": "nomorecraters-1.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-05-06T17:01:29.057Z",
+          "fileLength": 6235,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1737587998,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 33786530,
+              "name": "com"
+            },
+            {
+              "fingerprint": 555696066,
+              "name": "nomorecraters.mixins.json"
+            },
+            {
+              "fingerprint": 1201838617,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2c321a46fe5daabed231fe81cf8be044795e7fa3",
+              "algo": 1
+            },
+            {
+              "value": "b75e2dd80570cbd9ea2468af5dfc853d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 4210568014,
+          "modId": 1535626
+        }
+      },
+      {
+        "name": "AttributeFix",
+        "version": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+        "optional": true,
+        "file": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+        "type": "mods",
+        "description": "Removes arbitrary limits on Minecraft's attribute system.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 280510,
+        "curseForgeFileId": 8383507,
+        "curseForgeProject": {
+          "id": 280510,
+          "name": "AttributeFix",
+          "authors": [
+            {
+              "id": 6968547,
+              "name": "DarkhaxDev",
+              "url": "https://www.curseforge.com/members/darkhaxdev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Removes arbitrary limits on Minecraft's attribute system.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6821,
+          "classId": 6,
+          "slug": "attributefix",
+          "isFeatured": false,
+          "dateModified": "2026-07-06T21:02:48.127Z",
+          "dateCreated": "2017-10-23T22:52:35.823Z",
+          "dateReleased": "2026-07-06T20:57:24.707Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+            "wikiUrl": "https://docs.darkhax.net/mods/attributefix?curseforge",
+            "issuesUrl": "https://github.com/Darkhax-Minecraft/AttributeFix/issues",
+            "sourceUrl": "https://github.com/Darkhax-Minecraft/AttributeFix"
+          },
+          "logo": {
+            "id": 981435,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/981/435/256/256/638488257660151687.png",
+            "title": "638488257660151687.png",
+            "url": "https://media.forgecdn.net/avatars/981/435/638488257660151687.png",
+            "modId": 280510
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8383509
+        },
+        "curseForgeFile": {
+          "id": 8383507,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+          "fileName": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-07-06T20:57:18.093Z",
+          "fileLength": 19294,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1023259,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3633475809,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2913467186,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3898083218,
+              "name": "attributefix.common.mixins.json"
+            },
+            {
+              "fingerprint": 4089978033,
+              "name": "attributefix.neoforge.mixins.json"
+            },
+            {
+              "fingerprint": 2632126595,
+              "name": "logo_attributefix.png"
+            },
+            {
+              "fingerprint": 1302837405,
+              "name": "license_attributefix.txt"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bba72608a77d6c046cb7edead875081cbe851694",
+              "algo": 1
+            },
+            {
+              "value": "14b1ebc70560de35ff4755c8c9032ddd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "fileFingerprint": 3347622306,
+          "modId": 280510
+        },
+        "modrinthProject": {
+          "id": "lOOpEntO",
+          "slug": "attributefix",
+          "project_type": "mod",
+          "team": "D9VMVOio",
+          "title": "AttributeFix",
+          "description": "Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!",
+          "body": "<p style=\"text-align:center\">Attribute Fixer</p>\n<p style=\"text-align:left\">Minecraft uses an attribute system to handle important calculations. It covers everything from armor values, to attack damage, to the maximum health of a mob. This system also introduced attribute caps, which limit how high any value can be. While this usually goes unnoticed, many mods are unknowingly affected by it. This mod significantly increases these caps to allow those mods to work as they were intended.</p>\n<p style=\"text-align:left\"><strong>Affected Attributes</strong></p>\n<ul>\n<li style=\"text-align:left\">Max Health</li>\n<li style=\"text-align:left\">Follow Range</li>\n<li style=\"text-align:left\">Knockback Resistance</li>\n<li style=\"text-align:left\">Movement Speed</li>\n<li style=\"text-align:left\">Attack Damage</li>\n<li style=\"text-align:left\">Attack Speed</li>\n<li style=\"text-align:left\">Armor&nbsp;</li>\n<li style=\"text-align:left\">Armor Toughness</li>\n<li style=\"text-align:left\">Luck</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**\n",
+          "published": "2023-06-07T06:12:44.154539Z",
+          "updated": "2026-07-06T20:57:30.551619Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/lOOpEntO/68a2de475417c87817e11f49beaa903e4774ca20_96.webp",
+          "issues_url": "https://github.com/Darkhax-Minecraft/AttributeFix/issues",
+          "source_url": "https://github.com/Darkhax-Minecraft/AttributeFix",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "sgmVOK63",
+          "project_id": "lOOpEntO",
+          "author_id": "TiqUUK2E",
+          "name": "AttributeFix-neoforge-26.1.2.3",
+          "version_number": "26.1.2.3",
+          "changelog": "- Add additional error logging and removed intentional crashes when mod is loaded improperly.    \n\nThis project is made possible with [Patreon](https://www.patreon.com/Darkhax) support from players like you! Thank you!    \n- lothrazar    \n- techsquirrel    \n- Tobias Ward    \n- noobanidus    ",
+          "date_published": "2026-07-06T20:57:23.942698Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "29f7c7bd8f950ba479c25ff737ef79245e057cab356a44d7597eef43f02cbfaf188d52fbda3feb15d0f4eb2fbf9b08a9e9556c2eb9538944530b2101d35d59a0",
+                "sha1": "bba72608a77d6c046cb7edead875081cbe851694"
+              },
+              "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/sgmVOK63/AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+              "filename": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+              "primary": true,
+              "size": 19294
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "aaRl8GiW",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "26.1",
+            "26.1.1",
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
@@ -18639,7 +22155,7 @@
     "lastPlayed": 1788879651209,
     "numPlays": 2,
     "lastExportName": "RAoE P1",
-    "lastExportVersion": "1.2.1",
+    "lastExportVersion": "1.2.2",
     "lastExportAuthor": "Lauriichan",
     "lastExportSaveTo": "G:\\Minecraft\\ATLauncher\\instances\\RAoEP1"
   },

@@ -8,7 +8,10 @@ A Random Assortment of Mods for 26.1.2
 - Apothic Enchanting ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting))
 - Apothic-Spawners ([Modrinth](https://modrinth.com/mod/apothic-spawners) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-spawners)) [26.1.2-2.0.1]
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)) [3.0.9+mc26.1]
+- Applied Energistics 2 ([Modrinth](https://modrinth.com/mod/ae2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)) [26.1.10-beta]
+- Applied Energistics 2 Wireless Terminals ([Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)) [26.1.1-beta]
 - Architectury API ([Modrinth](https://modrinth.com/mod/architectury-api) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)) [20.1.14+neoforge]
+- AttributeFix ([Modrinth](https://modrinth.com/mod/attributefix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix)) [26.1.2.3]
 - Balm ([Modrinth](https://modrinth.com/mod/balm) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)) [26.1.2.14+neoforge-26.1.2]
 - Butchery ([Modrinth](https://modrinth.com/mod/butchery) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/butchery)) [5.2]
 - Chimes ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/chimes))
@@ -32,7 +35,9 @@ A Random Assortment of Mods for 26.1.2
 - Extra Emeralds Please! ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-emeralds-please))
 - Extreme sound muffler ([Modrinth](https://modrinth.com/mod/extreme_sound_muffler) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)) [4.02-ALPHA-26.1.2]
 - FerriteCore ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [9.0.0-neoforge]
+- Fusion (Connected Textures) ([Modrinth](https://modrinth.com/mod/fusion-connected-textures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)) [1.3.15-neoforge-mc26.1]
 - Geophilic ([Modrinth](https://modrinth.com/mod/geophilic) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geophilic)) [3.6]
+- GuideME ([Modrinth](https://modrinth.com/mod/guideme) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme)) [26.1.12-beta]
 - Hardcore Revival ([Modrinth](https://modrinth.com/mod/hardcore-revival) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)) [26.1.2.7+neoforge-26.1.2]
 - Harvest with ease ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease))
 - Integrated Crafting ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting))
@@ -40,7 +45,9 @@ A Random Assortment of Mods for 26.1.2
 - Integrated NBT ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt))
 - Integrated Terminals ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals))
 - Integrated Tunnels ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels))
+- inzhefop's Core ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/inzhefop-core))
 - Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.11.3+26.1-neoforge]
+- Iron Generators ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-generators))
 - Iron Tanks ([Modrinth](https://modrinth.com/mod/iron-tanks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-tanks)) [3.3.1+mc26.1.2.neoforge]
 - Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [29.37.0.98]
 - Just Enough Professions (JEP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep))
@@ -49,11 +56,15 @@ A Random Assortment of Mods for 26.1.2
 - ModernFix ([Modrinth](https://modrinth.com/mod/modernfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix)) [5.27.22+mc26.1.2]
 - Mouse Tweaks ([Modrinth](https://modrinth.com/mod/mouse-tweaks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)) [26.1-2.31-neoforge]
 - No Chat Reports ([Modrinth](https://modrinth.com/mod/no-chat-reports) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)) [NeoForge-26.1-v2.19.0]
+- NoMoreCraters ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/nomorecraters))
+- Not Enough Patterns ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-patterns))
 - Patchouli ([Modrinth](https://modrinth.com/mod/patchouli) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)) [26.1-94-beta]
 - Pipez ([Modrinth](https://modrinth.com/mod/pipez) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pipez)) [neoforge-1.2.31+26.1.2]
 - Placebo ([Modrinth](https://modrinth.com/mod/placebo) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)) [26.1.2-10.0.2]
 - Prickle ([Modrinth](https://modrinth.com/mod/prickle) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/prickle)) [26.1.2.6]
 - Puzzles Lib ([Modrinth](https://modrinth.com/mod/puzzles-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)) [26.1.14]
+- Rechiseled ([Modrinth](https://modrinth.com/mod/rechiseled) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled)) [1.2.5-neoforge-mc26.1]
+- Rechiseled: Applied Energistics 2 ([Modrinth](https://modrinth.com/mod/rechiseled-applied-energistics-2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-applied-energistics-2)) [1.0.1-neoforge-mc26.1]
 - Retraining ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/retraining))
 - Seamless Trading ([Modrinth](https://modrinth.com/mod/seamlesstrading) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamlesstrading)) [1.3.0]
 - Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
@@ -63,4 +74,6 @@ A Random Assortment of Mods for 26.1.2
 - Sophisticated Storage ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage))
 - Sound Physics Remastered ([Modrinth](https://modrinth.com/mod/sound-physics-remastered) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)) [neoforge-1.5.1+26.1.2]
 - Starcatcher ([Modrinth](https://modrinth.com/mod/starcatcher) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starcatcher)) [3.1.4.1-NEOFORGE-26.1.2]
+- SuperMartijn642's Config Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)) [1.1.8-neoforge-mc26.1]
+- SuperMartijn642's Core Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)) [1.1.24a-neoforge-mc26.1]
 - Universal Bone Meal ([Modrinth](https://modrinth.com/mod/universal-bone-meal) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal)) [26.1.0]
