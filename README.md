@@ -41,6 +41,7 @@ A Random Assortment of Mods for 26.1.2
 - Integrated Terminals ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals))
 - Integrated Tunnels ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels))
 - Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.11.3+26.1-neoforge]
+- Iron Tanks ([Modrinth](https://modrinth.com/mod/iron-tanks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-tanks)) [3.3.1+mc26.1.2.neoforge]
 - Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)) [29.37.0.98]
 - Just Enough Professions (JEP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep))
 - Just Enough Resources (JER) ([Modrinth](https://modrinth.com/mod/just-enough-resources-jer) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)) [1.10.1.40]
@@ -49,6 +50,7 @@ A Random Assortment of Mods for 26.1.2
 - Mouse Tweaks ([Modrinth](https://modrinth.com/mod/mouse-tweaks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)) [26.1-2.31-neoforge]
 - No Chat Reports ([Modrinth](https://modrinth.com/mod/no-chat-reports) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)) [NeoForge-26.1-v2.19.0]
 - Patchouli ([Modrinth](https://modrinth.com/mod/patchouli) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)) [26.1-94-beta]
+- Pipez ([Modrinth](https://modrinth.com/mod/pipez) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pipez)) [neoforge-1.2.31+26.1.2]
 - Placebo ([Modrinth](https://modrinth.com/mod/placebo) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)) [26.1.2-10.0.2]
 - Prickle ([Modrinth](https://modrinth.com/mod/prickle) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/prickle)) [26.1.2.6]
 - Puzzles Lib ([Modrinth](https://modrinth.com/mod/puzzles-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)) [26.1.14]

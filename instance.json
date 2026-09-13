@@ -2376,18 +2376,6 @@
           "summary": "A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders",
           "categories": [
             {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -2398,6 +2386,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -2405,9 +2405,9 @@
           "classId": 6,
           "slug": "irisshaders",
           "isFeatured": false,
-          "dateModified": "2026-08-04T13:29:02.493Z",
+          "dateModified": "2026-09-13T00:17:10.103Z",
           "dateCreated": "2021-03-11T08:01:15.937Z",
-          "dateReleased": "2026-08-03T21:13:00.883Z",
+          "dateReleased": "2026-09-13T00:07:16.39Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
             "wikiUrl": "https://shaders.properties",
@@ -2424,7 +2424,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 8571919
+          "mainFileId": 8868972
         },
         "curseForgeFile": {
           "id": 8571918,
@@ -4794,18 +4794,6 @@
               "classId": 6
             },
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Magic",
               "slug": "magic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
@@ -4815,6 +4803,18 @@
               "id": 419,
               "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
               "classId": 6
             },
             {
@@ -8301,18 +8301,6 @@
           "summary": "A mod to take full and automated control of your appliances.",
           "categories": [
             {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -8325,18 +8313,6 @@
               "classId": 6
             },
             {
-              "name": "Automation",
-              "slug": "technology-automation",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
-              "dateModified": "2021-03-08T14:46:13.24Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4843,
-              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Processing",
               "slug": "technology-processing",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
@@ -8345,6 +8321,30 @@
               "isClass": false,
               "id": 413,
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
               "parentCategoryId": 412,
               "classId": 6
             }
@@ -8685,18 +8685,6 @@
           "summary": "Transfer other stuff over Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Integrated Dynamics",
-              "slug": "integrated-dynamics",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
-              "dateModified": "2024-02-06T12:50:12.453Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6954,
-              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
-              "parentCategoryId": 426,
-              "classId": 6
-            },
-            {
               "name": "Energy, Fluid, and Item Transport",
               "slug": "technology-item-fluid-energy-transport",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
@@ -8706,6 +8694,18 @@
               "id": 415,
               "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
               "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Integrated Dynamics",
+              "slug": "integrated-dynamics",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
+              "dateModified": "2024-02-06T12:50:12.453Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6954,
+              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
+              "parentCategoryId": 426,
               "classId": 6
             },
             {
@@ -8993,18 +8993,6 @@
           "summary": "Terminals for managing and overviewing Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Technology",
               "slug": "technology",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
@@ -9017,15 +9005,27 @@
               "classId": 6
             },
             {
-              "name": "Integrated Dynamics",
-              "slug": "integrated-dynamics",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
-              "dateModified": "2024-02-06T12:50:12.453Z",
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
               "gameId": 432,
               "isClass": false,
-              "id": 6954,
-              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
-              "parentCategoryId": 426,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
               "classId": 6
             },
             {
@@ -9041,15 +9041,15 @@
               "classId": 6
             },
             {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
+              "name": "Integrated Dynamics",
+              "slug": "integrated-dynamics",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
+              "dateModified": "2024-02-06T12:50:12.453Z",
               "gameId": 432,
               "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
+              "id": 6954,
+              "iconUrl": "https://media.forgecdn.net/avatars/944/336/638428206124514065.png",
+              "parentCategoryId": 426,
               "classId": 6
             }
           ],
@@ -9319,30 +9319,6 @@
           "summary": "Craft stuff in Integrated Dynamics networks",
           "categories": [
             {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Integrated Dynamics",
               "slug": "integrated-dynamics",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/integrated-dynamics",
@@ -9376,6 +9352,30 @@
               "id": 413,
               "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
               "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -10476,18 +10476,6 @@
           "summary": "Realistically butcher everything in Minecraft!",
           "categories": [
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Armor, Tools, and Weapons",
               "slug": "armor-weapons-tools",
               "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
@@ -10500,15 +10488,15 @@
               "classId": 6
             },
             {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
               "gameId": 432,
               "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
               "classId": 6
             },
             {
@@ -10524,15 +10512,27 @@
               "classId": 6
             },
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -15993,9 +15993,9 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2026-09-11T15:24:58.64Z",
+          "dateModified": "2026-09-13T06:51:13.493Z",
           "dateCreated": "2015-11-23T23:00:41.923Z",
-          "dateReleased": "2026-09-11T15:14:47.677Z",
+          "dateReleased": "2026-09-13T06:43:36.407Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
             "wikiUrl": "",
@@ -16013,19 +16013,11 @@
           "allowModDistribution": true,
           "screenshots": [
             {
-              "id": 31420,
+              "id": 31417,
               "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
-              "title": "Itemlist Edit Mode",
-              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
-              "modId": 238222
-            },
-            {
-              "id": 31419,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
-              "title": "Potions",
-              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
+              "title": "Recipe Completion",
+              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
               "modId": 238222
             },
             {
@@ -16037,11 +16029,19 @@
               "modId": 238222
             },
             {
-              "id": 31417,
+              "id": 31419,
               "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
-              "title": "Recipe Completion",
-              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
+              "title": "Potions",
+              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+              "modId": 238222
+            },
+            {
+              "id": 31420,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
+              "title": "Itemlist Edit Mode",
+              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
               "modId": 238222
             }
           ],
@@ -16319,9 +16319,9 @@
           "classId": 6,
           "slug": "starcatcher",
           "isFeatured": false,
-          "dateModified": "2026-09-10T22:58:26.69Z",
+          "dateModified": "2026-09-12T21:09:35.113Z",
           "dateCreated": "2025-10-03T08:32:32.333Z",
-          "dateReleased": "2026-09-10T22:42:08.733Z",
+          "dateReleased": "2026-09-12T20:48:37.49Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/starcatcher",
             "wikiUrl": "https://github.com/wdiscute/starcatcher/wiki",
@@ -16453,7 +16453,7 @@
               "modId": 1357603
             }
           ],
-          "mainFileId": 8853068
+          "mainFileId": 8867754
         },
         "curseForgeFile": {
           "id": 8834749,
@@ -18026,6 +18026,611 @@
             "optifine"
           ]
         }
+      },
+      {
+        "name": "Iron Tanks",
+        "version": "Iron Tanks v3.3.1 for neoforge 26.1.2",
+        "optional": true,
+        "file": "irontanks-3.3.1+mc26.1.2.neoforge.jar",
+        "type": "mods",
+        "description": "Expanding Buildcraft tanks similarly to the way IronChests expanded vanilla chests.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 236226,
+        "curseForgeFileId": 8786723,
+        "curseForgeProject": {
+          "id": 236226,
+          "name": "Iron Tanks",
+          "authors": [
+            {
+              "id": 70279,
+              "name": "Indemnity83",
+              "url": "https://www.curseforge.com/members/indemnity83"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Expanding Buildcraft tanks similarly to the way IronChests expanded vanilla chests.",
+          "categories": [
+            {
+              "name": "Buildcraft",
+              "slug": "addons-buildcraft",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/addons-buildcraft",
+              "dateModified": "2015-02-16T15:31:58.86Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 432,
+              "iconUrl": "https://media.forgecdn.net/avatars/14/463/635596759188303231.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 432,
+          "classId": 6,
+          "slug": "iron-tanks",
+          "isFeatured": false,
+          "dateModified": "2026-09-01T18:17:03.587Z",
+          "dateCreated": "2015-09-20T17:33:22.85Z",
+          "dateReleased": "2026-09-01T18:07:47.533Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/iron-tanks",
+            "wikiUrl": "https://logistics.fandom.com",
+            "issuesUrl": "https://github.com/indemnity83/irontank/issues",
+            "sourceUrl": "https://github.com/indemnity83/irontank"
+          },
+          "logo": {
+            "id": 26707,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/26/707/256/256/635796125683158307.png",
+            "title": "635796125683158307.png",
+            "url": "https://media.forgecdn.net/avatars/26/707/635796125683158307.png",
+            "modId": 236226
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 221524,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/524/310/172/coppertank.gif",
+              "title": "Copper Tank",
+              "url": "https://media.forgecdn.net/attachments/221/524/coppertank.gif",
+              "modId": 236226
+            },
+            {
+              "id": 221525,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/525/310/172/diamondtank.gif",
+              "title": "Diamond Tank",
+              "url": "https://media.forgecdn.net/attachments/221/525/diamondtank.gif",
+              "modId": 236226
+            },
+            {
+              "id": 221526,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/526/310/172/irontank.gif",
+              "title": "Iron Tank",
+              "url": "https://media.forgecdn.net/attachments/221/526/irontank.gif",
+              "modId": 236226
+            },
+            {
+              "id": 221527,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/527/310/172/silvertank.gif",
+              "title": "Silver Tank",
+              "url": "https://media.forgecdn.net/attachments/221/527/silvertank.gif",
+              "modId": 236226
+            },
+            {
+              "id": 221529,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/529/310/172/goldtank.gif",
+              "title": "Gold Tank",
+              "url": "https://media.forgecdn.net/attachments/221/529/goldtank.gif",
+              "modId": 236226
+            },
+            {
+              "id": 221530,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/221/530/310/172/obsidiantank.gif",
+              "title": "Obsidian Tank",
+              "url": "https://media.forgecdn.net/attachments/221/530/obsidiantank.gif",
+              "modId": 236226
+            }
+          ],
+          "mainFileId": 8786797
+        },
+        "curseForgeFile": {
+          "id": 8786723,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Iron Tanks v3.3.1 for neoforge 26.1.2",
+          "fileName": "irontanks-3.3.1+mc26.1.2.neoforge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-09-01T17:54:07.81Z",
+          "fileLength": 1158267,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2748333667,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 918428604,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2098134774,
+              "name": "sentry-debug-meta.properties"
+            },
+            {
+              "fingerprint": 2182499716,
+              "name": "sentry-external-modules.txt"
+            },
+            {
+              "fingerprint": 2208359863,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 938584689,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "054e2d5fd78c962ef5c51d99580729f967acfd61",
+              "algo": 1
+            },
+            {
+              "value": "f1562710389d5f4caf80190971bdcf70",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "Server",
+            "26.1.2"
+          ],
+          "fileFingerprint": 609666092,
+          "modId": 236226
+        },
+        "modrinthProject": {
+          "id": "qfbxKpLA",
+          "slug": "iron-tanks",
+          "project_type": "mod",
+          "team": "mPViFn0r",
+          "title": "Iron Tanks",
+          "description": "Expanding Buildcraft tanks similarly to the way IronChests expanded vanilla chests.",
+          "body": "# Iron Tanks\n\nIron Tanks is the original tiered fluid storage mod for Minecraft: better materials, bigger tanks, and more compact storage in the same one-block footprint.\n\nThe mod began as a BuildCraft add-on, bringing the same kind of storage progression to tanks that Iron Chests brought to vanilla chests. That legacy version is still available and still supported for Minecraft 1.12.2.\n\nFor modern Minecraft versions, Iron Tanks has moved beyond its BuildCraft dependency and now works as a standalone fluid storage mod. It no longer requires BuildCraft or any specific pipe mod, but it still fills the same role: simple, expandable, upgradeable fluid storage for modded Minecraft.\n\n## Features\n\n- Tiered tanks with increasing capacity\n- Stackable tanks that merge into one larger tank\n- In-world tank upgrades without breaking the tank or spilling its contents\n- Fluid rendering across connected tanks\n- Liquids settle toward the bottom; gases rise toward the top\n- Obsidian tanks resist explosions\n- Void tanks destroy incoming fluid\n- Creative tanks provide infinite fluid for creative/testing use\n- Modern versions support standard fluid APIs for compatibility with other mods\n- Legacy Minecraft 1.12.2 and earlier versions remain BuildCraft add-ons\n\n## Important: storage, not plumbing\n\nIron Tanks is a storage mod, not a pipe mod.\n\nOn its own, tanks can be filled and emptied by hand with buckets. For automated fluid movement, pair Iron Tanks with a mod that provides pipes, pumps, or machines.\n\nModern Iron Tanks does not require BuildCraft. Any compatible fluid transport mod that uses the standard fluid API should be able to interact with the tanks.\n\nLegacy releases for Minecraft 1.12.2 and earlier remain BuildCraft-based and are intended for older modpacks built around that ecosystem.\n\n## Tank tiers\n\nIron Tanks includes a range of tanks for different stages of progression:\n\n- Glass Tank\n- Copper Tank\n- Iron Tank\n- Silver Tank\n- Gold Tank\n- Diamond Tank\n- Emerald Tank\n- Obsidian Tank\n- Void Tank\n- Creative Tank\n\nSome tiers may depend on materials available in your Minecraft version or modpack. For example, silver may require another mod that adds silver ingots.\n\n## Which version should I use?\n\nUse the version that matches your Minecraft version and mod loader.\n\nModern releases, starting with the newer Minecraft versions, are standalone and available for current mod loaders such as NeoForge and Fabric.\n\nMinecraft 1.12.2 and earlier releases are the legacy BuildCraft add-on versions. They remain available for older modpacks and players who still use the classic BuildCraft ecosystem.\n\n## Optional crash diagnostics\n\nModern Iron Tanks versions include optional crash diagnostics to help fix bugs faster.\n\nCrash reporting is off by default and sends nothing unless an operator enables it. Reports are sanitized before being sent and are limited to Iron Tanks-related errors. You can preview exactly what would be sent before enabling diagnostics.\n\nRead more in https://github.com/Indemnity83/irontanks/blob/mc/26.1/CRASH_REPORTING.md\n\n## Legacy\n\n> “It's a start. From here, we go on to bigger and better things.”  \n> — Chris Carothers\n\nThat quote has been part of Iron Tanks since its original BuildCraft add-on days. It still fits: the mod has grown from a simple tank upgrade path into a long-running project with both modern standalone releases and legacy BuildCraft support.\n\n## Modpacks\n\nIron Tanks may be included in modpacks. No permission is required.",
+          "published": "2026-06-01T17:02:44.063433Z",
+          "updated": "2026-09-01T18:07:49.157562Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "storage"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/qfbxKpLA/1926efaf243f0750e46949661b4ba654590529d8_96.webp",
+          "issues_url": "https://github.com/Indemnity83/irontanks/issues",
+          "source_url": "https://github.com/Indemnity83/irontanks",
+          "wiki_url": "https://github.com/Indemnity83/irontanks/wiki",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://buymeacoffee.com/indemnity83"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/18f1aca0363665ca86440144f4edf54a2e2b717e.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/18f1aca0363665ca86440144f4edf54a2e2b717e.gif",
+              "featured": false,
+              "title": "Gold Tank",
+              "created": "2026-06-01T17:16:25.937566Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/1926efaf243f0750e46949661b4ba654590529d8.png",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/1926efaf243f0750e46949661b4ba654590529d8.png",
+              "featured": true,
+              "created": "2026-06-01T17:21:53.556091Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/1b0a14e331ef256217638c3bbcd82e93dab01ba5.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/1b0a14e331ef256217638c3bbcd82e93dab01ba5.gif",
+              "featured": false,
+              "title": "Diamond Tank",
+              "created": "2026-06-01T17:15:58.529839Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/39ec494fe321c65a7daeb4fe849688b48c8982d1.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/39ec494fe321c65a7daeb4fe849688b48c8982d1.gif",
+              "featured": false,
+              "title": "Copper Tank",
+              "created": "2026-06-01T17:15:48.204713Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/3aec400094ddfd127b0adcc3b8b5ef7b3b145afe.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/3aec400094ddfd127b0adcc3b8b5ef7b3b145afe.gif",
+              "featured": false,
+              "title": "Obsidian Tank",
+              "created": "2026-06-01T17:16:35.026739Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/71c82ba88c1103789056a380141f7a24616aae04.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/71c82ba88c1103789056a380141f7a24616aae04.gif",
+              "featured": false,
+              "title": "Iron Tank",
+              "created": "2026-06-01T17:16:07.855098Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/images/9540df994f0fde3b43f231db7327b4da18ef0f9c.gif",
+              "raw_url": "https://cdn.modrinth.com/data/qfbxKpLA/images/9540df994f0fde3b43f231db7327b4da18ef0f9c.gif",
+              "featured": false,
+              "title": "Silver Tank",
+              "created": "2026-06-01T17:16:17.429876Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "DQ8FM9VN",
+          "project_id": "qfbxKpLA",
+          "author_id": "G7nqJ0V9",
+          "name": "Iron Tanks v3.3.1 for neoforge 26.1.2",
+          "version_number": "3.3.1+mc26.1.2.neoforge",
+          "changelog": "## [3.3.1](https://github.com/Indemnity83/irontanks/compare/mc26.1-v3.3.0...mc26.1-v3.3.1) (2026-09-01)\n\n\n### Fixed\n\n* drop the tank block when a placed tank is mined ([#233](https://github.com/Indemnity83/irontanks/issues/233)) ([4a13dd0](https://github.com/Indemnity83/irontanks/commit/4a13dd00e4487fdc90698c5bf6b84553aa7cca80))",
+          "date_published": "2026-09-01T17:54:09.433015Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "6873ee89abdbf26d2c89c87c6aabc75ea601010c085314e17609c5e40444e9cda4bacbef89b553deb9d3f2fe36a9db9ec268469dea0c64ea6c704efe9a9d9203",
+                "sha1": "054e2d5fd78c962ef5c51d99580729f967acfd61"
+              },
+              "url": "https://cdn.modrinth.com/data/qfbxKpLA/versions/DQ8FM9VN/irontanks-3.3.1%2Bmc26.1.2.neoforge.jar",
+              "filename": "irontanks-3.3.1+mc26.1.2.neoforge.jar",
+              "primary": true,
+              "size": 1158267
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "cyW2SS1x",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Pipez",
+        "version": "[NEOFORGE][26.1.2] Pipez 1.2.31+26.1.2",
+        "optional": true,
+        "file": "pipez-neoforge-1.2.31+26.1.2.jar",
+        "type": "mods",
+        "description": "Simple and efficient pipes",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 443900,
+        "curseForgeFileId": 8351634,
+        "curseForgeProject": {
+          "id": 443900,
+          "name": "Pipez",
+          "authors": [
+            {
+              "id": 20569971,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Simple and efficient pipes",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Redstone",
+              "slug": "redstone",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
+              "dateModified": "2016-01-19T22:21:51.64Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4558,
+              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 415,
+          "classId": 6,
+          "slug": "pipez",
+          "isFeatured": false,
+          "dateModified": "2026-08-12T06:41:52.773Z",
+          "dateCreated": "2021-02-11T10:18:00.287Z",
+          "dateReleased": "2026-08-12T06:28:34.037Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pipez",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/henkelmax/pipez/issues",
+            "sourceUrl": "https://github.com/henkelmax/pipez"
+          },
+          "logo": {
+            "id": 342357,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/342/357/256/256/637486273248094570.png",
+            "title": "637486273248094570.png",
+            "url": "https://media.forgecdn.net/avatars/342/357/637486273248094570.png",
+            "modId": 443900
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8630085
+        },
+        "curseForgeFile": {
+          "id": 8351634,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NEOFORGE][26.1.2] Pipez 1.2.31+26.1.2",
+          "fileName": "pipez-neoforge-1.2.31+26.1.2.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-07-01T11:52:21.59Z",
+          "fileLength": 455657,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 245211,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 268560,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3482346024,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 156183908,
+              "name": "de"
+            },
+            {
+              "fingerprint": 4171325762,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3633700839,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 575713473,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3c84fb0a8d7e746f1dc2a6fa738e39f3ec58a575",
+              "algo": 1
+            },
+            {
+              "value": "cc3d4e4867622480a8a1f658ea547d74",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "26.1.2"
+          ],
+          "fileFingerprint": 4069667600,
+          "modId": 443900
+        },
+        "modrinthProject": {
+          "id": "iRmWy6ga",
+          "slug": "pipez",
+          "project_type": "mod",
+          "team": "m7CAIfwO",
+          "title": "Pipez",
+          "description": "Simple and efficient pipes",
+          "body": "This mod adds simple and highly configurable pipes that are designed to create as little lag as possible.\n\n![](https://i.imgur.com/F3Ja4m4.png)\n\n## Pipe Types\n\n- Item Pipes\n- Fluid Pipes\n- Energy Pipes\n- Gas Pipes ([Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism))\n- Universal Pipes (All 4 Pipes in one!)\n\n## Features\n\n- Highly configurable filter system\n  - Black-/Whitelisting\n  - Three redstone modes (ignore/on when powered/off when powered)\n  - Four distribution modes (round robin/nearest first/furthest first/random)\n  - Tag filtering\n  - Item/Fluid/Gas filtering\n  - Multiple filters at once\n  - Configurable destinations for each filter\n  - Blacklisting/Inverting of individual filters\n  - Copyable filters\n  - Custom NBT data\n  - Three NBT matching modes (match exact/match existing/match none)\n- Five upgrade tiers\n  - Basic\n  - Improved\n  - Advanced\n  - Ultimate\n  - Infinity (Not craftable by default)\n- Fully customizable transfer speeds\n- Disconnectable with wrenches\n- Extremely lag friendly\n  - **Only extracting pipes have block entities**\n  - Pipes don't load unnecessary chunks\n  - Server friendly\n  - Efficient rendering\n\n## Configuring Pipes\n\n**Pipes don't transfer anything if they are not set to extract.**\nYou can sneak-click onto the end of a connected pipe with a wrench to set it to extract.\n\nClick the extracting part of the pipe to change modes, add filters or add upgrades.\n\nPipes can be disconnected/reconnected by sneak-clicking with a wrench.\n\nBy default pipes are relatively slow. The speed can only be increased by adding an upgrade.\nHigher tiers of upgrades mean a higher transfer rate.\n\n![](https://media.giphy.com/media/RknAMZ8BPsAX73SCj9/giphy.gif)\n\nCertain features of pipes can only be used by adding a high enough upgrade:\n\n- Basic Upgrade\n  - Redstone modes\n- Improved Upgrade\n  - Distribution modes\n- Advanced Upgrade\n  - Filter modes\n  - Filters\n  \nEvery configuration you change and every filter you add is stored in the upgrade.\nYou can copy the data to other upgrades by crafting them together.\n\n### Filters\n\nFilters can be used with item pipes, fluid pipes and gas pipes.\n\n![](https://i.imgur.com/cO7Hr4Y.png)\n\n![](https://i.imgur.com/ThD0ou1.png)\n\n![](https://i.imgur.com/sFDCKEa.png)\n\nTo add a specific item, just click it on the slot in the filter GUI.\nAlternatively you can type the item ID in the text field next to it.\n\nIf the object you inserted had NBT data, the NBT string will be displayed in the second text area.\nYou can remove the NBT text if you don't want to match NBT tags.\n\nThere is also an option to only match the provided NBT data (Button with NBT on it).\nThis can be set to exact mode.\nThis causes only items that match that tag exactly to be accepted by the filter.\n\nFilters can be inverted by pressing the button with the paper on it.\nThis causes the filter to apply for the exact opposite of the provided data (except the destination).\n\nYou can also set the filter to only apply for a certain destination.\nFor this you need a filter destination tool.\nJust click the block your pipe inserts into with it so store the location and face of the block.\nNote that this doesn't work if you clicked a side of the block that the cable isn't connected to.\n\n![](https://media.giphy.com/media/TpGoZ3sLyuDXU9B5re/giphy.gif)\n\nTo set the location to a filter, put it into the destination slot of the filter GUI.\nThis will also display the destination block in the filter list.\n\n![](https://i.imgur.com/N5T9HWR.png)\n\nThe **Universal Pipe** has every feature of all other pipes combined.\nYou can choose which pipe type you want to configure with the tabs on the left of the GUI.\n\n![](https://i.imgur.com/0IXNja8.png)\n\n## Performance Comparison\n\nComparison between Pipez' item pipes and Mekanism's logistical transporters with about 4200 pipes.\n\n![](https://i.imgur.com/t6iJe4H.png)\n\n\nComparison between Pipez' item pipes and Mekanism's logistical transporters with about 7200 pipes.\nSince Mekanism calculates its pipe connections with a recursive algorithm it just crashes, due to a stack overflow.\n\n![](https://i.imgur.com/QTzFnqz.png)",
+          "published": "2022-06-23T14:27:45.850194Z",
+          "updated": "2026-08-12T06:28:43.817045Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/iRmWy6ga/be55098fe4886146924fd873e88169c10bf47051.png",
+          "issues_url": "https://github.com/henkelmax/pipez/issues",
+          "source_url": "https://github.com/henkelmax/pipez",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "1hVEeHBs",
+          "project_id": "iRmWy6ga",
+          "author_id": "mqxuCPbU",
+          "name": "[NEOFORGE][26.1.2] Pipez 1.2.31+26.1.2",
+          "version_number": "neoforge-1.2.31+26.1.2",
+          "changelog": "- Added compatibility with sable (Thanks 1foxy2)\n",
+          "date_published": "2026-07-01T11:52:33.835988Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "3c84fb0a8d7e746f1dc2a6fa738e39f3ec58a575",
+                "sha512": "4b6ca47e14da81588df113487b6ca2b293d0561edd4c99a8cd61bc2a81bbcf176074ee2179bd77dc2dfecbd1953ef02b116161e5e52fd6ba3c22751ecab4757f"
+              },
+              "url": "https://cdn.modrinth.com/data/iRmWy6ga/versions/1hVEeHBs/pipez-neoforge-1.2.31%2B26.1.2.jar",
+              "filename": "pipez-neoforge-1.2.31+26.1.2.jar",
+              "primary": true,
+              "size": 455657
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Ce6I4WUE",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Eyw0UxEx",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "nvQzSEkH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "26.1.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
@@ -18034,7 +18639,7 @@
     "lastPlayed": 1788879651209,
     "numPlays": 2,
     "lastExportName": "RAoE P1",
-    "lastExportVersion": "1.2.0",
+    "lastExportVersion": "1.2.1",
     "lastExportAuthor": "Lauriichan",
     "lastExportSaveTo": "G:\\Minecraft\\ATLauncher\\instances\\RAoEP1"
   },
